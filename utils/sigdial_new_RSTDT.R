@@ -1,6 +1,6 @@
 library(stringr)
 
-RSTDT_facts = read.table("/Users/janetliu/Desktop/PYR/NLPErrors4RST/data/RSTDT/RSTDT_facts.tab", stringsAsFactors = T, header=T,sep = "\t")
+RSTDT_facts = read.table("data/RSTDT/RSTDT_facts.tab", stringsAsFactors = T, header=T,sep = "\t")
 attach(RSTDT_facts)
 
 # explicit vs. implicit vs. distracting 

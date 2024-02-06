@@ -1,0 +1,128 @@
+1	15.4 The Union Triumphant	6	_	_	_	11	Organization_r	_	_
+2	Learning Objectives	5	_	_	_	11	Organization_r	_	_
+3	By the end of this section , you will be able to :	4	_	_	_	11	Organization_r	_	_
+4	Describe the reasons	3	_	_	_	11	Organization_r	_	_
+5	why many Americans doubted	0	_	_	_	6	Attribution_r	_	_
+6	that Abraham Lincoln would be reelected	0	_	_	_	4	Elaboration_r	_	_
+7	Explain	0	_	_	_	8	Attribution_r	_	_
+8	how the Union forces overpowered the Confederacy	1	_	_	_	4	Joint_m	_	_
+9	Describe the contributions and experiences of African Americans	2	_	_	_	11	Organization_r	_	_
+10	serving in the Civil War	0	_	_	_	9	Elaboration_r	_	_
+11	By the outset of 1864 , after three years of war , the Union had mobilized its resources for the ongoing struggle on a massive scale .	0	_	_	_	0	ROOT	_	_
+12	The government had overseen the construction of new railroad lines	0	_	_	_	11	Elaboration_r	_	_
+13	and for the first time used standardized rail tracks	0	_	_	_	12	Joint_m	_	_
+14	that allowed the North to move men and materials with greater ease .	0	_	_	_	13	Elaboration_r	_	_
+15	The North ’s economy had shifted to a wartime model .	1	_	_	_	12	Joint_m	_	_
+16	The Confederacy also mobilized , perhaps to a greater degree than the Union , its efforts	0	_	_	_	15	Joint_m	_	_
+17	to secure independence	0	_	_	_	16	Purpose_r	_	_
+18	and maintain slavery .	0	_	_	_	17	Joint_m	_	_
+19	Yet the Confederacy experienced ever - greater hardships after years of war .	1	_	_	_	16	Adversative_m	_	_
+20	Without the population of the North ,	0	_	_	_	21	Context_r	_	_
+21	it faced a shortage of manpower .	0	_	_	_	19	Causal_r	_	_
+22	The lack of industry ,	1	_	_	_	21	Causal_r	_	_
+23	compared to the North ,	0	_	_	_	22	Adversative_r	_	_
+24	undercut the ability	1	_	_	_	22	Same-Unit_m	_	_
+25	to sustain and wage war .	0	_	_	_	24	Purpose_r	_	_
+26	Rampant inflation as well as food shortages in the South lowered morale .	2	_	_	_	22	Joint_m	_	_
+27	THE RELATIONSHIP WITH EUROPE	1	_	_	_	28	Organization_r	_	_
+28	From the beginning of the war , the Confederacy placed great hope in being recognized and supported by Great Britain and France .	1	_	_	_	11	Joint_m	_	_
+29	European intervention in the conflict remained a strong possibility ,	1	_	_	_	30	Adversative_r	_	_
+30	but	0	_	_	_	28	Joint_m	_	_
+31	when it did occur ,	1	_	_	_	32	Context_r	_	_
+32	it was not in a way	0	_	_	_	30	Same-Unit_m	_	_
+33	anticipated by either the Confederacy or the Union .	0	_	_	_	32	Elaboration_r	_	_
+34	Napoleon III of France believed	1	_	_	_	35	Attribution_r	_	_
+35	the Civil War presented an opportunity	2	_	_	_	38	Context_r	_	_
+36	for him to restore a French empire in the Americas .	0	_	_	_	35	Purpose_r	_	_
+37	With the United States preoccupied ,	0	_	_	_	38	Context_r	_	_
+38	the time seemed ripe for action .	2	_	_	_	53	Adversative_r	_	_
+39	Napoleon ’s target was Mexico ,	1	_	_	_	40	Causal_r	_	_
+40	and in 1861 , a large French fleet took Veracruz .	1	_	_	_	38	Causal_r	_	_
+41	The French then moved	0	_	_	_	40	Joint_m	_	_
+42	to capture Mexico City ,	0	_	_	_	41	Purpose_r	_	_
+43	but the advance came to an end	1	_	_	_	41	Adversative_m	_	_
+44	when Mexican forces defeated the French in 1862 .	0	_	_	_	43	Context_r	_	_
+45	Despite this setback ,	1	_	_	_	46	Adversative_r	_	_
+46	France eventually did conquer Mexico ,	2	_	_	_	41	Joint_m	_	_
+47	establishing a regime	0	_	_	_	46	Causal_r	_	_
+48	that lasted until 1867 .	0	_	_	_	47	Elaboration_r	_	_
+49	Rather than coming to the aid of the Confederacy ,	1	_	_	_	50	Adversative_r	_	_
+50	France used the Civil War	2	_	_	_	40	Joint_m	_	_
+51	to provide a pretext for efforts	0	_	_	_	50	Purpose_r	_	_
+52	to reestablish its former eighteenth - century colonial holdings .	0	_	_	_	51	Purpose_r	_	_
+53	Still , the Confederacy had great confidence	0	_	_	_	28	Joint_m	_	_
+54	that it would find an ally in Great Britain	0	_	_	_	53	Elaboration_r	_	_
+55	despite the antislavery sentiment there .	0	_	_	_	54	Adversative_r	_	_
+56	Southerners hoped	0	_	_	_	57	Attribution_r	_	_
+57	Britain ’s dependence on cotton for its textile mills would keep the country on their side .	1	_	_	_	53	Elaboration_r	_	_
+58	The fact	1	_	_	_	62	Causal_r	_	_
+59	that the British proved willing to build and sell ironclad ships	0	_	_	_	58	Elaboration_r	_	_
+60	intended to smash through the Union naval blockade	0	_	_	_	59	Elaboration_r	_	_
+61	further raised Southern hopes .	1	_	_	_	58	Same-Unit_m	_	_
+62	The Confederacy purchased two of these armored blockade runners , the CSS Florida and the CSS Alabama .	1	_	_	_	57	Causal_m	_	_
+63	Both were destroyed during the war .	0	_	_	_	62	Elaboration_r	_	_
+64	The Confederacy ’s staunch commitment to slavery eventually worked against British recognition and support ,	3	_	_	_	53	Joint_m	_	_
+65	since Great Britain had abolished slavery in 1833 .	0	_	_	_	64	Context_r	_	_
+66	The 1863 Emancipation Proclamation ended any doubts	0	_	_	_	69	Causal_r	_	_
+67	the British had	0	_	_	_	66	Elaboration_r	_	_
+68	about the goals of the Union cause .	1	_	_	_	66	Same-Unit_m	_	_
+69	In the aftermath of the proclamation , many in Great Britain cheered for a Union victory .	3	_	_	_	53	Joint_m	_	_
+70	Ultimately , Great Britain , like France , disappointed the Confederacy ’s hope of an alliance ,	3	_	_	_	53	Joint_m	_	_
+71	leaving the outnumbered and out - resourced states	0	_	_	_	70	Causal_r	_	_
+72	that had left the Union	0	_	_	_	71	Elaboration_r	_	_
+73	to fend for themselves .	1	_	_	_	71	Same-Unit_m	_	_
+74	AFRICAN AMERICAN SOLDIERS	4	_	_	_	76	Context_r	_	_
+75	At the beginning of the war , in 1861 and 1862 , Union forces had used contrabands , or escaped enslaved people , for manual labor .	2	_	_	_	76	Context_r	_	_
+76	The Emancipation Proclamation , however , led to the enrollment of African American men as Union soldiers .	4	_	_	_	53	Elaboration_m	_	_
+77	Huge numbers of formerly enslaved as well as free Black people from the North enlisted ,	0	_	_	_	78	Context_r	_	_
+78	and by the end of the war in 1865 , their numbers had swelled to over 190,000 .	0	_	_	_	76	Elaboration_r	_	_
+79	Racism among White people in the Union army ran deep , however ,	1	_	_	_	78	Adversative_m	_	_
+80	fueling the belief	0	_	_	_	79	Causal_r	_	_
+81	that Black soldiers could never be effective or trustworthy .	0	_	_	_	80	Elaboration_r	_	_
+82	The Union also feared for the fate of captured Black soldiers .	1	_	_	_	80	Joint_m	_	_
+83	Although many Black soldiers saw combat duty ,	1	_	_	_	84	Adversative_r	_	_
+84	these factors affected the types of tasks	1	_	_	_	79	Explanation_r	_	_
+85	assigned to them .	0	_	_	_	84	Elaboration_r	_	_
+86	Many Black regiments were limited to hauling supplies ,	2	_	_	_	84	Explanation_r	_	_
+87	serving as cooks ,	0	_	_	_	86	Joint_m	_	_
+88	digging trenches ,	0	_	_	_	87	Joint_m	_	_
+89	and doing other types of labor ,	0	_	_	_	88	Joint_m	_	_
+90	rather than serving on the battlefield	0	_	_	_	89	Adversative_r	_	_
+91	( Figure 15.16 ) .	1	_	_	_	86	Explanation_r	_	_
+92	Figure 15.16	2	_	_	_	94	Organization_r	_	_
+93	This 1865 daguerreotype illustrates three of the Union ’s distinct advantages :	0	_	_	_	94	Organization_r	_	_
+94	African American soldiers , a stream of cannons and supplies , and an extensive railroad grid .	1	_	_	_	76	Context_r	_	_
+95	( credit :	0	_	_	_	96	Organization_r	_	_
+96	Library of Congress )	1	_	_	_	94	Attribution_r	_	_
+97	African American soldiers also received lower wages than their White counterparts :	3	_	_	_	76	Joint_m	_	_
+98	ten dollars per month ,	0	_	_	_	97	Elaboration_r	_	_
+99	with three dollars deducted for clothing .	0	_	_	_	98	Elaboration_r	_	_
+100	White soldiers , in contrast , received thirteen dollars monthly , with no deductions .	1	_	_	_	97	Adversative_m	_	_
+101	Abolitionists and their Republican supporters in Congress worked	1	_	_	_	103	Causal_r	_	_
+102	to correct this discriminatory practice ,	0	_	_	_	101	Purpose_r	_	_
+103	and in 1864 , Black soldiers began to receive the same pay as White soldiers plus retroactive pay to 1863	2	_	_	_	97	Joint_m	_	_
+104	( Figure 15.17 ) .	0	_	_	_	103	Explanation_r	_	_
+105	Figure 15.17	1	_	_	_	106	Organization_r	_	_
+106	African American and White soldiers of the Union army pose together in this photograph ,	3	_	_	_	97	Context_r	_	_
+107	although in reality , Black soldiers were often kept separate	0	_	_	_	106	Adversative_r	_	_
+108	and given only menial jobs .	0	_	_	_	107	Joint_m	_	_
+109	For their part , African American soldiers welcomed the opportunity	3	_	_	_	76	Joint_m	_	_
+110	to prove themselves .	0	_	_	_	109	Purpose_r	_	_
+111	Some 85 percent were formerly enslaved people	1	_	_	_	109	Elaboration_r	_	_
+112	who were fighting for the liberation of all of the enslaved and the end of slavery .	0	_	_	_	111	Elaboration_r	_	_
+113	When given the opportunity	0	_	_	_	115	Context_r	_	_
+114	to serve ,	0	_	_	_	113	Purpose_r	_	_
+115	many Black regiments did so heroically .	1	_	_	_	111	Context_r	_	_
+116	One such regiment , the Fifty - Fourth Regiment of Massachusetts Volunteers , distinguished itself at Fort Wagner in South Carolina	1	_	_	_	115	Elaboration_r	_	_
+117	by fighting valiantly against an entrenched Confederate position .	0	_	_	_	116	Mode_r	_	_
+118	They willingly gave their lives for the cause .	1	_	_	_	116	Causal_r	_	_
+119	The Confederacy , not surprisingly , showed no mercy to African American troops .	3	_	_	_	76	Joint_m	_	_
+120	In April 1864 , Southern forces attempted to take Fort Pillow in Tennessee from the Union forces	1	_	_	_	123	Context_r	_	_
+121	that had captured it in 1862 .	0	_	_	_	120	Elaboration_r	_	_
+122	Confederate troops under Major General Nathan Bedford Forrest , the future founder of the Ku Klux Klan , quickly overran the fort ,	0	_	_	_	123	Causal_r	_	_
+123	and the Union defenders surrendered .	0	_	_	_	119	Explanation_r	_	_
+124	Instead of taking the African American soldiers prisoner ,	2	_	_	_	123	Joint_m	_	_
+125	as they did the White soldiers ,	0	_	_	_	126	Adversative_r	_	_
+126	the Confederates executed them .	0	_	_	_	124	Adversative_m	_	_
+127	The massacre outraged the North ,	1	_	_	_	119	Causal_r	_	_
+128	and the Union refused to engage in any future exchanges of prisoners with the Confederacy .	0	_	_	_	127	Causal_r	_	_

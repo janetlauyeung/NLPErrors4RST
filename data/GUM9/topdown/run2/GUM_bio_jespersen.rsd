@@ -1,0 +1,111 @@
+1	Otto Jespersen	4	_	_	_	2	organization_r	_	_
+2	Jens Otto Harry Jespersen or Otto Jespersen	0	_	_	_	0	ROOT	_	_
+3	( Danish :	0	_	_	_	4	organization_r	_	_
+4	[ ʌtˢo ˈjɛsb̥ɐsn̩ ] ;	0	_	_	_	2	elaboration_r	_	_
+5	16 July 1860 – 30 April 1943 )	1	_	_	_	4	joint_m	_	_
+6	was a Danish linguist	1	_	_	_	2	same-unit_m	_	_
+7	who specialized in the grammar of the English language .	2	_	_	_	2	elaboration_r	_	_
+8	Early life	1	_	_	_	9	organization_r	_	_
+9	Otto Jespersen was born in Randers in Jutland .	3	_	_	_	2	elaboration_r	_	_
+10	He was inspired by the work of Danish philologist Rasmus Rask as a boy ,	0	_	_	_	9	joint_m	_	_
+11	and with the help of Rask 's grammars taught himself some Icelandic , Italian , and Spanish .	0	_	_	_	10	joint_m	_	_
+12	He entered the University of Copenhagen in 1877	1	_	_	_	10	joint_m	_	_
+13	when he was 17 ,	0	_	_	_	12	context_r	_	_
+14	initially studying law	1	_	_	_	12	elaboration_r	_	_
+15	but not forgetting his language studies .	0	_	_	_	14	adversative_m	_	_
+16	In 1881 he shifted his focus completely to languages ,	2	_	_	_	12	joint_m	_	_
+17	and in 1887 earned his master 's degree in French , with English and Latin as his secondary languages .	0	_	_	_	16	elaboration_r	_	_
+18	He supported himself during his studies through part - time work as a schoolteacher and as a shorthand reporter in the Danish parliament .	1	_	_	_	16	joint_m	_	_
+19	In 1887 – 1888 , he traveled to England , Germany and France ,	2	_	_	_	16	joint_m	_	_
+20	meeting linguists like Henry Sweet and Paul Passy	0	_	_	_	19	elaboration_r	_	_
+21	and attending lectures at institutions like Oxford University .	0	_	_	_	20	joint_m	_	_
+22	Following the advice of his mentor Vilhelm Thomsen ,	1	_	_	_	23	causal_r	_	_
+23	he returned to Copenhagen in August 1888	1	_	_	_	19	joint_m	_	_
+24	and began work on his doctoral dissertation on the English case system .	0	_	_	_	23	joint_m	_	_
+25	He successfully defended his dissertation in 1891 .	2	_	_	_	23	joint_m	_	_
+26	Academic life and work	2	_	_	_	27	organization_r	_	_
+27	Jespersen was a professor of English at the University of Copenhagen from 1893 to 1925 ,	2	_	_	_	9	joint_m	_	_
+28	and served as Rector of the university in 1920 – 21 .	0	_	_	_	27	joint_m	_	_
+29	His early work focused primarily on language teaching reform and on phonetics ,	1	_	_	_	27	joint_m	_	_
+30	but he is best known for his later work on syntax and on language development .	0	_	_	_	29	adversative_m	_	_
+31	He advanced the theories of Rank and Nexus in Danish in two papers :	1	_	_	_	29	joint_m	_	_
+32	Sprogets logik	0	_	_	_	31	elaboration_r	_	_
+33	( 1913 )	0	_	_	_	32	context_r	_	_
+34	and De to hovedarter af grammatiske forbindelser	1	_	_	_	32	same-unit_m	_	_
+35	( 1921 ) .	0	_	_	_	34	context_r	_	_
+36	Jespersen in this theory of ranks removes the parts of speech from the syntax ,	1	_	_	_	31	joint_m	_	_
+37	and differentiates between primaries , secondaries , and tertiaries ;	0	_	_	_	36	joint_m	_	_
+38	e.g. in " well honed phrase , " " phrase " is a primary ,	1	_	_	_	36	elaboration_r	_	_
+39	this being defined by a secondary , " honed " ,	0	_	_	_	38	elaboration_r	_	_
+40	which again is defined by a tertiary " well " .	0	_	_	_	39	elaboration_r	_	_
+41	The term Nexus is applied to sentences , structures similar to sentences and sentences in formation ,	2	_	_	_	36	joint_m	_	_
+42	in which two concepts are expressed in one unit ;	0	_	_	_	41	elaboration_r	_	_
+43	e.g. , it rained ,	0	_	_	_	42	elaboration_r	_	_
+44	he ran indoors .	0	_	_	_	43	joint_m	_	_
+45	This term is qualified by a further concept	1	_	_	_	41	joint_m	_	_
+46	called a junction	0	_	_	_	45	elaboration_r	_	_
+47	which represents one idea ,	1	_	_	_	45	elaboration_r	_	_
+48	expressed by means of two or more elements ,	0	_	_	_	47	elaboration_r	_	_
+49	whereas a nexus combines two ideas .	1	_	_	_	47	joint_m	_	_
+50	Junction and nexus proved valuable	2	_	_	_	41	evaluation_r	_	_
+51	in bringing the concept of context to the forefront of the attention of the world of linguistics .	0	_	_	_	50	causal_r	_	_
+52	He was most widely recognized for some of his books .	2	_	_	_	29	joint_m	_	_
+53	Language : Its Nature , Development and Origin	0	_	_	_	52	elaboration_r	_	_
+54	( 1922 )	0	_	_	_	53	context_r	_	_
+55	is considered by many to be his masterpiece .	1	_	_	_	53	same-unit_m	_	_
+56	Modern English Grammar on Historical Principles	1	_	_	_	52	joint_m	_	_
+57	( 1909 – 1949 ) ,	0	_	_	_	56	context_r	_	_
+58	concentrated on morphology and syntax ,	1	_	_	_	56	elaboration_r	_	_
+59	and Growth and Structure of the English Language	2	_	_	_	56	same-unit_m	_	_
+60	( 1905 )	0	_	_	_	59	context_r	_	_
+61	is a comprehensive view of English by someone with another native language , and still in print , over 70 years after his death and more than 100 years after publication .	3	_	_	_	56	same-unit_m	_	_
+62	Late in his life he published Analytic Syntax	2	_	_	_	52	joint_m	_	_
+63	( 1937 ) ,	0	_	_	_	62	context_r	_	_
+64	in which he presents his views on syntactic structure	1	_	_	_	62	elaboration_r	_	_
+65	using an idiosyncratic shorthand notation .	0	_	_	_	64	mode_r	_	_
+66	In The Philosophy of Grammar	1	_	_	_	68	context_r	_	_
+67	( 1924 )	0	_	_	_	66	context_r	_	_
+68	he challenged the accepted views of common concepts in Grammar	2	_	_	_	62	joint_m	_	_
+69	and proposed corrections to the basic definitions of grammatical case , pronoun , object , voice etc. ,	0	_	_	_	68	joint_m	_	_
+70	and developed further his notions of Rank and Nexus .	0	_	_	_	69	joint_m	_	_
+71	In the 21st century this book is still used as one of the basic texts in modern Structural linguistics .	2	_	_	_	68	joint_m	_	_
+72	Mankind , Nation and Individual :	3	_	_	_	52	joint_m	_	_
+73	from a linguistic point of view	0	_	_	_	72	mode_r	_	_
+74	( 1925 )	1	_	_	_	72	context_r	_	_
+75	is one of the pioneering works on Sociolinguistics .	2	_	_	_	72	same-unit_m	_	_
+76	Jespersen visited the United States twice :	4	_	_	_	52	joint_m	_	_
+77	he lectured at the Congress of Arts and Sciences in St. Louis in 1904 ,	0	_	_	_	76	elaboration_r	_	_
+78	and in 1909 – 1910 he visited both the University of California and Columbia University .	0	_	_	_	77	joint_m	_	_
+79	While in the U.S. ,	1	_	_	_	80	context_r	_	_
+80	he took occasion	1	_	_	_	76	joint_m	_	_
+81	to study the country 's educational system .	0	_	_	_	80	purpose_r	_	_
+82	His autobiography	2	_	_	_	76	joint_m	_	_
+83	( see below )	0	_	_	_	82	elaboration_r	_	_
+84	was published in English translation as recently as 1995 .	1	_	_	_	82	same-unit_m	_	_
+85	Jespersen was a proponent of phonosemanticism	3	_	_	_	76	joint_m	_	_
+86	and wrote :	2	_	_	_	87	attribution_r	_	_
+87	“ Is there really much more logic in the opposite extreme	0	_	_	_	85	joint_m	_	_
+88	which denies any kind of sound symbolism	0	_	_	_	87	elaboration_r	_	_
+89	( apart from the small class of evident echoisms and ‘ onomatopoeia ’ )	0	_	_	_	88	elaboration_r	_	_
+90	and sees in our words only a collection of accidental and irrational associations of sound and meaning ? ...	1	_	_	_	88	joint_m	_	_
+91	There is no denying	1	_	_	_	92	attribution_r	_	_
+92	that there are words	1	_	_	_	87	adversative_r_r	_	_
+93	which we feel instinctively to be adequate	0	_	_	_	92	elaboration_r	_	_
+94	to express the ideas	0	_	_	_	93	purpose_r	_	_
+95	they stand for . ”	0	_	_	_	94	elaboration_r	_	_
+96	After his retirement in 1925 , Jespersen remained active in the international linguistic community .	1	_	_	_	97	organization_r	_	_
+97	In addition to continuing to write ,	5	_	_	_	52	joint_m	_	_
+98	he convened and chaired the first International Meeting on Linguistic Research in Geneva in 1930 ,	0	_	_	_	97	joint_m	_	_
+99	and acted as president of the Fourth International Congress of Linguists in Copenhagen in 1936 .	0	_	_	_	98	joint_m	_	_
+100	Jespersen was an important figure in the international language movement .	2	_	_	_	97	joint_m	_	_
+101	He was an early supporter of the Esperanto offshoot Ido	0	_	_	_	100	explanation_r	_	_
+102	and in 1927 published his own project Novial .	0	_	_	_	101	joint_m	_	_
+103	He also worked with the International Auxiliary Language Association .	1	_	_	_	101	joint_m	_	_
+104	Jespersen received honorary degrees from Columbia University in New York	1	_	_	_	100	joint_m	_	_
+105	( 1910 ) ,	0	_	_	_	104	context_r	_	_
+106	St. Andrews University in Scotland	1	_	_	_	104	same-unit_m	_	_
+107	( 1925 ) ,	0	_	_	_	106	context_r	_	_
+108	and the Sorbonne in Paris	1	_	_	_	106	same-unit_m	_	_
+109	( 1927 ) .	0	_	_	_	108	context_r	_	_
+110	He was one of the first six international scholars	2	_	_	_	104	joint_m	_	_
+111	to be elected as honorary members of the Linguistic Society of America .	0	_	_	_	110	purpose_r	_	_

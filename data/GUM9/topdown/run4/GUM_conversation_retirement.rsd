@@ -1,0 +1,165 @@
+1	Sam has been , has taken such an interest in this retirement bit	0	_	_	_	0	ROOT	_	_
+2	that it — it really surprises me .	0	_	_	_	1	evaluation_r	_	_
+3	Well she 's begun to listen .	1	_	_	_	1	explanation_r	_	_
+4	Yes she has .	0	_	_	_	3	evaluation_r	_	_
+5	You know .	0	_	_	_	6	organization_r	_	_
+6	She has .	0	_	_	_	4	organization_r	_	_
+7	Uh , she used to go over	2	_	_	_	1	elaboration_r	_	_
+8	and read a book or something .	0	_	_	_	7	joint_m	_	_
+9	Yeah ,	1	_	_	_	7	joint_m	_	_
+10	or turn a deaf ear .	0	_	_	_	9	joint_m	_	_
+11	That was for sure .	2	_	_	_	7	evaluation_r	_	_
+12	But uh ,	3	_	_	_	7	joint_m	_	_
+13	once you understand it ,	1	_	_	_	15	context_r	_	_
+14	you know ,	0	_	_	_	15	organization_r	_	_
+15	you , you 're interested in getting right in , and going after it .	0	_	_	_	12	same-unit_m	_	_
+16	Yeah .	1	_	_	_	12	organization_r	_	_
+17	I really ought a call , at least Reg Barr ,	3	_	_	_	1	joint_m	_	_
+18	and ask	0	_	_	_	19	attribution_r	_	_
+19	if uh , he 's still speaking to me .	0	_	_	_	17	joint_m	_	_
+20	Well now , he was the one	1	_	_	_	17	explanation_r	_	_
+21	that was up on the left , up there .	0	_	_	_	20	elaboration_r	_	_
+22	Yeah .	1	_	_	_	20	organization_r	_	_
+23	Yeah .	0	_	_	_	22	restatement_m	_	_
+24	Yes .	0	_	_	_	23	restatement_m	_	_
+25	Well , he came over to you all smiles ,	2	_	_	_	20	restatement_m	_	_
+26	I noticed .	0	_	_	_	25	attribution_r	_	_
+27	Yes .	1	_	_	_	25	organization_r	_	_
+28	Well , we 've known each other for thirty - some years ,	0	_	_	_	29	explanation_r	_	_
+29	why would n't he ?	3	_	_	_	20	evaluation_r	_	_
+30	But a- anyway , um , I was so glad	0	_	_	_	31	evaluation_r	_	_
+31	that he opened up on this disclosure bit .	4	_	_	_	20	joint_m	_	_
+32	Because it was Burns that 's been objecting to our having it .	1	_	_	_	31	explanation_r	_	_
+33	Oh ?	0	_	_	_	32	organization_r	_	_
+34	And I knew this .	1	_	_	_	32	evaluation_r	_	_
+35	So when he opened up on that ,	2	_	_	_	32	elaboration_r	_	_
+36	and she followed through ,	0	_	_	_	35	joint_m	_	_
+37	and told about her husband ,	0	_	_	_	36	joint_m	_	_
+38	you know ?	1	_	_	_	35	organization_r	_	_
+39	Not necessarily that she would approve of it ,	2	_	_	_	40	adversative_r_r	_	_
+40	but at least she was n't disapproving .	2	_	_	_	35	evaluation_r	_	_
+41	Yeah .	0	_	_	_	40	organization_r	_	_
+42	Of it .	1	_	_	_	40	elaboration_r	_	_
+43	Yeah .	3	_	_	_	32	organization_r	_	_
+44	And uh , course Duvall might –	1	_	_	_	45	organization_r	_	_
+45	And I – I can not get over this .	4	_	_	_	1	evaluation_r	_	_
+46	That man .	0	_	_	_	45	evaluation_r	_	_
+47	I really can not .	0	_	_	_	46	restatement_m	_	_
+48	And you know ,	2	_	_	_	52	organization_r	_	_
+49	he must have been thinking ,	1	_	_	_	52	organization_r	_	_
+50	when he said	0	_	_	_	51	attribution_r	_	_
+51	he was n't a political appointee ,	0	_	_	_	52	context_r	_	_
+52	he must have been associating his relationship with Steitler .	2	_	_	_	45	explanation_r	_	_
+53	Oh .	2	_	_	_	54	organization_r	_	_
+54	I really do believe that .	3	_	_	_	52	evaluation_r	_	_
+55	Mhm .	0	_	_	_	54	organization_r	_	_
+56	In his thinking .	1	_	_	_	54	same-unit_m	_	_
+57	I do n't know	0	_	_	_	58	attribution_r	_	_
+58	how else he could have done it .	4	_	_	_	52	evaluation_r	_	_
+59	That topples over .	5	_	_	_	52	evaluation_r	_	_
+60	Um , but he did n't say that .	2	_	_	_	65	adversative_r_r	_	_
+61	Oh ?	0	_	_	_	60	organization_r	_	_
+62	He said ,	1	_	_	_	65	attribution_r	_	_
+63	I loved your hum- humor , uh ,	0	_	_	_	65	adversative_r_r	_	_
+64	and I love you ,	0	_	_	_	63	joint_m	_	_
+65	but , I am not a political appointee .	5	_	_	_	1	joint_m	_	_
+66	And his eyes were just snapping .	3	_	_	_	65	joint_m	_	_
+67	And I said ,	1	_	_	_	69	attribution_r	_	_
+68	Oh ?	0	_	_	_	69	organization_r	_	_
+69	How did you get on the board ?	5	_	_	_	71	topic_r	_	_
+70	Well he said ,	4	_	_	_	71	attribution_r	_	_
+71	I got a letter from the governor ,	0	_	_	_	66	joint_m	_	_
+72	asking .	0	_	_	_	71	elaboration_r	_	_
+73	Everybody on there is an app- political appointee ,	1	_	_	_	71	elaboration_r	_	_
+74	that was n't the point .	2	_	_	_	71	evaluation_r	_	_
+75	The point was ,	1	_	_	_	76	organization_r	_	_
+76	I could have mentioned what was in the paper about him ,	3	_	_	_	71	joint_m	_	_
+77	that he was related	0	_	_	_	76	joint_m	_	_
+78	and ,	0	_	_	_	77	joint_m	_	_
+79	you know ,	0	_	_	_	80	organization_r	_	_
+80	had business with Steitler ,	0	_	_	_	78	same-unit_m	_	_
+81	and I just said ,	1	_	_	_	82	organization_r	_	_
+82	and there 's Doctor Duvall ,	6	_	_	_	71	joint_m	_	_
+83	you know ?	0	_	_	_	82	organization_r	_	_
+84	And then I went to Rotus ,	2	_	_	_	82	joint_m	_	_
+85	who 's a seasoned politician ,	0	_	_	_	84	elaboration_r	_	_
+86	if there ever was one .	0	_	_	_	85	contingency_r	_	_
+87	Yeah .	1	_	_	_	84	organization_r	_	_
+88	He just would flare .	2	_	_	_	84	elaboration_r	_	_
+89	And I said ,	1	_	_	_	91	attribution_r	_	_
+90	well , I –	0	_	_	_	91	organization_r	_	_
+91	alright .	3	_	_	_	82	joint_m	_	_
+92	I said ,	1	_	_	_	93	attribution_r	_	_
+93	I 'll apologize next time ,	2	_	_	_	91	joint_m	_	_
+94	and I 'm gon na make hay out of it ,	0	_	_	_	93	joint_m	_	_
+95	do n't you worry .	2	_	_	_	93	adversative_r_r	_	_
+96	I wan na know	1	_	_	_	97	attribution_r	_	_
+97	how you birds got on that board ,	3	_	_	_	103	organization_r	_	_
+98	if you 're not political appointees .	0	_	_	_	97	contingency_r	_	_
+99	Mm .	2	_	_	_	97	organization_r	_	_
+100	Oh my .	3	_	_	_	97	organization_r	_	_
+101	Can I grow some basil ?	1	_	_	_	103	topic_r	_	_
+102	From seed ?	0	_	_	_	101	elaboration_r	_	_
+103	Yes ,	7	_	_	_	71	joint_m	_	_
+104	that 's how I 've –	1	_	_	_	106	organization_r	_	_
+105	I do n't have any this year ,	0	_	_	_	106	adversative_r_r	_	_
+106	but I 've grown it other years .	0	_	_	_	103	elaboration_r	_	_
+107	Well –	0	_	_	_	108	organization_r	_	_
+108	There 's no proble- .	1	_	_	_	109	organization_r	_	_
+109	It will not take any frost .	2	_	_	_	103	elaboration_r	_	_
+110	Soon as the b-	0	_	_	_	111	organization_r	_	_
+111	Yeah I –	1	_	_	_	113	organization_r	_	_
+112	A little bit of frost ,	0	_	_	_	113	context_r	_	_
+113	it 's gone .	0	_	_	_	109	elaboration_r	_	_
+114	I l- I learned that one time	2	_	_	_	109	joint_m	_	_
+115	the –	2	_	_	_	117	organization_r	_	_
+116	I learned	0	_	_	_	117	attribution_r	_	_
+117	it just went down .	0	_	_	_	114	causal_r	_	_
+118	The hard way .	1	_	_	_	117	elaboration_r	_	_
+119	Hm ?	1	_	_	_	120	topic_r	_	_
+120	Uh-huh .	1	_	_	_	114	organization_r	_	_
+121	Yes ?	0	_	_	_	120	organization_r	_	_
+122	Well , I think	0	_	_	_	123	attribution_r	_	_
+123	it was Barbara that has some seeds .	8	_	_	_	71	evaluation_r	_	_
+124	Just –	0	_	_	_	125	organization_r	_	_
+125	No problem .	1	_	_	_	123	evaluation_r	_	_
+126	It comes right up .	1	_	_	_	125	restatement_m	_	_
+127	Yeah .	0	_	_	_	126	organization_r	_	_
+128	Yeah .	0	_	_	_	127	restatement_m	_	_
+129	I –	0	_	_	_	130	organization_r	_	_
+130	Is n't that what you gave the neighbor one time ?	0	_	_	_	131	topic_r	_	_
+131	You gave him some kind of herb .	0	_	_	_	133	topic_r	_	_
+132	Did I give him some ?	1	_	_	_	131	restatement_r_r	_	_
+133	I gave him a red pepper .	2	_	_	_	137	topic_r	_	_
+134	I think	0	_	_	_	135	attribution_r	_	_
+135	you –	1	_	_	_	137	organization_r	_	_
+136	I think	0	_	_	_	137	attribution_r	_	_
+137	you gave him some herb of some kind .	1	_	_	_	138	topic_r	_	_
+138	I may have given – given him some basil , yes .	4	_	_	_	65	joint_m	_	_
+139	Yeah .	0	_	_	_	138	organization_r	_	_
+140	I do n't have any this year ,	2	_	_	_	138	joint_m	_	_
+141	I forgot to plant it .	0	_	_	_	140	causal_r	_	_
+142	I have oregano .	1	_	_	_	140	evaluation_r	_	_
+143	Yeah .	0	_	_	_	142	organization_r	_	_
+144	A good stand of it ,	1	_	_	_	142	elaboration_r	_	_
+145	if you want any .	0	_	_	_	144	contingency_r	_	_
+146	Yeah .	1	_	_	_	144	organization_r	_	_
+147	I have a lot of dried or- oregano .	2	_	_	_	142	elaboration_r	_	_
+148	Mm .	3	_	_	_	142	organization_r	_	_
+149	Is your cigarette out , everybody 's ?	0	_	_	_	150	topic_r	_	_
+150	Yeah , it 's out .	4	_	_	_	142	evaluation_r	_	_
+151	You smoked it down into the cork ,	1	_	_	_	150	evaluation_r	_	_
+152	did n't you ?	0	_	_	_	151	restatement_r_r	_	_
+153	Pardon ?	0	_	_	_	154	topic_r	_	_
+154	You smoked it down into the cork .	1	_	_	_	151	restatement_r_r	_	_
+155	Well , yeah ,	1	_	_	_	156	organization_r	_	_
+156	you do n't like that ,	3	_	_	_	160	adversative_r_r	_	_
+157	do you ,	0	_	_	_	156	restatement_r_r	_	_
+158	but –	1	_	_	_	160	organization_r	_	_
+159	No ,	0	_	_	_	160	adversative_r_r	_	_
+160	it chokes me to death .	2	_	_	_	151	evaluation_r	_	_
+161	It 's – it 's there ,	0	_	_	_	162	explanation_r	_	_
+162	might as well smoke it .	2	_	_	_	160	elaboration_r	_	_
+163	Oh .	3	_	_	_	151	evaluation_r	_	_
+164	No good .	0	_	_	_	163	joint_m	_	_
+165	No good .	0	_	_	_	164	restatement_m	_	_

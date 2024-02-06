@@ -1,0 +1,85 @@
+1	Emperor Norton	5	_	_	_	2	Organization_r	_	_
+2	Joshua Abraham Norton	0	_	_	_	0	ROOT	_	_
+3	( c. 1818 – January 8 , 1880 ) ,	0	_	_	_	2	Context_r	_	_
+4	known as Emperor Norton ,	1	_	_	_	2	Elaboration_r	_	_
+5	was a citizen of San Francisco , California ,	2	_	_	_	2	Same-Unit_m	_	_
+6	who in 1859 proclaimed himself " Norton I , Emperor of the United States " .	0	_	_	_	5	Elaboration_r	_	_
+7	He later expanded his pretense	3	_	_	_	2	Joint_m	_	_
+8	by claiming to be " Protector of Mexico " as well .	0	_	_	_	7	Mode_r	_	_
+9	Born in England ,	0	_	_	_	10	Context_r	_	_
+10	Norton spent most of his early life in South Africa .	4	_	_	_	2	Elaboration_m	_	_
+11	After the death of his mother in 1846 and his father in 1848 , he sailed west ,	1	_	_	_	10	Joint_m	_	_
+12	arriving in San Francisco possibly in November 1849 .	0	_	_	_	11	Elaboration_r	_	_
+13	Norton initially made a living as a businessman ,	1	_	_	_	10	Joint_m	_	_
+14	but he lost his fortune	0	_	_	_	13	Adversative_m	_	_
+15	investing in Peruvian rice .	0	_	_	_	14	Elaboration_r	_	_
+16	After he lost a lawsuit	0	_	_	_	18	Context_r	_	_
+17	in which he tried to void his rice contract ,	0	_	_	_	16	Elaboration_r	_	_
+18	Norton 's public prominence faded .	1	_	_	_	10	Joint_m	_	_
+19	He reemerged in September 1859 ,	1	_	_	_	10	Joint_m	_	_
+20	laying claim to the position of Emperor of the United States .	0	_	_	_	19	Elaboration_r	_	_
+21	He had no political power ,	1	_	_	_	19	Elaboration_r	_	_
+22	and his influence extended only so far	0	_	_	_	21	Joint_m	_	_
+23	as he was humored by those around him ;	0	_	_	_	22	Mode_r	_	_
+24	nevertheless , he was treated deferentially in San Francisco ,	1	_	_	_	21	Adversative_m	_	_
+25	and currency	0	_	_	_	24	Joint_m	_	_
+26	issued in his name	0	_	_	_	25	Elaboration_r	_	_
+27	was honored in the establishments	1	_	_	_	25	Same-Unit_m	_	_
+28	he frequented .	0	_	_	_	27	Elaboration_r	_	_
+29	Though some considered him insane or eccentric ,	2	_	_	_	30	Adversative_r	_	_
+30	citizens of San Francisco celebrated his regal presence and his proclamations , such as his order	1	_	_	_	10	Joint_m	_	_
+31	that the United States Congress be dissolved by force	0	_	_	_	30	Elaboration_r	_	_
+32	and his numerous decrees	1	_	_	_	30	Same-Unit_m	_	_
+33	calling for a bridge	0	_	_	_	32	Elaboration_r	_	_
+34	connecting San Francisco to Oakland ,	0	_	_	_	33	Elaboration_r	_	_
+35	and a corresponding tunnel to be built under San Francisco Bay .	1	_	_	_	33	Same-Unit_m	_	_
+36	Long after his death , similar structures were built in the form of the San Francisco – Oakland Bay Bridge and the Transbay Tube ,	3	_	_	_	30	Explanation_r	_	_
+37	and there have been campaigns	0	_	_	_	36	Joint_m	_	_
+38	to rename the bridge " The Emperor Norton Bridge " .	0	_	_	_	37	Purpose_r	_	_
+39	On January 8 , 1880 , Norton collapsed at the corner of California and Dupont	1	_	_	_	10	Joint_m	_	_
+40	( now Grant )	0	_	_	_	39	Elaboration_r	_	_
+41	streets	1	_	_	_	39	Same-Unit_m	_	_
+42	and died	1	_	_	_	10	Joint_m	_	_
+43	before he could be given medical treatment .	0	_	_	_	42	Context_r	_	_
+44	Nearly 30,000 people packed the streets of San Francisco	1	_	_	_	10	Joint_m	_	_
+45	to pay him homage at his funeral .	0	_	_	_	44	Purpose_r	_	_
+46	Norton has been immortalized as the basis of characters in the literature of writers Mark Twain , Robert Louis Stevenson , Christopher Moore , Morris and Goscinny , Selma Lagerlöf , and Neil Gaiman .	1	_	_	_	10	Joint_m	_	_
+47	Norton I , Emperor of the United States , photograph , c. 1871 – 72	1	_	_	_	48	Attribution_r	_	_
+48	Declares himself emperor	1	_	_	_	10	Joint_m	_	_
+49	Emperor Joshua Norton , in full military regalia , circa 1880 or earlier	0	_	_	_	48	Joint_m	_	_
+50	By 1859 , Norton had become completely disgruntled with what he considered the inadequacies of the legal and political structures of the United States .	1	_	_	_	51	Causal_r	_	_
+51	On September 17 , 1859 , he took matters into his own hands	1	_	_	_	54	Organization_r	_	_
+52	and distributed letters to the various newspapers in the city ,	0	_	_	_	51	Joint_m	_	_
+53	proclaiming himself " Emperor of these United States " :	0	_	_	_	52	Elaboration_r	_	_
+54	At the peremptory request and desire of a large majority of the citizens of these United States , I , Joshua Norton , formerly of Algoa Bay , Cape of Good Hope , and now for the last 9 years and 10 months past of S. F. , Cal. , declare and proclaim myself Emperor of these U. S. ;	0	_	_	_	63	Causal_r	_	_
+55	and in virtue of the authority thereby in me vested , do hereby order and direct the representatives of the different States of the Union to assemble in Musical Hall , of this city , on the 1st day of Feb. next ,	0	_	_	_	54	Joint_m	_	_
+56	then and there to make such alterations in the existing laws of the Union	0	_	_	_	55	Joint_r	_	_
+57	as may ameliorate the evils	0	_	_	_	56	Purpose_r	_	_
+58	under which the country is laboring ,	0	_	_	_	57	Elaboration_r	_	_
+59	and thereby cause confidence to exist , both at home and abroad , in our stability and integrity .	1	_	_	_	57	Joint_m	_	_
+60	— NORTON I , Emperor of the United States .	2	_	_	_	54	Attribution_r	_	_
+61	The announcement was first reprinted for humorous effect by the editor of the San Francisco Bulletin .	3	_	_	_	54	Elaboration_r	_	_
+62	Norton would later add " Protector of Mexico " to this title .	0	_	_	_	61	Joint_m	_	_
+63	Thus commenced his unprecedented and whimsical 21 - year " reign " over America .	0	_	_	_	48	Joint_m	_	_
+64	One of Norton 's undated proclamations	1	_	_	_	65	Organization_r	_	_
+65	In his self - appointed role of emperor , Norton issued numerous decrees on matters of the state .	0	_	_	_	85	Explanation_r	_	_
+66	After assuming absolute control over the country ,	0	_	_	_	67	Context_r	_	_
+67	he saw no further need for a legislature ,	1	_	_	_	68	Context_r	_	_
+68	and on October 12 , 1859 , he issued a decree	0	_	_	_	65	Joint_m	_	_
+69	formally abolishing the United States Congress .	0	_	_	_	68	Elaboration_r	_	_
+70	In it , Norton observed :	1	_	_	_	71	Attribution_r	_	_
+71	... fraud and corruption prevent a fair and proper expression of the public voice ;	2	_	_	_	68	Elaboration_r	_	_
+72	that open violation of the laws are constantly occurring ,	0	_	_	_	71	Joint_m	_	_
+73	caused by mobs , parties , factions and undue influence of political sects ;	0	_	_	_	72	Elaboration_r	_	_
+74	that the citizen has not that protection of person and property	1	_	_	_	72	Joint_m	_	_
+75	which he is entitled .	0	_	_	_	74	Elaboration_r	_	_
+76	Norton ordered all interested parties to assemble at Platt 's Music Hall in San Francisco in February 1860	3	_	_	_	68	Joint_m	_	_
+77	to " remedy the evil	0	_	_	_	76	Purpose_r	_	_
+78	complained of " .	0	_	_	_	77	Elaboration_r	_	_
+79	In an imperial decree the following month , Norton summoned the Army to depose the elected officials of the U.S. Congress :	1	_	_	_	76	Joint_m	_	_
+80	WHEREAS , a body of men	0	_	_	_	79	Adversative_r	_	_
+81	calling themselves the National Congress	0	_	_	_	80	Elaboration_r	_	_
+82	are now in session in Washington City , in violation of our Imperial edict of the 12th of October last ,	1	_	_	_	80	Same-Unit_m	_	_
+83	declaring the said Congress abolished ;	2	_	_	_	80	Elaboration_r	_	_
+84	WHEREAS , it is necessary for the repose of our Empire that the said decree should be strictly complied with ;	1	_	_	_	79	Evaluation_r	_	_
+85	NOW , THEREFORE , we do hereby Order and Direct Major - General Scott , the Command - in - Chief of our Armies , immediately upon receipt of this , our Decree , to proceed with a suitable force and clear the Halls of Congress .	0	_	_	_	48	Joint_m	_	_

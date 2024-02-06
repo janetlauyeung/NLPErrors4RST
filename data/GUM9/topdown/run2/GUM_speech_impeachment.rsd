@@ -1,0 +1,152 @@
+1	Madam Speaker ,	3	_	_	_	3	organization_r	_	_
+2	" I solemnly swear	2	_	_	_	3	attribution_r	_	_
+3	that in all things	4	_	_	_	34	context_r	_	_
+4	appertaining to the trial of the impeachment of Donald John Trump , President of the United States ,	0	_	_	_	3	elaboration_r	_	_
+5	now pending ,	0	_	_	_	4	elaboration_r	_	_
+6	I will do impartial justice	1	_	_	_	3	same-unit_m	_	_
+7	according to the Constitution and laws . "	0	_	_	_	6	mode_r	_	_
+8	That is the oath	4	_	_	_	3	elaboration_r	_	_
+9	Senators swore on January 16 .	0	_	_	_	8	elaboration_r	_	_
+10	It is the oath	1	_	_	_	8	elaboration_r	_	_
+11	created by Senators	0	_	_	_	10	elaboration_r	_	_
+12	when they tried the first impeachment of a President in 1868 .	0	_	_	_	11	context_r	_	_
+13	It is an oath	1	_	_	_	10	joint_m	_	_
+14	rooted in the Revolution	0	_	_	_	13	elaboration_r	_	_
+15	fought by their grandparents	0	_	_	_	14	elaboration_r	_	_
+16	to create a republic of laws , not kings .	0	_	_	_	15	purpose_r	_	_
+17	It is an oath	1	_	_	_	13	joint_m	_	_
+18	whose power derives from its common sense :	0	_	_	_	17	elaboration_r	_	_
+19	that a juror must always be impartial	0	_	_	_	18	elaboration_r	_	_
+20	for a trial to be fair .	0	_	_	_	19	purpose_r	_	_
+21	And it is an oath	2	_	_	_	13	joint_m	_	_
+22	made necessary by the fact	0	_	_	_	21	elaboration_r	_	_
+23	that Senators are not ,	0	_	_	_	22	elaboration_r	_	_
+24	as we are not ,	0	_	_	_	23	same-unit_m	_	_
+25	under normal circumstances , impartial in our work .	0	_	_	_	24	same-unit_m	_	_
+26	The words	1	_	_	_	29	attribution_r	_	_
+27	chosen for this oath	0	_	_	_	26	elaboration_r	_	_
+28	recognize	1	_	_	_	26	same-unit_m	_	_
+29	that	3	_	_	_	34	context_r	_	_
+30	when our Constitution calls Senators to try impeachment ,	0	_	_	_	31	context_r	_	_
+31	it calls them away from their role as partisans .	0	_	_	_	29	same-unit_m	_	_
+32	When that oath is taken ,	0	_	_	_	33	context_r	_	_
+33	Senators are supposed to step back from the affiliation of party or political kinship with or opposition to the President on trial .	2	_	_	_	34	context_r	_	_
+34	They are required ,	0	_	_	_	0	ROOT	_	_
+35	as the oath plainly states ,	0	_	_	_	34	mode_r	_	_
+36	to " do impartial justice	1	_	_	_	34	same-unit_m	_	_
+37	according to the Constitution and laws . "	0	_	_	_	36	mode_r	_	_
+38	Madam Speaker , this afternoon , Senators will be asked to vote on the two Articles of Impeachment	5	_	_	_	34	joint_m	_	_
+39	the House presented	0	_	_	_	38	elaboration_r	_	_
+40	on abuse of power and the obstruction of Congress .	1	_	_	_	38	elaboration_r	_	_
+41	After voting to refuse to hear evidence and call witnesses with pertinent information ,	1	_	_	_	43	context_r	_	_
+42	nearly all Republican Senators have already announced	0	_	_	_	43	attribution_r	_	_
+43	that they will vote against the articles .	2	_	_	_	38	elaboration_r	_	_
+44	In doing so ,	1	_	_	_	46	mode_r	_	_
+45	many of them acknowledge	0	_	_	_	46	attribution_r	_	_
+46	that what President Trump did was wrong and inappropriate .	2	_	_	_	43	elaboration_r	_	_
+47	They accept	1	_	_	_	48	attribution_r	_	_
+48	that it was wrong for him to withhold military aid to Ukraine	2	_	_	_	46	elaboration_r	_	_
+49	until the President of that country promised to interfere in the American elections .	0	_	_	_	48	context_r	_	_
+50	The evidence of President Trump 's abuse of power and attempt	3	_	_	_	46	elaboration_r	_	_
+51	to solicit foreign interference in the 2020 elections	0	_	_	_	50	purpose_r	_	_
+52	is clear enough	1	_	_	_	50	same-unit_m	_	_
+53	that Republican Senators can not and have not denied the facts ,	2	_	_	_	50	causal_r	_	_
+54	yet they can not bring themselves to confront this President	0	_	_	_	53	adversative_m	_	_
+55	and are choosing party over country .	0	_	_	_	54	joint_m	_	_
+56	The Senator from Alaska ,	3	_	_	_	38	joint_m	_	_
+57	in explaining her decision	0	_	_	_	56	elaboration_r	_	_
+58	to vote to block witnesses and evidence ,	0	_	_	_	57	purpose_r	_	_
+59	tried to deflect responsibility from the consequences of her actions ,	1	_	_	_	56	same-unit_m	_	_
+60	writing :	1	_	_	_	61	attribution_r	_	_
+61	" I have come to the conclusion	2	_	_	_	56	elaboration_r	_	_
+62	that there will be no fair trial in the Senate . "	0	_	_	_	61	elaboration_r	_	_
+63	I agree with that .	3	_	_	_	56	evaluation_r	_	_
+64	She further said :	1	_	_	_	66	attribution_r	_	_
+65	" It is sad for me today to admit	0	_	_	_	66	attribution_r	_	_
+66	that , as an institution , the Congress has failed . "	4	_	_	_	56	joint_m	_	_
+67	Madam Speaker , the Congress has not failed .	5	_	_	_	56	elaboration_r	_	_
+68	The House did its job ,	0	_	_	_	67	explanation_r	_	_
+69	whether you agree or not .	0	_	_	_	68	adversative_r_r	_	_
+70	In regular order , by a vote of this House , we impeached the President of the United States	1	_	_	_	68	elaboration_r	_	_
+71	based upon our oath	0	_	_	_	70	mode_r	_	_
+72	to protect and defend the Constitution of the United States .	0	_	_	_	71	purpose_r	_	_
+73	The House did its job	1	_	_	_	67	elaboration_r	_	_
+74	and did so with the solemnity	0	_	_	_	73	joint_m	_	_
+75	required	0	_	_	_	74	elaboration_r	_	_
+76	when undertaking the process of impeachment ,	0	_	_	_	75	context_r	_	_
+77	which we did not seek	0	_	_	_	78	adversative_r_r	_	_
+78	but accepted as our responsibility under the Constitution .	1	_	_	_	74	elaboration_r	_	_
+79	We held hearings ,	1	_	_	_	73	elaboration_r	_	_
+80	called witnesses ,	0	_	_	_	79	joint_m	_	_
+81	and subpoenaed documents .	0	_	_	_	80	joint_m	_	_
+82	Many of the witnesses and documents , of course , were withheld by the White House .	1	_	_	_	79	adversative_r_r	_	_
+83	It is the Senate that will fail	6	_	_	_	56	joint_m	_	_
+84	if Senators do not uphold their oaths to impartial justice .	0	_	_	_	83	contingency_r	_	_
+85	It is the Senate , Madam Speaker , that will fail	1	_	_	_	83	joint_m	_	_
+86	if it does not hold this President accountable	0	_	_	_	85	contingency_r	_	_
+87	for using a hold on military aid	0	_	_	_	86	purpose_r	_	_
+88	to compel an ally to interfere in our election for his own personal gain .	0	_	_	_	87	purpose_r	_	_
+89	History will judge poorly those	2	_	_	_	83	evaluation_r	_	_
+90	who choose fear of their party over the courage	0	_	_	_	89	elaboration_r	_	_
+91	to do the right thing .	0	_	_	_	90	purpose_r	_	_
+92	Neither the Speaker nor myself , nor the whip , Jim Clyburn , urged any member in our party to vote any way on impeachment .	1	_	_	_	95	adversative_r_r	_	_
+93	There was no lobbying .	0	_	_	_	92	elaboration_r	_	_
+94	There was no pressure .	0	_	_	_	93	joint_m	_	_
+95	Our members voted consistent with their oath of office and the conviction	3	_	_	_	83	elaboration_r	_	_
+96	that that vote was required by that oath	0	_	_	_	95	elaboration_r	_	_
+97	to protect and defend the Constitution .	0	_	_	_	96	purpose_r	_	_
+98	Americans will judge .	4	_	_	_	83	evaluation_r	_	_
+99	I am often asked	1	_	_	_	100	attribution_r	_	_
+100	why the House passed Articles of Impeachment	5	_	_	_	83	joint_m	_	_
+101	even knowing	1	_	_	_	102	attribution_r	_	_
+102	that the odds were slim	0	_	_	_	100	adversative_r_r	_	_
+103	that Senate Republicans would set aside partisanship	0	_	_	_	102	elaboration_r	_	_
+104	and hear the case as impartial jurors .	0	_	_	_	103	joint_m	_	_
+105	It is because	1	_	_	_	108	attribution_r	_	_
+106	I know	0	_	_	_	107	attribution_r	_	_
+107	future generations will look back on this chapter in our history and ask :	0	_	_	_	105	same-unit_m	_	_
+108	Who stood up for the Constitution and the laws ?	2	_	_	_	100	joint_m	_	_
+109	Who stood up for the values	0	_	_	_	108	joint_m	_	_
+110	our Founders charged us to keep ?	0	_	_	_	109	elaboration_r	_	_
+111	Who refused to shrink from the heavy responsibilities of their oath ?	1	_	_	_	109	joint_m	_	_
+112	I can be proud	1	_	_	_	113	attribution_r	_	_
+113	that the House did its job ,	3	_	_	_	100	joint_m	_	_
+114	followed the law ,	0	_	_	_	113	joint_m	_	_
+115	defended our Constitution .	0	_	_	_	114	joint_m	_	_
+116	We did not convict ;	2	_	_	_	118	adversative_r_r	_	_
+117	that is not our role .	0	_	_	_	116	evaluation_r	_	_
+118	Essentially , what we said was there was probable cause	2	_	_	_	113	joint_m	_	_
+119	that powers had been abused	0	_	_	_	118	elaboration_r	_	_
+120	and certainly cause	1	_	_	_	118	joint_m	_	_
+121	to see	0	_	_	_	122	attribution_r	_	_
+122	that the President refused to cooperate with the constitutional responsibilities of the House of Representatives .	0	_	_	_	120	purpose_r	_	_
+123	I am also proud of the House managers ,	3	_	_	_	113	joint_m	_	_
+124	as all of my colleagues on the Democratic side of the aisle are proud of our managers	0	_	_	_	123	evaluation_r	_	_
+125	who made their case .	1	_	_	_	123	elaboration_r	_	_
+126	They made their case with intellect .	2	_	_	_	123	elaboration_r	_	_
+127	They made their case with evidence	0	_	_	_	126	joint_m	_	_
+128	that had been adduced here in the House .	0	_	_	_	127	elaboration_r	_	_
+129	They made their case	1	_	_	_	127	joint_m	_	_
+130	and appealed to Senators	0	_	_	_	129	joint_m	_	_
+131	to hold this President accountable ,	0	_	_	_	130	purpose_r	_	_
+132	as our Founders intended .	0	_	_	_	131	mode_r	_	_
+133	Almost everybody has watched a trial either in person or on television .	0	_	_	_	134	context_r	_	_
+134	A trial is not an opening argument and a closing argument with nothing in between .	2	_	_	_	135	context_r	_	_
+135	Seventy - five percent of our people wanted to have witnesses	4	_	_	_	113	joint_m	_	_
+136	because that was their understanding	0	_	_	_	135	causal_r	_	_
+137	of what a trial is ,	0	_	_	_	136	elaboration_r	_	_
+138	not just argument at the beginning and argument at the end ,	1	_	_	_	135	elaboration_r	_	_
+139	but evidence	0	_	_	_	138	joint_m	_	_
+140	for jurors	0	_	_	_	139	purpose_r	_	_
+141	who have pledged to be impartial	0	_	_	_	140	elaboration_r	_	_
+142	to consider .	1	_	_	_	140	same-unit_m	_	_
+143	Any judge in this country would agree	0	_	_	_	144	attribution_r	_	_
+144	that opening and closing statements alone are not a trial .	3	_	_	_	135	joint_m	_	_
+145	Nevertheless , the House managers proved their case .	1	_	_	_	144	adversative_m	_	_
+146	The truth is clear .	0	_	_	_	145	explanation_r	_	_
+147	The American people know	1	_	_	_	148	attribution_r	_	_
+148	what that truth is	0	_	_	_	146	explanation_r	_	_
+149	and know	0	_	_	_	150	attribution_r	_	_
+150	what this President has done .	0	_	_	_	148	joint_m	_	_
+151	And they will remember	0	_	_	_	152	attribution_r	_	_
+152	who on this day abided by the truth , the whole truth , and nothing but the truth .	2	_	_	_	148	joint_m	_	_

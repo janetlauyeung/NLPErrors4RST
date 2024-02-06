@@ -1,0 +1,126 @@
+1	Hey what 's up guys ?	6	_	_	_	10	Organization_r	_	_
+2	Welcome back to my channel	5	_	_	_	10	Organization_r	_	_
+3	or welcome	0	_	_	_	2	Joint_m	_	_
+4	if you 're new .	0	_	_	_	3	Contingency_r	_	_
+5	Today I 'm doing another college day in my life .	4	_	_	_	10	Context_r	_	_
+6	And I just left Starbucks ,	1	_	_	_	8	Context_r	_	_
+7	do n't mind what I look like .	0	_	_	_	6	Restatement_r	_	_
+8	I literally just pretty much woke up	0	_	_	_	5	Context_r	_	_
+9	and left this morning .	0	_	_	_	8	Joint_m	_	_
+10	I 'm starting the review for all the chapters for my final exam ,	0	_	_	_	0	ROOT	_	_
+11	and it is a lot of information	0	_	_	_	12	Causal_r	_	_
+12	so I already planned on getting up early today and going .	0	_	_	_	10	Evaluation_r	_	_
+13	And then I 'm gon na do the same thing tomorrow .	1	_	_	_	10	Joint_m	_	_
+14	I basically like created a digital calendar	0	_	_	_	13	Elaboration_r	_	_
+15	where I 'm gon na go over each of the chapters ,	0	_	_	_	14	Elaboration_r	_	_
+16	just because I only have one week left	0	_	_	_	15	Causal_r	_	_
+17	to study .	0	_	_	_	16	Purpose_r	_	_
+18	I 'm back home now ,	1	_	_	_	19	Context_r	_	_
+19	and I basically just typed up a little calendar	1	_	_	_	14	Restatement_m	_	_
+20	laying out the chapters	0	_	_	_	19	Elaboration_r	_	_
+21	that I have left to review before Tuesday .	0	_	_	_	20	Elaboration_r	_	_
+22	That 's my final list	2	_	_	_	19	Evaluation_r	_	_
+23	and I hate	1	_	_	_	24	Attribution_r	_	_
+24	that , like , this week is our Thanksgiving break	0	_	_	_	22	Evaluation_r	_	_
+25	and then we literally come back Tuesday	0	_	_	_	24	Joint_m	_	_
+26	and take our final .	0	_	_	_	25	Joint_m	_	_
+27	So I 'm gon na be studying on Thanksgiving Day , Black Friday , and the whole weekend	2	_	_	_	10	Elaboration_r	_	_
+28	even though we 're going getting our Christmas tree	0	_	_	_	30	Attribution_r	_	_
+29	I think	0	_	_	_	28	Attribution_r	_	_
+30	on Saturday ,	0	_	_	_	27	Adversative_r	_	_
+31	and I I 'm not decorating	1	_	_	_	30	Joint_m	_	_
+32	I 'm not doing anything fun ,	0	_	_	_	31	Joint_m	_	_
+33	like I have to study .	0	_	_	_	32	Elaboration_r	_	_
+34	I thought	0	_	_	_	35	Attribution_r	_	_
+35	I would show you guys kind of how I 'm mapping this out ,	1	_	_	_	27	Context_m	_	_
+36	because it 's a really good tip	1	_	_	_	35	Causal_r	_	_
+37	if you have like a lot	0	_	_	_	36	Contingency_r	_	_
+38	to do .	0	_	_	_	37	Purpose_r	_	_
+39	So today I 'm doing female reproductive system , male reproductive system tomorrow .	3	_	_	_	10	Elaboration_r	_	_
+40	I work on Wednesday ,	0	_	_	_	39	Elaboration_r	_	_
+41	I 'm going to go over chapter 29 fluid balance , chapter 28 so urinary system on the 29th .	0	_	_	_	40	Elaboration_r	_	_
+42	The 30th , Chapters 17 through 22 -	0	_	_	_	41	Joint_m	_	_
+43	yes that 's like six chapters or something .	0	_	_	_	42	Evaluation_r	_	_
+44	And then on Sunday , I 'll be doing chapters 23 through 27	1	_	_	_	40	Elaboration_m	_	_
+45	and I just made this on my iPad	0	_	_	_	44	Elaboration_r	_	_
+46	and then printed it .	0	_	_	_	45	Joint_m	_	_
+47	I did not include my schedule for college algebra	2	_	_	_	49	Context_r	_	_
+48	because I have a final on Thursday of next week for that .	0	_	_	_	47	Causal_r	_	_
+49	So I 'm going to go in with like a different color	1	_	_	_	44	Adversative_r	_	_
+50	and add in the chapters	0	_	_	_	49	Joint_m	_	_
+51	I 'm gon na be studying for that ,	0	_	_	_	50	Elaboration_r	_	_
+52	but I 'm super stressed .	1	_	_	_	49	Evaluation_r	_	_
+53	I bought these Vans from DSW .	2	_	_	_	44	Joint_m	_	_
+54	They are really cute .	0	_	_	_	53	Evaluation_r	_	_
+55	You guys know	2	_	_	_	56	Organization_r	_	_
+56	I have the white ones	1	_	_	_	59	Evaluation_r	_	_
+57	and I wear them all the time	0	_	_	_	56	Joint_m	_	_
+58	and these ones are just like black perforated Vans .	1	_	_	_	56	Adversative_m	_	_
+59	I love them	1	_	_	_	70	Explanation_r	_	_
+60	and they are definitely the right size	0	_	_	_	59	Joint_m	_	_
+61	because I have two other pairs of Vans	0	_	_	_	63	Adversative_r	_	_
+62	that are this size ,	0	_	_	_	61	Elaboration_r	_	_
+63	but one of these ones is like messed up or something .	0	_	_	_	60	Causal_r	_	_
+64	I think	1	_	_	_	65	Attribution_r	_	_
+65	it 's like this part on the left foot	1	_	_	_	67	Causal_r	_	_
+66	because my foot feels super tight in only the left side ,	0	_	_	_	65	Causal_r	_	_
+67	so something 's up	2	_	_	_	59	Elaboration_r	_	_
+68	because they 're both the right size	0	_	_	_	67	Causal_r	_	_
+69	but I do n't know .	0	_	_	_	68	Adversative_r	_	_
+70	So I 'm gon na exchange them for another pair	0	_	_	_	54	Elaboration_r	_	_
+71	because something 's not right about that .	0	_	_	_	70	Causal_r	_	_
+72	Hey guys .	4	_	_	_	74	Organization_r	_	_
+73	So I just got finished at the library .	2	_	_	_	74	Context_r	_	_
+74	I just sat in there for like an hour and a half straight	5	_	_	_	80	Context_r	_	_
+75	and studied .	0	_	_	_	74	Joint_m	_	_
+76	I 'm really proud of myself	1	_	_	_	74	Evaluation_r	_	_
+77	and now I 'm about to go get some lunch ,	3	_	_	_	74	Joint_m	_	_
+78	and go to DSW	0	_	_	_	77	Joint_m	_	_
+79	and see if I can exchange those Vans .	0	_	_	_	78	Purpose_r	_	_
+80	So	7	_	_	_	10	Joint_m	_	_
+81	while I was in the library	1	_	_	_	82	Context_r	_	_
+82	one of you guys came up to me ,	0	_	_	_	80	Same-Unit_m	_	_
+83	and said hi .	0	_	_	_	82	Joint_m	_	_
+84	I feel so bad	1	_	_	_	80	Evaluation_r	_	_
+85	because I was so in the zone	0	_	_	_	84	Causal_r	_	_
+86	that I did n't even get her name .	0	_	_	_	85	Mode_r	_	_
+87	But	2	_	_	_	80	Adversative_m	_	_
+88	if you 're watching this ,	1	_	_	_	89	Contingency_r	_	_
+89	hi thank you so much	0	_	_	_	87	Same-Unit_m	_	_
+90	for coming	0	_	_	_	92	Contingency_r	_	_
+91	and saying hi to me	0	_	_	_	90	Joint_m	_	_
+92	you actually made my whole day .	0	_	_	_	89	Causal_r	_	_
+93	She said	1	_	_	_	94	Attribution_r	_	_
+94	she watches my videos	1	_	_	_	87	Elaboration_r	_	_
+95	and loves them .	0	_	_	_	94	Joint_m	_	_
+96	And you guys are so sweet ,	2	_	_	_	94	Evaluation_r	_	_
+97	I love making videos	0	_	_	_	96	Joint_m	_	_
+98	and it 's so nice to have that support .	0	_	_	_	97	Joint_m	_	_
+99	So	3	_	_	_	80	Restatement_m	_	_
+100	if you do go to FGCU	0	_	_	_	102	Contingency_r	_	_
+101	and you ever see me on campus ,	0	_	_	_	100	Joint_m	_	_
+102	like feel free to say hi	0	_	_	_	99	Same-Unit_m	_	_
+103	because you 'll make my day .	1	_	_	_	99	Explanation_r	_	_
+104	I just got out of DSW ,	1	_	_	_	105	Context_r	_	_
+105	and I spent like 30 minutes in there	1	_	_	_	111	Causal_r	_	_
+106	because it was just such a process for them to do an exchange .	0	_	_	_	105	Causal_r	_	_
+107	And then she had to scan	2	_	_	_	105	Context_m	_	_
+108	and go get the shoes	0	_	_	_	107	Joint_m	_	_
+109	and then she said	0	_	_	_	110	Attribution_r	_	_
+110	they did n't have the size .	2	_	_	_	105	Context_m	_	_
+111	So I ended up having to order them ,	2	_	_	_	117	Context_r	_	_
+112	but she said	0	_	_	_	113	Attribution_r	_	_
+113	there was no way to do a direct exchange .	1	_	_	_	114	Causal_r	_	_
+114	So she had to give me a return	0	_	_	_	111	Adversative_m	_	_
+115	and then re-ring it up .	0	_	_	_	114	Joint_m	_	_
+116	And oh my gosh	1	_	_	_	117	Organization_r	_	_
+117	I was literally in there for like 25 minutes	4	_	_	_	80	Elaboration_m	_	_
+118	all to just do a simple exchange for the exact same shoe .	0	_	_	_	117	Causal_r	_	_
+119	But it 's over now	0	_	_	_	120	Causal_r	_	_
+120	and they 're gon na send them to me in the mail .	3	_	_	_	117	Adversative_r	_	_
+121	Hopefully they 'll be here in about a week .	1	_	_	_	120	Elaboration_r	_	_
+122	I 'm just kind of sad	0	_	_	_	124	Causal_r	_	_
+123	that they did n't have them in stock ,	0	_	_	_	122	Evaluation_r	_	_
+124	so now I have to wait .	4	_	_	_	117	Evaluation_r	_	_
+125	But oh well it 's over with now ,	0	_	_	_	126	Organization_r	_	_
+126	we 're gon na go get lunch .	5	_	_	_	117	Adversative_m	_	_

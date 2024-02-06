@@ -1,0 +1,135 @@
+1	Escape The Room Employees , what is the weirdest thing	6	_	_	_	3	topic_r	_	_
+2	you 've seen someone do in one of the rooms ?	0	_	_	_	1	elaboration_r	_	_
+3	The most depressing shit I saw was a tired looking couple	0	_	_	_	0	ROOT	_	_
+4	who brought in their bespectacled , NASA shirt wearing , 8 year old geek of a son in	0	_	_	_	3	elaboration_r	_	_
+5	to have some fun .	0	_	_	_	4	purpose_r	_	_
+6	The parents could n't have been more discouraging to him .	1	_	_	_	3	elaboration_r	_	_
+7	He was excitedly bouncing around the room	0	_	_	_	6	explanation_r	_	_
+8	pointing out things	0	_	_	_	7	elaboration_r	_	_
+9	that he thought were clues clues	0	_	_	_	8	elaboration_r	_	_
+10	while the parents dismissed every idea	1	_	_	_	7	adversative_m	_	_
+11	he had	0	_	_	_	10	elaboration_r	_	_
+12	and told him to stop getting so excited .	1	_	_	_	10	joint_m	_	_
+13	The parents took charge	1	_	_	_	6	joint_m	_	_
+14	and proceeded to ignore the obvious clues	0	_	_	_	13	joint_m	_	_
+15	he was pointing out	0	_	_	_	14	elaboration_r	_	_
+16	and spent most of the time	1	_	_	_	14	joint_m	_	_
+17	pursuing dead ends .	0	_	_	_	16	elaboration_r	_	_
+18	Sad part is his instincts were more often than not correct	1	_	_	_	19	adversative_r_r	_	_
+19	but his parents just did n't listen	2	_	_	_	3	joint_m	_	_
+20	and refused to let him explore and try stuff out .	0	_	_	_	19	joint_m	_	_
+21	Hopefully his curiosity and enthusiasm survives them .	3	_	_	_	3	evaluation_r	_	_
+22	I feel like	1	_	_	_	24	attribution_r	_	_
+23	if it were in my power in any way ,	0	_	_	_	24	contingency_r	_	_
+24	that kid would have led his parents right through the damned thing .	4	_	_	_	3	evaluation_r	_	_
+25	If I were the ' operator ' of that site ,	2	_	_	_	26	contingency_r	_	_
+26	at the end I would have walked the family through every damn clue	2	_	_	_	24	joint_m	_	_
+27	the kid noticed	0	_	_	_	26	elaboration_r	_	_
+28	and made sure	1	_	_	_	30	attribution_r	_	_
+29	the parents knew	0	_	_	_	30	attribution_r	_	_
+30	the kid was right .	1	_	_	_	26	joint_m	_	_
+31	They probably wo n't	3	_	_	_	26	evaluation_r	_	_
+32	and he will develop chronic depression .	0	_	_	_	31	causal_r	_	_
+33	Me irl	3	_	_	_	24	evaluation_r	_	_
+34	That would seem to suggest	0	_	_	_	35	attribution_r	_	_
+35	parents are n't all knowing geniuses .	4	_	_	_	24	evaluation_r	_	_
+36	Say it a nit so ! !	5	_	_	_	24	evaluation_r	_	_
+37	I will not go	5	_	_	_	3	joint_m	_	_
+38	Turn the lights off	0	_	_	_	37	joint_m	_	_
+39	Carry me home	0	_	_	_	38	joint_m	_	_
+40	NANANANANANANANANANANANANANANANANANA	1	_	_	_	38	joint_m	_	_
+41	It amazes me the chunks of time	1	_	_	_	37	evaluation_r	_	_
+42	it takes for people to respond to these things D:&amp;gt;	0	_	_	_	41	elaboration_r	_	_
+43	1 year later	3	_	_	_	44	context_r	_	_
+44	Late night , come home	7	_	_	_	3	joint_m	_	_
+45	Work sucks ,	0	_	_	_	44	evaluation_r	_	_
+46	I know	0	_	_	_	47	attribution_r	_	_
+47	She left me roses by the stairs .	1	_	_	_	44	joint_m	_	_
+48	Not to over step my boundaries	0	_	_	_	49	adversative_r_r	_	_
+49	but ... what cunts .	1	_	_	_	47	evaluation_r	_	_
+50	That poor child deserves to be encouraged	2	_	_	_	44	joint_m	_	_
+51	and listened to . :(	0	_	_	_	50	joint_m	_	_
+52	This is the flaw with the premise of the movie Idiocracy .	4	_	_	_	44	joint_m	_	_
+53	My parents always did that	1	_	_	_	61	adversative_r_r	_	_
+54	when I was a kid	3	_	_	_	57	context_r	_	_
+55	whenever there was a problem	0	_	_	_	57	context_r	_	_
+56	that needing thinking through	0	_	_	_	55	elaboration_r	_	_
+57	they never let me help	0	_	_	_	53	causal_r	_	_
+58	or dismissed every idea	1	_	_	_	57	joint_m	_	_
+59	I had	0	_	_	_	58	elaboration_r	_	_
+60	simply because I was understandably a kid	2	_	_	_	57	causal_r	_	_
+61	but you still have to at least let your kids try and help	0	_	_	_	52	explanation_r	_	_
+62	or take their suggestions seriously	0	_	_	_	61	joint_m	_	_
+63	That s infuriating	1	_	_	_	52	evaluation_r	_	_
+64	because the whole point is to be adventurous and curious	0	_	_	_	63	explanation_r	_	_
+65	OH WAIT	0	_	_	_	66	organization_r	_	_
+66	I THOUGHT OF ANOTHER ONE	2	_	_	_	52	evaluation_r	_	_
+67	So we do proposals .	8	_	_	_	3	joint_m	_	_
+68	Ring in the final puzzle box , proposal signs , whole package deal ,	0	_	_	_	67	elaboration_r	_	_
+69	people love it .	0	_	_	_	68	evaluation_r	_	_
+70	Dude calls up	1	_	_	_	67	joint_m	_	_
+71	to set up a proposal ,	0	_	_	_	70	purpose_r	_	_
+72	I ask	0	_	_	_	73	attribution_r	_	_
+73	what room he wants etcetera .	1	_	_	_	70	joint_m	_	_
+74	So then I tell him the total price to book out the entire room for the proposal .	1	_	_	_	73	joint_m	_	_
+75	He says	0	_	_	_	76	attribution_r	_	_
+76	he just wants to buy the two tickets for him and his girlfriend ,	0	_	_	_	74	adversative_m	_	_
+77	I tell him	1	_	_	_	78	attribution_r	_	_
+78	we ca n't have strangers playing a game	2	_	_	_	73	joint_m	_	_
+79	that their experience is impacted / altered by the fact	0	_	_	_	78	elaboration_r	_	_
+80	that there 's a proposal	0	_	_	_	79	elaboration_r	_	_
+81	going on .	0	_	_	_	80	elaboration_r	_	_
+82	Proposal happens in an Escape Room ,	1	_	_	_	84	context_r	_	_
+83	there 's no longer a game ,	0	_	_	_	84	adversative_r_r	_	_
+84	it becomes about the proposal .	2	_	_	_	78	elaboration_r	_	_
+85	I know this	3	_	_	_	78	evaluation_r	_	_
+86	because I 've seen it happen a hundred times .	0	_	_	_	85	explanation_r	_	_
+87	Anyway , dude refuses to buy out all of the tickets .	3	_	_	_	73	joint_m	_	_
+88	Says	0	_	_	_	89	attribution_r	_	_
+89	he wants strangers to be there ,	0	_	_	_	87	joint_m	_	_
+90	he 's not going to buy the other four tickets .	1	_	_	_	89	adversative_m	_	_
+91	I hand the phone to my manager ,	2	_	_	_	70	joint_m	_	_
+92	they hash out details together .	0	_	_	_	91	joint_m	_	_
+93	Over the next three weeks	3	_	_	_	70	joint_m	_	_
+94	leading up to the proposal ,	0	_	_	_	93	elaboration_r	_	_
+95	this guy calls every . Single . Fucking . Day .	1	_	_	_	93	same-unit_m	_	_
+96	There 's nothing else to figure out ,	0	_	_	_	98	adversative_r_r	_	_
+97	we 've got it all set up ,	0	_	_	_	96	explanation_r	_	_
+98	but this guy is constantly badgering us .	2	_	_	_	93	evaluation_r	_	_
+99	The big day rolls around ,	1	_	_	_	100	context_r	_	_
+100	he arrives early	3	_	_	_	93	joint_m	_	_
+101	so he can hide out ,	0	_	_	_	100	purpose_r	_	_
+102	and this dude is a kid .	2	_	_	_	100	joint_m	_	_
+103	Like , pimple - faced , voice - cracking , hair - growing - in - weird - places kind of kid .	0	_	_	_	102	elaboration_r	_	_
+104	Everybody in the control room is talking about him ,	1	_	_	_	102	elaboration_r	_	_
+105	because he 's been a thorn in our collective sides for weeks ,	0	_	_	_	104	causal_r	_	_
+106	and we 're speculating about telling him	1	_	_	_	108	adversative_r_r	_	_
+107	marriage at his age is a horrible idea ,	0	_	_	_	106	mode_r	_	_
+108	but whatever	1	_	_	_	104	adversative_r_r	_	_
+109	it 's too late .	0	_	_	_	108	same-unit_m	_	_
+110	So he hides ,	3	_	_	_	100	joint_m	_	_
+111	the girl and her friends show up ,	0	_	_	_	110	joint_m	_	_
+112	they get started	0	_	_	_	111	joint_m	_	_
+113	and we stash the dude in the second hidden room	0	_	_	_	112	joint_m	_	_
+114	that they 'll eventually end up in .	0	_	_	_	113	elaboration_r	_	_
+115	Everybody crowds around the monitor	1	_	_	_	113	joint_m	_	_
+116	to watch	0	_	_	_	115	purpose_r	_	_
+117	and this guy pulls out a bouquet of flowers	1	_	_	_	115	joint_m	_	_
+118	and unfurls a sign	0	_	_	_	117	joint_m	_	_
+119	that says	0	_	_	_	120	attribution_r	_	_
+120	" NAME REDACTED , will you go with me to PROM ? "	0	_	_	_	118	elaboration_r	_	_
+121	And the entire staff loses their collective shit .	1	_	_	_	117	evaluation_r	_	_
+122	Weeks of constant pestering , endless phone calls , and the most stressful proposal deal	0	_	_	_	125	context_r	_	_
+123	we 've ever put together .	0	_	_	_	122	elaboration_r	_	_
+124	For a fucking PROMposal .	1	_	_	_	122	purpose_r	_	_
+125	She said no .	2	_	_	_	117	elaboration_r	_	_
+126	cheers for the girl	1	_	_	_	128	organization_r	_	_
+127	saying no	0	_	_	_	126	elaboration_r	_	_
+128	Made my day .	2	_	_	_	113	evaluation_r	_	_
+129	" Shes said no "	0	_	_	_	128	explanation_r	_	_
+130	You ok ?	2	_	_	_	128	evaluation_r	_	_
+131	What a fucking niche name . .	0	_	_	_	130	evaluation_r	_	_
+132	parents must have been hippies	3	_	_	_	128	joint_m	_	_
+133	who thought their daughter did n't need to be labeled by society .	0	_	_	_	132	elaboration_r	_	_
+134	Or Ron Swanson .	1	_	_	_	132	elaboration_r	_	_
+135	AND I M DEAD	2	_	_	_	132	evaluation_r	_	_

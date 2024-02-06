@@ -1,0 +1,94 @@
+1	Digital Humanities Clinics -	6	_	_	_	10	Organization_r	_	_
+2	Leading Dutch Librarians into DH	0	_	_	_	1	Organization_r	_	_
+3	Michiel Cock m.p.cock@vu.nl Vrije Universiteit Amsterdam , the Netherlands	5	_	_	_	10	Context_r	_	_
+4	Lotte Wilms lotte.wilms@kb.nl National Library of the Netherlands , the Netherlands	0	_	_	_	3	Restatement_r	_	_
+5	In 2015 , an initiative was started	3	_	_	_	10	Context_r	_	_
+6	to set up a Dutch speaking DH+Lib community in the Netherlands and Belgium ,	0	_	_	_	5	Purpose_r	_	_
+7	based on the example of the American communal space of librarians , archivists , LIS graduate students , and information specialists	0	_	_	_	6	Mode_r	_	_
+8	to discuss topics	0	_	_	_	7	Purpose_r	_	_
+9	‘ Where the Digital Humanities and Libraries meet ’ .	0	_	_	_	8	Elaboration_r	_	_
+10	At the initial meeting it became apparent that most participants were there	0	_	_	_	0	ROOT	_	_
+11	to learn more about digital humanities	0	_	_	_	10	Purpose_r	_	_
+12	and were not	1	_	_	_	10	Adversative_m	_	_
+13	( yet )	0	_	_	_	12	Adversative_r	_	_
+14	in the situation	1	_	_	_	12	Same-Unit_m	_	_
+15	where they were able to offer expertise on the subject .	0	_	_	_	14	Elaboration_r	_	_
+16	On the administrative level , the directors of the libraries	2	_	_	_	10	Joint_m	_	_
+17	participating in the consortium of Dutch academic libraries	0	_	_	_	16	Elaboration_r	_	_
+18	( UKB )	0	_	_	_	17	Restatement_r	_	_
+19	also expressed the wish	1	_	_	_	16	Same-Unit_m	_	_
+20	that librarians become more fluent in DH .	0	_	_	_	19	Elaboration_r	_	_
+21	A year later , the National Library of the Netherlands	2	_	_	_	24	Attribution_r	_	_
+22	( Koninklijke Bibliotheek ) ,	0	_	_	_	21	Restatement_r	_	_
+23	and the University Library of the Vrije Universiteit Amsterdam again concluded	1	_	_	_	21	Same-Unit_m	_	_
+24	that librarians at their institutes	1	_	_	_	28	Causal_r	_	_
+25	who wanted to get involved in DH	0	_	_	_	24	Elaboration_r	_	_
+26	needed more training	1	_	_	_	24	Same-Unit_m	_	_
+27	to adequately support researchers and students in this field .	0	_	_	_	26	Purpose_r	_	_
+28	Therefore both institutes joined forces	4	_	_	_	10	Joint_m	_	_
+29	to develop a set of clinics on DH for librarians .	0	_	_	_	28	Purpose_r	_	_
+30	The two institutes were later joined by the Leiden University Libraries .	2	_	_	_	28	Joint_m	_	_
+31	We see this as the ideal opportunity	3	_	_	_	28	Evaluation_r	_	_
+32	to provide these educative sessions not only to our own librarians ,	0	_	_	_	31	Purpose_r	_	_
+33	but also to the academic librarians of other Dutch research libraries .	0	_	_	_	32	Joint_m	_	_
+34	In essence , we want to teach our country ’s librarians the ins and outs of DH	1	_	_	_	31	Explanation_r	_	_
+35	in order for them to take up their natural role	0	_	_	_	34	Purpose_r	_	_
+36	of facilitating and supporting research	0	_	_	_	35	Elaboration_r	_	_
+37	and ideally become the research partner	1	_	_	_	35	Joint_m	_	_
+38	needed in DH projects .	0	_	_	_	37	Elaboration_r	_	_
+39	The aim of these clinics is to provide basic methodological competencies and technical skills in DH , for a diverse group of librarians ,	4	_	_	_	10	Joint_m	_	_
+40	consisting of both subject and technical librarians with basic technical skills .	0	_	_	_	39	Elaboration_r	_	_
+41	The content of these sessions should enable them to provide services to researchers and students , identify remaining gaps in knowledge or skills	1	_	_	_	39	Elaboration_r	_	_
+42	that they could address by self - directed learning	0	_	_	_	41	Elaboration_r	_	_
+43	and	1	_	_	_	41	Joint_m	_	_
+44	( perhaps )	0	_	_	_	43	Same-Unit_m	_	_
+45	to automate their daily library work .	0	_	_	_	44	Joint_m	_	_
+46	We are not setting out to turn them into programmers or data crunchers ,	1	_	_	_	47	Adversative_r	_	_
+47	but want to boost their knowledge level	2	_	_	_	39	Elaboration_r	_	_
+48	to where they feel comfortable	0	_	_	_	47	Purpose_r	_	_
+49	providing information about DH projects ,	0	_	_	_	48	Elaboration_r	_	_
+50	follow the literature and research ,	1	_	_	_	48	Joint_m	_	_
+51	follow online tutorials	0	_	_	_	50	Joint_m	_	_
+52	and hopefully take up the challenge	0	_	_	_	51	Joint_m	_	_
+53	of finishing this professional development	0	_	_	_	52	Elaboration_r	_	_
+54	by engaging with the DH community .	1	_	_	_	52	Mode_r	_	_
+55	In order to design this curriculum	1	_	_	_	56	Purpose_r	_	_
+56	we follow a four step approach with a Working Out Loud - principle	3	_	_	_	39	Elaboration_r	_	_
+57	( Williams , 2010 ) :	0	_	_	_	56	Explanation_r	_	_
+58	Desk research about what being a DH librarian entails	2	_	_	_	56	Elaboration_r	_	_
+59	( e.g. Hartsell - Gundy et al. , 2015 ;	0	_	_	_	58	Explanation_r	_	_
+60	Mulligan , 2016 ;	0	_	_	_	59	Joint_m	_	_
+61	also see the Zotero library of the LIBER Digital Humanities working group ) ;	0	_	_	_	60	Joint_m	_	_
+62	Identify possible subjects ,	1	_	_	_	58	Joint_m	_	_
+63	based on experience , a comparison of existing teaching material	0	_	_	_	62	Mode_r	_	_
+64	related to DH	0	_	_	_	63	Elaboration_r	_	_
+65	( e.g. The Programming Historian , the Digital Scholarship Training Programme at the British Library and Columbia University 's Developing Librarian project )	1	_	_	_	63	Elaboration_r	_	_
+66	and the TaDiRAH taxonomy of research activities ;	1	_	_	_	62	Same-Unit_m	_	_
+67	Get feedback from researchers on possible subjects ,	2	_	_	_	62	Joint_m	_	_
+68	based on the knowledge and skills	0	_	_	_	67	Mode_r	_	_
+69	they feel	0	_	_	_	70	Attribution_r	_	_
+70	librarians need ;	0	_	_	_	68	Elaboration_r	_	_
+71	Get feedback from librarians on possible subjects ,	1	_	_	_	67	Joint_m	_	_
+72	based on already known gaps in their knowledge and skills .	0	_	_	_	71	Mode_r	_	_
+73	With these in hand ,	1	_	_	_	74	Mode_r	_	_
+74	we will design the curriculum of clinics ,	3	_	_	_	56	Joint_m	_	_
+75	based on the method of ' constructive alignment '	0	_	_	_	74	Mode_r	_	_
+76	( Biggs et al. , 2011 ) ,	0	_	_	_	75	Explanation_r	_	_
+77	to make sure	0	_	_	_	78	Attribution_r	_	_
+78	that the intended learning objectives and the teaching / learning activities stay aligned .	2	_	_	_	74	Purpose_r	_	_
+79	Our plan is to organize a maximum of 6 clinics , each one full day .	3	_	_	_	74	Joint_m	_	_
+80	Each day starts with one or more lectures by researchers ,	0	_	_	_	79	Elaboration_r	_	_
+81	that address the conceptual knowledge	0	_	_	_	80	Elaboration_r	_	_
+82	needed .	0	_	_	_	81	Elaboration_r	_	_
+83	The afternoon sessions will be devoted to the hands - on training of skills ,	1	_	_	_	80	Joint_m	_	_
+84	following the Library Carpentry model as closely as possible .	0	_	_	_	83	Mode_r	_	_
+85	By having researchers provide the lecture sessions ,	1	_	_	_	86	Mode_r	_	_
+86	we hope to fuel the enthusiasm of the librarians with the inspiration of direct contact with researchers	2	_	_	_	80	Elaboration_r	_	_
+87	and to provide access to a network within and across universities .	0	_	_	_	86	Joint_m	_	_
+88	With these clinics , we hope to initiate a stream of DH activities in Dutch universities ,	1	_	_	_	79	Elaboration_r	_	_
+89	making access to support easier for new digital scholars .	0	_	_	_	88	Causal_r	_	_
+90	The poster at DH2017 will present the curriculum , its position in the international context	2	_	_	_	79	Joint_m	_	_
+91	and offer the lessons	0	_	_	_	90	Joint_m	_	_
+92	learned from both the design process and the first clinics .	0	_	_	_	91	Elaboration_r	_	_
+93	We welcome discussion about our efforts and the possibilities	1	_	_	_	90	Joint_m	_	_
+94	of applying this in other contexts .	0	_	_	_	93	Elaboration_r	_	_

@@ -1,0 +1,98 @@
+1	What is up guys ?	6	_	_	_	19	organization_r	_	_
+2	Kharma Medic here	0	_	_	_	1	joint_m	_	_
+3	and welcome back to another dose .	0	_	_	_	2	joint_m	_	_
+4	So in today 's video , I 'm finally gon na be doing a room tour .	5	_	_	_	19	context_r	_	_
+5	I know	1	_	_	_	6	attribution_r	_	_
+6	this is something	3	_	_	_	11	adversative_r_r	_	_
+7	that you guys have requested for a very long time ,	0	_	_	_	6	elaboration_r	_	_
+8	and after two and a half years	2	_	_	_	11	context_r	_	_
+9	of living here ,	0	_	_	_	8	elaboration_r	_	_
+10	I finally feel	1	_	_	_	11	attribution_r	_	_
+11	like I 've made it my own	0	_	_	_	14	causal_r	_	_
+12	and decorated it	0	_	_	_	11	joint_m	_	_
+13	how I want ,	0	_	_	_	12	mode_r	_	_
+14	and I 'm ready to show it to you guys .	0	_	_	_	4	elaboration_r	_	_
+15	Alright so let 's start off with the bed and the couch area .	4	_	_	_	19	organization_r	_	_
+16	Honestly ,	2	_	_	_	19	adversative_r_r	_	_
+17	if I was redoing this from the beginning ,	0	_	_	_	18	contingency_r	_	_
+18	I would have really liked to have a double bed in this room ,	0	_	_	_	16	same-unit_m	_	_
+19	but , unfortunately , with the space	0	_	_	_	0	ROOT	_	_
+20	as you can probably see from that wall there till the door ,	0	_	_	_	19	elaboration_r	_	_
+21	it 's basically just enough	1	_	_	_	19	same-unit_m	_	_
+22	to fit a bed and a couch ,	0	_	_	_	21	purpose_r	_	_
+23	and this is my couch over here .	3	_	_	_	19	joint_m	_	_
+24	I 've recently changed it ,	1	_	_	_	25	context_r	_	_
+25	and	0	_	_	_	23	explanation_r	_	_
+26	if you 've been following my channel for a long time ,	0	_	_	_	27	contingency_r	_	_
+27	then you 'll know	0	_	_	_	28	attribution_r	_	_
+28	I 'm really proud of how I color match the pictures on the wall over here with sort of the gray and yellow vibe , the gray and yellow cushions .	0	_	_	_	25	same-unit_m	_	_
+29	This couch is also quite big ,	1	_	_	_	23	joint_m	_	_
+30	it fits three people quite comfortably ,	0	_	_	_	29	elaboration_r	_	_
+31	and	0	_	_	_	30	joint_m	_	_
+32	if I have family or friends staying over ,	0	_	_	_	33	contingency_r	_	_
+33	it opens up into a full double bed .	0	_	_	_	31	same-unit_m	_	_
+34	This coffee table over here , it 's glass	2	_	_	_	23	joint_m	_	_
+35	and has two levels ,	0	_	_	_	34	joint_m	_	_
+36	so it 's really good	1	_	_	_	34	joint_m	_	_
+37	when we have multiple friends over ,	0	_	_	_	36	contingency_r	_	_
+38	and we have lots of food	1	_	_	_	36	joint_m	_	_
+39	to put on the table ,	0	_	_	_	38	purpose_r	_	_
+40	or	1	_	_	_	38	joint_m	_	_
+41	if we 're playing board games ,	0	_	_	_	42	contingency_r	_	_
+42	we can have people sit around it ,	0	_	_	_	40	same-unit_m	_	_
+43	and still have a lot of space	1	_	_	_	42	joint_m	_	_
+44	to lay everything out .	0	_	_	_	43	purpose_r	_	_
+45	So there 's nothing too special about the bed itself ,	1	_	_	_	46	adversative_r_r	_	_
+46	but it does have a very important function ,	3	_	_	_	23	joint_m	_	_
+47	which , it has a lot of storage .	0	_	_	_	46	elaboration_r	_	_
+48	So down here is basically where I keep everything	2	_	_	_	46	elaboration_r	_	_
+49	that I ca n't really keep in my room ,	0	_	_	_	48	elaboration_r	_	_
+50	because there 's not enough space .	0	_	_	_	49	causal_r	_	_
+51	I 've got an ironing board , all of my suitcases , socks , clothes	1	_	_	_	48	elaboration_r	_	_
+52	that I do n't wear that often ,	0	_	_	_	51	elaboration_r	_	_
+53	anything	1	_	_	_	51	elaboration_r	_	_
+54	that I need	0	_	_	_	53	elaboration_r	_	_
+55	for fixing the house	0	_	_	_	54	purpose_r	_	_
+56	like screwdrivers , drills , nails , all these things	0	_	_	_	58	adversative_r_r	_	_
+57	that I definitely would n't want to have laid out in my room ,	0	_	_	_	56	elaboration_r	_	_
+58	but I still need somewhere in the house .	1	_	_	_	53	same-unit_m	_	_
+59	I love that this room has floor - to - ceiling windows as well ,	4	_	_	_	23	joint_m	_	_
+60	it really lets the light come in , especially in the summer time .	0	_	_	_	59	explanation_r	_	_
+61	I know	0	_	_	_	62	attribution_r	_	_
+62	London does n't have that much light ,	1	_	_	_	63	adversative_r_r	_	_
+63	but I 'll take as much	0	_	_	_	60	adversative_r_r	_	_
+64	as I can ,	0	_	_	_	63	mode_r	_	_
+65	and there 's also a small balcony out here ,	1	_	_	_	59	joint_m	_	_
+66	which is fairly rare for London .	0	_	_	_	65	evaluation_r	_	_
+67	We have two chairs	1	_	_	_	65	joint_m	_	_
+68	where we can sit down	0	_	_	_	67	elaboration_r	_	_
+69	and sort of enjoy the weather	0	_	_	_	68	joint_m	_	_
+70	when it is a little bit better ,	1	_	_	_	68	context_r	_	_
+71	um but now it 's really cold	0	_	_	_	72	causal_r	_	_
+72	so just gon na close it .	2	_	_	_	68	adversative_r_r	_	_
+73	And then a little behind the scenes	0	_	_	_	77	organization_r	_	_
+74	that you probably will never see again in a video	0	_	_	_	73	elaboration_r	_	_
+75	is that down here I keep all of the filming gear	1	_	_	_	73	same-unit_m	_	_
+76	that does n't really fit anywhere else in the room :	0	_	_	_	75	elaboration_r	_	_
+77	two sets of tripods ,	2	_	_	_	65	joint_m	_	_
+78	I also have a c - stand .	1	_	_	_	77	joint_m	_	_
+79	Okay next to my bed , I 've got the radio alarm clock ,	3	_	_	_	65	joint_m	_	_
+80	and this has actually changed my life .	0	_	_	_	79	evaluation_r	_	_
+81	It makes waking up in the morning and getting out of bed at 6:00 a.m.	0	_	_	_	80	explanation_r	_	_
+82	when it 's pitch black outside	0	_	_	_	81	context_r	_	_
+83	so much easier	1	_	_	_	81	same-unit_m	_	_
+84	when you 're waking up really early .	0	_	_	_	83	context_r	_	_
+85	It 's so much better to wake up to the sound	2	_	_	_	81	joint_m	_	_
+86	of somebody talking to you :	0	_	_	_	85	elaboration_r	_	_
+87	your favorite radio station , some music , whatever ,	1	_	_	_	85	elaboration_r	_	_
+88	instead of that classic iPhone alarm , " ba , ba , ba . "	2	_	_	_	85	adversative_r_r	_	_
+89	Over here on the wall , these are posters	2	_	_	_	59	joint_m	_	_
+90	that I actually bought back in 2013 in my first year of university in Toronto ,	0	_	_	_	89	elaboration_r	_	_
+91	and I really really liked them	0	_	_	_	92	explanation_r	_	_
+92	so I 've kept them around .	1	_	_	_	89	evaluation_r	_	_
+93	Also I 'm really proud	0	_	_	_	94	attribution_r	_	_
+94	that I managed to put them up all by myself ,	2	_	_	_	89	joint_m	_	_
+95	they look quite neat ,	1	_	_	_	94	explanation_r	_	_
+96	and I feel	0	_	_	_	97	attribution_r	_	_
+97	like they 're equally spaced ,	0	_	_	_	95	joint_m	_	_
+98	so I 'm really proud of how they turned out .	1	_	_	_	97	causal_r	_	_

@@ -1,0 +1,85 @@
+1	Wikinews interviews Mario J. Lucero and Isabel Ruiz of Heaven Sent Gaming	6	_	_	_	21	organization_r	_	_
+2	General questions	5	_	_	_	21	organization_r	_	_
+3	What is Heaven Sent Gaming ?	2	_	_	_	21	topic_r	_	_
+4	Heaven Sent Gaming is basically me and Isabel ,	1	_	_	_	21	context_r	_	_
+5	I 'm Mario J. Lucero .	0	_	_	_	4	elaboration_r	_	_
+6	And , I 'm Isabel Ruiz .	0	_	_	_	5	joint_m	_	_
+7	And , together we formed this thing ,	1	_	_	_	4	elaboration_r	_	_
+8	it 's sort of like an entertainment team .	0	_	_	_	7	elaboration_r	_	_
+9	We started it basically ,	1	_	_	_	7	elaboration_r	_	_
+10	because I wanted to -	1	_	_	_	11	organization_r	_	_
+11	I wanted to work with Isabel on a lot of projects	0	_	_	_	9	causal_r	_	_
+12	that we had going on together .	0	_	_	_	11	elaboration_r	_	_
+13	We were coming with comics , like , left and right ,	0	_	_	_	14	context_r	_	_
+14	we were coming up with things like Karis ,	2	_	_	_	11	elaboration_r	_	_
+15	in high school she came up with that one ,	1	_	_	_	14	joint_m	_	_
+16	I came up with an individual story	0	_	_	_	15	joint_m	_	_
+17	called Thad 's World Destruction	0	_	_	_	16	elaboration_r	_	_
+18	and , she wanted to illustrate it ,	1	_	_	_	16	joint_m	_	_
+19	and so , that 's the way	2	_	_	_	16	causal_r	_	_
+20	we ended up doing it .	0	_	_	_	19	elaboration_r	_	_
+21	Yep , we like to just make our own original content ,	0	_	_	_	0	ROOT	_	_
+22	and , yep , that 's what we wanted to do .	0	_	_	_	21	causal_r	_	_
+23	How did you two meet ?	5	_	_	_	32	topic_r	_	_
+24	We met back in high school .	4	_	_	_	32	context_r	_	_
+25	In this private , tiny - tiny private school of 50 students .	0	_	_	_	24	context_r	_	_
+26	But , before hand in middle school , I kept on hearing about this guy	1	_	_	_	32	context_r	_	_
+27	named Mario ,	0	_	_	_	26	elaboration_r	_	_
+28	and he kept on hearing about me , this girl	1	_	_	_	26	joint_m	_	_
+29	named Isabel .	0	_	_	_	28	elaboration_r	_	_
+30	And , everyone , all of our friends and all of our acquaintances would say ,	0	_	_	_	31	attribution_r	_	_
+31	" Hey , you 'd get along with him really well . "	2	_	_	_	26	elaboration_r	_	_
+32	So before hand I kinda knew about him ,	3	_	_	_	21	joint_m	_	_
+33	but I never met him .	0	_	_	_	32	adversative_m	_	_
+34	And one of our friends , our common friends , he introduced us during study hall ,	0	_	_	_	35	causal_r	_	_
+35	and we just kind of hit it off from there .	2	_	_	_	32	joint_m	_	_
+36	It 's true .	3	_	_	_	32	evaluation_r	_	_
+37	Who else is involved in this project ?	1	_	_	_	38	topic_r	_	_
+38	Currently , we 're in talks with people .	6	_	_	_	32	joint_m	_	_
+39	There 's Jeff [ Drake ] ,	0	_	_	_	38	elaboration_r	_	_
+40	who is behind the camera .	0	_	_	_	39	elaboration_r	_	_
+41	Right now , yeah , he 's helping us right now .	1	_	_	_	39	joint_m	_	_
+42	We 're talking about doing some individual web series , video series .	0	_	_	_	41	joint_m	_	_
+43	Josh Kindig , he 's coming on board ,	0	_	_	_	42	joint_m	_	_
+44	he has some ideas for that too ,	0	_	_	_	43	elaboration_r	_	_
+45	he wants to take over " aywv " and do more gaming news .	0	_	_	_	44	elaboration_r	_	_
+46	There 's of course Jason ,	1	_	_	_	43	joint_m	_	_
+47	who is our editor	0	_	_	_	46	elaboration_r	_	_
+48	and he 's the one	1	_	_	_	46	joint_m	_	_
+49	who writes dD .	0	_	_	_	48	elaboration_r	_	_
+50	Digital Domain	8	_	_	_	58	organization_r	_	_
+51	What is your purpose behind this venture ?	7	_	_	_	58	topic_r	_	_
+52	Well , back in college , back in Collins College , Isabel and I , we had met	5	_	_	_	58	context_r	_	_
+53	like she said	0	_	_	_	54	attribution_r	_	_
+54	at Sandia View Academy ,	0	_	_	_	52	context_r	_	_
+55	and we went off to college together in Arizona ;	1	_	_	_	52	joint_m	_	_
+56	and ...	4	_	_	_	58	organization_r	_	_
+57	( how do I best explain this ? )	2	_	_	_	58	topic_r	_	_
+58	Basically , she came up with a few class projects ,	4	_	_	_	21	joint_m	_	_
+59	and I came up with a few class projects ;	0	_	_	_	58	joint_m	_	_
+60	we started working with a few of our friends , and colleagues and whatnot .	1	_	_	_	58	elaboration_r	_	_
+61	Those included Drew Cass , Devin Thurlow , people like that .	0	_	_	_	60	elaboration_r	_	_
+62	She had several ideas ,	3	_	_	_	58	joint_m	_	_
+63	and she used to draw a lot in the sketchbook ,	2	_	_	_	68	context_r	_	_
+64	she used to have this thick sketchbook	0	_	_	_	63	elaboration_r	_	_
+65	that she used to carry around with her everywhere ,	0	_	_	_	64	elaboration_r	_	_
+66	where she 'd draw these different characters and whatnot ;	1	_	_	_	64	elaboration_r	_	_
+67	and she was always really shy to show that off to people ,	1	_	_	_	68	causal_r	_	_
+68	and I wanted to help her show that stuff ,	0	_	_	_	62	joint_m	_	_
+69	and I wanted to bring it out to the world .	0	_	_	_	68	joint_m	_	_
+70	I was a writer ,	2	_	_	_	73	context_r	_	_
+71	and she always liked my writings ,	0	_	_	_	70	joint_m	_	_
+72	so I was like ,	1	_	_	_	73	attribution_r	_	_
+73	let 's just get both of our things together ,	1	_	_	_	62	joint_m	_	_
+74	and let 's get this done .	0	_	_	_	73	joint_m	_	_
+75	And for me , what I want the purpose to be , is to inspire people .	3	_	_	_	73	joint_m	_	_
+76	To bring a little more light to the world is what I want , out of all of this .	0	_	_	_	75	joint_m	_	_
+77	And what was the verse	2	_	_	_	80	topic_r	_	_
+78	that we have ?	0	_	_	_	77	elaboration_r	_	_
+79	First Corinthians 9 : 25 ?	1	_	_	_	80	topic_r	_	_
+80	Yes .	2	_	_	_	82	topic_r	_	_
+81	Yeah , exactly .	0	_	_	_	80	restatement_m	_	_
+82	We just want to be able to bring ,	6	_	_	_	58	joint_m	_	_
+83	like she said ,	0	_	_	_	82	same-unit_m	_	_
+84	bring light into the entertainment and into the media industry , specifically is what we do .	0	_	_	_	83	same-unit_m	_	_
+85	Yeah .	1	_	_	_	82	organization_r	_	_

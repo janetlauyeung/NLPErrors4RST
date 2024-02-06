@@ -1,0 +1,94 @@
+1	Humans are the only species on earth	0	_	_	_	0	ROOT	_	_
+2	to try and stop themselves from reproducing	0	_	_	_	1	Purpose_r	_	_
+3	Pandas do a fine job	1	_	_	_	1	Evaluation_r	_	_
+4	of avoiding reproduction , too .	0	_	_	_	3	Elaboration_r	_	_
+5	The lazy bastards .	1	_	_	_	3	Evaluation_r	_	_
+6	I read a good source	0	_	_	_	9	Attribution_r	_	_
+7	( another reddit comment )	0	_	_	_	6	Explanation_r	_	_
+8	which stated	1	_	_	_	6	Elaboration_r	_	_
+9	that pandas being notoriously poor at reproducing is a myth .	1	_	_	_	11	Adversative_r	_	_
+10	It 's just that getting any species in captivity to reproduce is a challenge ,	0	_	_	_	11	Causal_r	_	_
+11	so that 's why getting pandas in captivity to reproduce is a challenge too .	1	_	_	_	12	Explanation_r	_	_
+12	And in the wild they would reproduce just fine ,	2	_	_	_	3	Explanation_r	_	_
+13	the largest threat to their reproduction is the narrowing of their ecosystems by humans , not their poor talent in reproducing .	0	_	_	_	12	Adversative_m	_	_
+14	It 's true .	2	_	_	_	12	Evaluation_r	_	_
+15	Zoos in China with larger panda populations also have far fewer problems getting them to breed .	0	_	_	_	14	Joint_m	_	_
+16	A little bit of male competition really helps .	0	_	_	_	15	Adversative_r	_	_
+17	Yup ...	0	_	_	_	18	Organization_r	_	_
+18	here it is	3	_	_	_	21	Organization_r	_	_
+19	In times of poor food availability , white tail deer stop / slow reproduction .	1	_	_	_	21	Context_r	_	_
+20	I assume	0	_	_	_	21	Attribution_r	_	_
+21	that it also happens elsewhere .	3	_	_	_	12	Joint_m	_	_
+22	There was an experiment	2	_	_	_	25	Context_r	_	_
+23	that was done with a rat population	0	_	_	_	22	Elaboration_r	_	_
+24	which was raised in an environment of artificial high abundance of food , water , etc.	0	_	_	_	23	Elaboration_r	_	_
+25	The population grew rapidly	2	_	_	_	21	Explanation_r	_	_
+26	until space became scarce ,	0	_	_	_	25	Context_r	_	_
+27	then many of the rats exhibited complete disinterest in sex / reproduction	1	_	_	_	25	Joint_m	_	_
+28	which persisted	0	_	_	_	27	Elaboration_r	_	_
+29	even as population size decreased ,	0	_	_	_	28	Context_r	_	_
+30	causing a collapse of the rat society .	0	_	_	_	29	Causal_r	_	_
+31	( IIRC )	4	_	_	_	21	Restatement_r	_	_
+32	Behavioral Sink	3	_	_	_	3	Joint_m	_	_
+33	And dolphins	0	_	_	_	32	Joint_m	_	_
+34	Schooled him	2	_	_	_	35	Joint_r	_	_
+35	Ha what a blow hole	0	_	_	_	33	Joint_m	_	_
+36	Nah they ’re pod people .	0	_	_	_	35	Context_r	_	_
+37	I love all these comments	1	_	_	_	35	Evaluation_r	_	_
+38	telling OP	0	_	_	_	39	Attribution_r	_	_
+39	he 's wrong .	0	_	_	_	37	Elaboration_r	_	_
+40	I think	3	_	_	_	43	Attribution_r	_	_
+41	I read	2	_	_	_	43	Attribution_r	_	_
+42	that if food was low ,	1	_	_	_	43	Contingency_r	_	_
+43	rabbits will abort their young	1	_	_	_	37	Joint_m	_	_
+44	and reabsorb them .	0	_	_	_	43	Joint_m	_	_
+45	We 're the only animal	4	_	_	_	43	Elaboration_r	_	_
+46	that does it consciously .	0	_	_	_	45	Elaboration_r	_	_
+47	That we know of .	0	_	_	_	46	Elaboration_r	_	_
+48	But to be fair ,	2	_	_	_	49	Adversative_r	_	_
+49	we 're the only animal	1	_	_	_	45	Adversative_m	_	_
+50	that does anything consciously	0	_	_	_	49	Elaboration_r	_	_
+51	which involves deep planning .	0	_	_	_	50	Elaboration_r	_	_
+52	That we know of .	1	_	_	_	49	Elaboration_r	_	_
+53	Plot twist :	2	_	_	_	54	Organization_r	_	_
+54	cats are the smartest species on earth	2	_	_	_	1	Joint_m	_	_
+55	and will overthrow humans	0	_	_	_	54	Joint_m	_	_
+56	when we realize	0	_	_	_	57	Attribution_r	_	_
+57	that we ’re their servants .	0	_	_	_	55	Context_r	_	_
+58	... and for good reason .	1	_	_	_	54	Causal_r	_	_
+59	What about the Ai	1	_	_	_	63	Evaluation_r	_	_
+60	currently proliferating through our computer networks ?	0	_	_	_	59	Elaboration_r	_	_
+61	Do n't they count ? ? ?	1	_	_	_	59	Restatement_m	_	_
+62	WHERE IS YOUR HEART ? ! ? !	0	_	_	_	61	Joint_m	_	_
+63	We ’re too fucking good at it .	2	_	_	_	1	Joint_m	_	_
+64	How would we know ?	2	_	_	_	65	Topic_r	_	_
+65	Perhaps other species went extinct	0	_	_	_	63	Explanation_r	_	_
+66	because they stopped reproducing .	0	_	_	_	65	Causal_r	_	_
+67	But did they do so planningly ?	0	_	_	_	69	Adversative_r	_	_
+68	And eating	0	_	_	_	67	Joint_m	_	_
+69	But we still like to practice .	1	_	_	_	65	Adversative_r	_	_
+70	I think it 's coyotes that will howl at certain times	2	_	_	_	1	Joint_m	_	_
+71	and listen for responses	0	_	_	_	70	Joint_m	_	_
+72	to decide if an area is over populated .	0	_	_	_	71	Purpose_r	_	_
+73	Not sure	1	_	_	_	74	Attribution_r	_	_
+74	if that means they go somewhere else	1	_	_	_	70	Adversative_r	_	_
+75	to hump	0	_	_	_	74	Purpose_r	_	_
+76	or just stay where they are	0	_	_	_	75	Joint_m	_	_
+77	and do n't hump .	0	_	_	_	76	Joint_m	_	_
+78	In our defense human babies are the worst of all the species .	2	_	_	_	1	Joint_m	_	_
+79	How would we know	0	_	_	_	80	Attribution_r	_	_
+80	that they did n’t ?	3	_	_	_	83	Topic_r	_	_
+81	It ’s not to prove that they did ,	1	_	_	_	83	Adversative_r	_	_
+82	just stating	0	_	_	_	83	Attribution_r	_	_
+83	that the option is there .	0	_	_	_	78	Elaboration_r	_	_
+84	It ’s not provable or unprovable .	2	_	_	_	83	Evaluation_r	_	_
+85	Yeah other animals just eat their babies	1	_	_	_	78	Adversative_m	_	_
+86	This has to do with the fact	2	_	_	_	78	Causal_r	_	_
+87	that raising our offspring is labor and resource intensive .	0	_	_	_	86	Elaboration_r	_	_
+88	Many species can walk minutes after birth .	1	_	_	_	89	Context_r	_	_
+89	Due to the size of our heads and the limited size of the birth canal , humans are born relatively premature .	1	_	_	_	86	Elaboration_r	_	_
+90	Those children then have to be taken care of for years	0	_	_	_	89	Causal_m	_	_
+91	before they can even begin to fend for themselves .	0	_	_	_	90	Context_r	_	_
+92	This is even more pronounced in prosperous societies	2	_	_	_	89	Joint_m	_	_
+93	where only one or two children are even needed	0	_	_	_	92	Elaboration_r	_	_
+94	and we can legitimately afford not to make children work .	0	_	_	_	93	Joint_m	_	_

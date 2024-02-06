@@ -1,0 +1,127 @@
+1	2.1 Early Ideas in Atomic Theory	4	_	_	_	27	organization_r	_	_
+2	By the end of this section , you will be able to :	1	_	_	_	3	organization_r	_	_
+3	State the postulates of Dalton ’s atomic theory	3	_	_	_	27	organization_r	_	_
+4	Use postulates of Dalton ’s atomic theory	0	_	_	_	3	joint_m	_	_
+5	to explain the laws of definite and multiple proportions	0	_	_	_	4	purpose_r	_	_
+6	The earliest recorded discussion of the basic structure of matter comes from ancient Greek philosophers , the scientists of their day .	0	_	_	_	27	context_r	_	_
+7	In the fifth century BC , Leucippus and Democritus argued	2	_	_	_	8	attribution_r	_	_
+8	that all matter was composed of small , finite particles	0	_	_	_	6	elaboration_r	_	_
+9	that they called atomos ,	0	_	_	_	8	elaboration_r	_	_
+10	a term derived from the Greek word for “ indivisible . ”	1	_	_	_	8	elaboration_r	_	_
+11	They thought of atoms as moving particles	3	_	_	_	8	elaboration_r	_	_
+12	that differed in shape and size ,	0	_	_	_	11	elaboration_r	_	_
+13	and which could join together .	0	_	_	_	12	joint_m	_	_
+14	Later , Aristotle and others came to the conclusion	1	_	_	_	6	joint_m	_	_
+15	that matter consisted of various combinations of the four “ elements ”	0	_	_	_	14	elaboration_r	_	_
+16	— fire , earth , air , and water —	0	_	_	_	15	elaboration_r	_	_
+17	and could be infinitely divided .	1	_	_	_	15	joint_m	_	_
+18	Interestingly , these philosophers thought about atoms and “ elements ” as philosophical concepts ,	1	_	_	_	19	adversative_r_r	_	_
+19	but apparently never considered performing experiments	1	_	_	_	14	elaboration_r	_	_
+20	to test their ideas .	0	_	_	_	19	purpose_r	_	_
+21	The Aristotelian view of the composition of matter held sway for over two thousand years ,	2	_	_	_	14	joint_m	_	_
+22	until English schoolteacher John Dalton helped to revolutionize chemistry with his hypothesis	0	_	_	_	21	adversative_m	_	_
+23	that the behavior of matter could be explained	0	_	_	_	22	elaboration_r	_	_
+24	using an atomic theory .	0	_	_	_	23	mode_r	_	_
+25	First published in 1807 ,	0	_	_	_	26	context_r	_	_
+26	many of Dalton ’s hypotheses about the microscopic features of matter are still valid in modern atomic theory .	1	_	_	_	21	elaboration_r	_	_
+27	Here are the postulates of Dalton ’s atomic theory .	0	_	_	_	0	ROOT	_	_
+28	1. Matter is composed of exceedingly small particles	1	_	_	_	27	joint_m	_	_
+29	called atoms .	0	_	_	_	28	elaboration_r	_	_
+30	An atom is the smallest unit of an element	1	_	_	_	28	elaboration_r	_	_
+31	that can participate in a chemical change .	0	_	_	_	30	elaboration_r	_	_
+32	2. An element consists of only one type of atom ,	2	_	_	_	28	elaboration_r	_	_
+33	which has a mass	0	_	_	_	32	elaboration_r	_	_
+34	that is characteristic of the element	0	_	_	_	33	elaboration_r	_	_
+35	and is the same for all atoms of that element	1	_	_	_	33	joint_m	_	_
+36	( Figure 2.2 ) .	1	_	_	_	32	explanation_r	_	_
+37	A macroscopic sample of an element contains an incredibly large number of atoms ,	2	_	_	_	32	elaboration_r	_	_
+38	all of which have identical chemical properties .	0	_	_	_	37	elaboration_r	_	_
+39	Figure 2.2	2	_	_	_	40	organization_r	_	_
+40	A pre-1982 copper penny	1	_	_	_	37	elaboration_r	_	_
+41	( left )	0	_	_	_	40	elaboration_r	_	_
+42	contains approximately 3 ×× 10 22 copper atoms	1	_	_	_	40	same-unit_m	_	_
+43	( several dozen are represented as brown spheres at the right ) ,	0	_	_	_	42	elaboration_r	_	_
+44	each of which has the same chemical properties .	1	_	_	_	42	elaboration_r	_	_
+45	( credit :	0	_	_	_	46	organization_r	_	_
+46	modification of work by “ slgckgc ” / Flickr )	3	_	_	_	40	explanation_r	_	_
+47	3. Atoms of one element differ in properties from atoms of all other elements .	2	_	_	_	80	context_r	_	_
+48	4. A compound consists of atoms of two or more elements	0	_	_	_	47	joint_m	_	_
+49	combined in a small , whole - number ratio .	0	_	_	_	48	elaboration_r	_	_
+50	In a given compound , the numbers of atoms of each of its elements are always present in the same ratio	1	_	_	_	48	elaboration_r	_	_
+51	( Figure 2.3 ) .	0	_	_	_	50	explanation_r	_	_
+52	Figure 2.3	3	_	_	_	53	organization_r	_	_
+53	Copper(II) oxide , a powdery , black compound , results from the combination of two types of atoms	2	_	_	_	48	elaboration_r	_	_
+54	— copper	0	_	_	_	53	elaboration_r	_	_
+55	( brown spheres )	0	_	_	_	54	elaboration_r	_	_
+56	and oxygen	1	_	_	_	54	same-unit_m	_	_
+57	( red spheres ) —	0	_	_	_	56	elaboration_r	_	_
+58	in a 1 : 1 ratio .	1	_	_	_	53	same-unit_m	_	_
+59	( credit :	0	_	_	_	60	organization_r	_	_
+60	modification of work by “ Chemicalinterest ” / Wikimedia Commons )	2	_	_	_	53	explanation_r	_	_
+61	5. Atoms are neither created nor destroyed during a chemical change ,	1	_	_	_	62	adversative_r_r	_	_
+62	but are instead rearranged to yield substances	3	_	_	_	48	joint_m	_	_
+63	that are different from those	0	_	_	_	62	elaboration_r	_	_
+64	present before the change	0	_	_	_	63	elaboration_r	_	_
+65	( Figure 2.4 ) .	2	_	_	_	62	explanation_r	_	_
+66	Figure 2.4	4	_	_	_	67	organization_r	_	_
+67	When the elements copper	3	_	_	_	62	elaboration_r	_	_
+68	( a shiny , red - brown solid ,	0	_	_	_	67	elaboration_r	_	_
+69	shown here as brown spheres )	0	_	_	_	68	elaboration_r	_	_
+70	and oxygen	1	_	_	_	67	same-unit_m	_	_
+71	( a clear and colorless gas ,	0	_	_	_	70	elaboration_r	_	_
+72	shown here as red spheres )	0	_	_	_	71	elaboration_r	_	_
+73	react ,	1	_	_	_	70	same-unit_m	_	_
+74	their atoms rearrange	2	_	_	_	67	same-unit_m	_	_
+75	to form a compound	0	_	_	_	74	purpose_r	_	_
+76	containing copper and oxygen	0	_	_	_	75	elaboration_r	_	_
+77	( a powdery , black solid ) .	0	_	_	_	76	elaboration_r	_	_
+78	( credit copper :	0	_	_	_	79	organization_r	_	_
+79	modification of work by http://images-of-elements.com/copper.php )	3	_	_	_	67	explanation_r	_	_
+80	Dalton ’s atomic theory provides a microscopic explanation of the many macroscopic properties of matter	3	_	_	_	28	joint_m	_	_
+81	that you ’ve learned about .	0	_	_	_	80	elaboration_r	_	_
+82	For example ,	1	_	_	_	80	elaboration_r	_	_
+83	if an element such as copper consists of only one kind of atom ,	1	_	_	_	84	contingency_r	_	_
+84	then it can not be broken down into simpler substances ,	0	_	_	_	82	same-unit_m	_	_
+85	that is , into substances	0	_	_	_	84	elaboration_r	_	_
+86	composed of fewer types of atoms .	0	_	_	_	85	elaboration_r	_	_
+87	And	1	_	_	_	82	joint_m	_	_
+88	if atoms are neither created nor destroyed during a chemical change ,	2	_	_	_	89	contingency_r	_	_
+89	then the total mass of matter present	0	_	_	_	87	same-unit_m	_	_
+90	when matter changes from one type to another	0	_	_	_	89	context_r	_	_
+91	will remain constant	1	_	_	_	89	same-unit_m	_	_
+92	( the law of conservation of matter ) .	1	_	_	_	87	explanation_r	_	_
+93	EXAMPLE 2.1	0	_	_	_	94	organization_r	_	_
+94	Testing Dalton ’s Atomic Theory	3	_	_	_	95	organization_r	_	_
+95	In the following drawing , the green spheres represent atoms of a certain element .	2	_	_	_	27	joint_m	_	_
+96	The purple spheres represent atoms of another element .	0	_	_	_	95	adversative_m	_	_
+97	If the spheres touch ,	0	_	_	_	98	contingency_r	_	_
+98	they are part of a single unit of a compound .	1	_	_	_	95	joint_m	_	_
+99	Does the following chemical change	2	_	_	_	95	joint_m	_	_
+100	represented by these symbols	0	_	_	_	99	elaboration_r	_	_
+101	violate any of the ideas of Dalton ’s atomic theory ?	1	_	_	_	99	same-unit_m	_	_
+102	If so ,	0	_	_	_	103	contingency_r	_	_
+103	which one ?	2	_	_	_	99	joint_m	_	_
+104	Solution	2	_	_	_	105	organization_r	_	_
+105	The starting materials consist of two green spheres and two purple spheres .	4	_	_	_	95	joint_m	_	_
+106	The products consist of only one green sphere and one purple sphere .	0	_	_	_	105	joint_m	_	_
+107	This violates Dalton ’s postulate	1	_	_	_	105	elaboration_r	_	_
+108	that atoms are neither created nor destroyed during a chemical change ,	0	_	_	_	107	elaboration_r	_	_
+109	but are merely redistributed .	0	_	_	_	108	adversative_m	_	_
+110	( In this case , atoms appear to have been destroyed . )	1	_	_	_	107	explanation_r	_	_
+111	Check Your Learning	2	_	_	_	112	organization_r	_	_
+112	In the following drawing , the green spheres represent atoms of a certain element .	5	_	_	_	95	joint_m	_	_
+113	The purple spheres represent atoms of another element .	0	_	_	_	112	joint_m	_	_
+114	If the spheres touch ,	0	_	_	_	115	contingency_r	_	_
+115	they are part of a single unit of a compound .	0	_	_	_	113	joint_m	_	_
+116	Does the following chemical change	1	_	_	_	112	joint_m	_	_
+117	represented by these symbols	0	_	_	_	116	elaboration_r	_	_
+118	violate any of the ideas of Dalton ’s atomic theory ?	1	_	_	_	116	same-unit_m	_	_
+119	If so ,	0	_	_	_	120	contingency_r	_	_
+120	which one ?	2	_	_	_	116	joint_m	_	_
+121	ANSWER :	2	_	_	_	122	organization_r	_	_
+122	The starting materials consist of four green spheres and two purple spheres .	3	_	_	_	112	joint_m	_	_
+123	The products consist of four green spheres and two purple spheres .	0	_	_	_	122	joint_m	_	_
+124	This does not violate any of Dalton ’s postulates :	1	_	_	_	122	elaboration_r	_	_
+125	Atoms are neither created	0	_	_	_	127	adversative_r_r	_	_
+126	nor destroyed ,	0	_	_	_	125	restatement_m	_	_
+127	but are redistributed in small , whole - number ratios .	0	_	_	_	124	explanation_r	_	_

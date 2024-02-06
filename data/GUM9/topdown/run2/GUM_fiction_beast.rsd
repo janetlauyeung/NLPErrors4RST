@@ -1,0 +1,130 @@
+1	The Beast	9	_	_	_	32	organization_r	_	_
+2	I was thirteen .	3	_	_	_	8	context_r	_	_
+3	It was spring , the barren time in March	0	_	_	_	6	adversative_r_r	_	_
+4	when you can not be sure	0	_	_	_	5	attribution_r	_	_
+5	if it is really warmer ,	0	_	_	_	3	context_r	_	_
+6	but you are so desperate for change	2	_	_	_	8	context_r	_	_
+7	that you tell yourself	0	_	_	_	8	attribution_r	_	_
+8	the mud at the edge of the sidewalk is different from winter mud	1	_	_	_	11	context_r	_	_
+9	and you are sure	0	_	_	_	10	attribution_r	_	_
+10	that the smell of wet soil has suddenly a bit of the scent of summer rains , of grass and drowned earthworms .	1	_	_	_	8	joint_m	_	_
+11	And it has ,	5	_	_	_	32	context_r	_	_
+12	because it is spring	0	_	_	_	11	causal_r	_	_
+13	and inside the ground something is stirring .	0	_	_	_	12	joint_m	_	_
+14	I was wearing a yellow linen dress	2	_	_	_	11	elaboration_r	_	_
+15	which my mother had picked out	0	_	_	_	14	adversative_r_r	_	_
+16	and which I therefore disliked	0	_	_	_	15	joint_m	_	_
+17	although I knew	0	_	_	_	18	attribution_r	_	_
+18	it flattered me .	1	_	_	_	15	adversative_r_r	_	_
+19	My shoes were white	1	_	_	_	14	joint_m	_	_
+20	and I was concentrating on keeping them out of the mud .	0	_	_	_	19	joint_m	_	_
+21	My father and I were going to mass —	3	_	_	_	32	context_r	_	_
+22	my mother did not go ;	0	_	_	_	21	context_r	_	_
+23	she was Protestant .	0	_	_	_	22	causal_r	_	_
+24	My father put his hand on top of my hair ,	2	_	_	_	32	context_r	_	_
+25	his palm on my head ,	0	_	_	_	24	elaboration_r	_	_
+26	and I could feel the bone of my skull and my skin and his hot palm , so dry and strong .	1	_	_	_	24	causal_r	_	_
+27	When I was a little girl ,	0	_	_	_	28	context_r	_	_
+28	he did that often ,	2	_	_	_	24	context_r	_	_
+29	and called me Muscles .	1	_	_	_	28	joint_m	_	_
+30	He had not called me Muscles	2	_	_	_	28	joint_m	_	_
+31	or put his hand on my head for a long time .	0	_	_	_	30	joint_m	_	_
+32	I could not help arching my back a little ,	0	_	_	_	0	ROOT	_	_
+33	I wanted to push against his hand like a cat	0	_	_	_	34	adversative_r_r	_	_
+34	but the instinct that comes with being thirteen , the half - understood caution that makes a girl timid , or wild , the shyness told me to just walk .	0	_	_	_	32	joint_m	_	_
+35	I wanted to feel the rough edge of the pocket of his coat against my cheek ,	1	_	_	_	36	adversative_r_r	_	_
+36	but I was too tall .	1	_	_	_	34	joint_m	_	_
+37	I wanted to be seven again , and safe .	0	_	_	_	36	causal_r	_	_
+38	But I still wanted to push against his hand and put my hand in his pocket and steal the leather palmed glove , that secret animal .	1	_	_	_	32	adversative_m	_	_
+39	Instead I went into the church ,	4	_	_	_	32	joint_m	_	_
+40	took a Bulletin ,	0	_	_	_	39	joint_m	_	_
+41	dipped my finger in Holy Water	0	_	_	_	40	joint_m	_	_
+42	and genuflected .	0	_	_	_	41	joint_m	_	_
+43	The inside of the church smelled like damp wood and furniture polish , not alive at all .	6	_	_	_	32	joint_m	_	_
+44	My father took off his coat	0	_	_	_	43	joint_m	_	_
+45	and draped it over the edge of the pew	0	_	_	_	44	joint_m	_	_
+46	and	1	_	_	_	44	joint_m	_	_
+47	when I came back from communion	0	_	_	_	48	context_r	_	_
+48	I stole his glove .	0	_	_	_	46	same-unit_m	_	_
+49	The paper taste of the wafer was still in my mouth	1	_	_	_	46	joint_m	_	_
+50	and I took a deep breath of the leather .	0	_	_	_	49	joint_m	_	_
+51	It smelled like March .	2	_	_	_	46	causal_r	_	_
+52	We walked back through the school	7	_	_	_	32	joint_m	_	_
+53	because it was drizzling ,	0	_	_	_	52	causal_r	_	_
+54	my father tall in his navy suit	1	_	_	_	52	elaboration_r	_	_
+55	and my shoes going click on the linoleum .	0	_	_	_	54	joint_m	_	_
+56	There were two classes of each grade ,	2	_	_	_	52	context_r	_	_
+57	starting at the sixth	0	_	_	_	56	elaboration_r	_	_
+58	and going down to the first .	0	_	_	_	57	joint_m	_	_
+59	The hall ended in a T	3	_	_	_	60	context_r	_	_
+60	and we went left through the gym ,	8	_	_	_	32	joint_m	_	_
+61	walked underneath the bleachers	0	_	_	_	60	joint_m	_	_
+62	and stood next to the side door ,	0	_	_	_	61	joint_m	_	_
+63	waiting for the rain to stop .	0	_	_	_	62	elaboration_r	_	_
+64	It was dark under the bleachers .	4	_	_	_	69	context_r	_	_
+65	My father was a young man ,	3	_	_	_	69	context_r	_	_
+66	thirty - five ,	0	_	_	_	65	elaboration_r	_	_
+67	younger	1	_	_	_	65	causal_r	_	_
+68	because he liked to be outside , to play softball on Saturday and to take my mother and me camping on vacation .	0	_	_	_	67	causal_r	_	_
+69	He stood	1	_	_	_	60	joint_m	_	_
+70	rocked back on his heels	0	_	_	_	69	mode_r	_	_
+71	with his coat thrown over his shoulders	0	_	_	_	70	joint_m	_	_
+72	and his hands in his pockets .	0	_	_	_	71	joint_m	_	_
+73	I thought of bacon and eggs , toast with peach jam out of the jar .	1	_	_	_	69	joint_m	_	_
+74	I was so hungry .	2	_	_	_	69	evaluation_r	_	_
+75	The space under the bleachers was secret and dark .	5	_	_	_	69	joint_m	_	_
+76	There were things in the shadows ;	0	_	_	_	75	elaboration_r	_	_
+77	a metal pail , a mop , rags .	0	_	_	_	76	elaboration_r	_	_
+78	Next to the door was a tall wrought - iron candle holder —	1	_	_	_	76	joint_m	_	_
+79	the kind	0	_	_	_	78	elaboration_r	_	_
+80	that stood at either end of the altar .	0	_	_	_	79	elaboration_r	_	_
+81	There was no holder	1	_	_	_	78	elaboration_r	_	_
+82	and the end was jagged .	0	_	_	_	81	elaboration_r	_	_
+83	On the floor was a wrapper from a French Chew .	2	_	_	_	78	joint_m	_	_
+84	They were sold at eighth - grade basketball games on Friday nights .	0	_	_	_	83	elaboration_r	_	_
+85	The light from the door made the shadows under the bleachers darker ,	3	_	_	_	78	joint_m	_	_
+86	the long space stretched far away .	0	_	_	_	85	elaboration_r	_	_
+87	I heard the rain and the faint rustle of paper	2	_	_	_	60	joint_m	_	_
+88	and smelled damp concrete .	0	_	_	_	87	joint_m	_	_
+89	I did not go near my father	1	_	_	_	90	adversative_r_r	_	_
+90	but kept my hand in my pocket ,	1	_	_	_	87	adversative_m	_	_
+91	feeling the soft leather glove .	0	_	_	_	90	causal_r	_	_
+92	There was a rustling on the concrete and the drizzle of soft rain .	2	_	_	_	87	joint_m	_	_
+93	I wondered	1	_	_	_	94	attribution_r	_	_
+94	if anyone ever went back under the bleachers ,	0	_	_	_	92	elaboration_r	_	_
+95	if there were crickets or mice there .	0	_	_	_	94	joint_m	_	_
+96	The rustling might have been mice .	2	_	_	_	94	elaboration_r	_	_
+97	I wished the rain would stop .	1	_	_	_	92	joint_m	_	_
+98	I wanted to go home .	0	_	_	_	97	joint_m	_	_
+99	I made noises with my heels	2	_	_	_	92	joint_m	_	_
+100	but they were too loud	0	_	_	_	99	adversative_m	_	_
+101	so I stopped .	0	_	_	_	100	causal_r	_	_
+102	Something else clicked	0	_	_	_	103	causal_r	_	_
+103	and I tried to see what it was	1	_	_	_	99	joint_m	_	_
+104	but could n’t see anything .	1	_	_	_	103	adversative_m	_	_
+105	It was n’t as loud as my heels .	2	_	_	_	103	elaboration_r	_	_
+106	My father cleared his throat ,	3	_	_	_	103	joint_m	_	_
+107	looking out the door .	0	_	_	_	106	mode_r	_	_
+108	I imagined a man down there in the dark , an escaped convict or a madman .	1	_	_	_	106	causal_r	_	_
+109	It had nearly stopped raining .	1	_	_	_	110	context_r	_	_
+110	In fifteen minutes we would be home	2	_	_	_	106	joint_m	_	_
+111	and my mother would fry eggs .	0	_	_	_	110	joint_m	_	_
+112	I heard a noise like paper .	4	_	_	_	103	joint_m	_	_
+113	My father heard it , too ,	0	_	_	_	112	joint_m	_	_
+114	but he pretended not to ,	0	_	_	_	113	adversative_r_r	_	_
+115	at least he did n’t turn his head .	0	_	_	_	114	elaboration_r	_	_
+116	And there was a heavier sound , a rasp , like a box	1	_	_	_	112	joint_m	_	_
+117	pulled over concrete .	0	_	_	_	116	elaboration_r	_	_
+118	I looked at my father	1	_	_	_	116	joint_m	_	_
+119	but he did n’t turn his head .	0	_	_	_	118	adversative_m	_	_
+120	I wished he would turn his head .	1	_	_	_	118	evaluation_r	_	_
+121	There was a click again and the rustle ,	2	_	_	_	112	joint_m	_	_
+122	and I could not think of what it could be .	0	_	_	_	121	evaluation_r	_	_
+123	I had no explanation for the particular combination of sounds .	1	_	_	_	121	joint_m	_	_
+124	No doubt there was , some two things	0	_	_	_	123	adversative_m	_	_
+125	that happened to be making noises at the same time .	0	_	_	_	124	elaboration_r	_	_
+126	Once in a fever I heard thousands of birds outside my window	2	_	_	_	128	context_r	_	_
+127	and I was terrified	1	_	_	_	128	attribution_r	_	_
+128	that they would fling themselves through the glass	0	_	_	_	130	adversative_r_r	_	_
+129	and attack me ,	0	_	_	_	128	joint_m	_	_
+130	but it was only the rain on the eaves .	3	_	_	_	112	joint_m	_	_

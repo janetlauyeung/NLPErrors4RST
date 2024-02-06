@@ -1,0 +1,68 @@
+1	Vava’u is a group of more than 50 islands in Tonga , about 150 miles north of Tongatapu .	5	_	_	_	3	context_r	_	_
+2	They are either raised coral limestone or coral atolls .	3	_	_	_	3	context_r	_	_
+3	The beautiful harbour opposite the main town of Neiafu	0	_	_	_	0	ROOT	_	_
+4	( known as the Port of Refuge Harbour )	0	_	_	_	3	elaboration_r	_	_
+5	is a common destination for yachties	1	_	_	_	3	same-unit_m	_	_
+6	sailing the South Pacific .	0	_	_	_	5	elaboration_r	_	_
+7	The waters of the islands are known for their clarity ,	2	_	_	_	3	elaboration_r	_	_
+8	it being said that you can see the bottom at 40 metres .	0	_	_	_	7	explanation_r	_	_
+9	The area attracts many humpback whales between June and November	1	_	_	_	7	joint_m	_	_
+10	and there are lots of companies	0	_	_	_	9	joint_m	_	_
+11	organising tours	0	_	_	_	10	elaboration_r	_	_
+12	to see them .	0	_	_	_	11	purpose_r	_	_
+13	There are numerous places	2	_	_	_	7	joint_m	_	_
+14	to stay	0	_	_	_	13	purpose_r	_	_
+15	to suit most budgets .	1	_	_	_	13	purpose_r	_	_
+16	Understand	6	_	_	_	19	organization_r	_	_
+17	Findings of Lapita pottery suggest	0	_	_	_	18	attribution_r	_	_
+18	that early - Polynesians were on these islands close to 3000 years ago .	5	_	_	_	19	context_r	_	_
+19	These days there are around 20000 people	4	_	_	_	3	joint_m	_	_
+20	living in the Group .	0	_	_	_	19	elaboration_r	_	_
+21	Neiafu and surrounding villages are home to about a third of the Group ’s overall population of around 20000 ,	1	_	_	_	19	elaboration_r	_	_
+22	with the majority of the population living in small villages on the other islands .	0	_	_	_	21	elaboration_r	_	_
+23	Neiafu is the official port of entry for yachts	2	_	_	_	19	joint_m	_	_
+24	coming to Vava'u ,	0	_	_	_	23	elaboration_r	_	_
+25	which attracts over 500 yachts every winter sailing season between June and October .	1	_	_	_	23	elaboration_r	_	_
+26	A string of islands and reefs along the eastern edge of the Group shelters the area from strong winds and ocean swellS	2	_	_	_	23	joint_m	_	_
+27	and humpback whales come to these protected waters	0	_	_	_	26	causal_r	_	_
+28	to give birth .	0	_	_	_	27	purpose_r	_	_
+29	This is the high season for tourism ;	3	_	_	_	19	joint_m	_	_
+30	between December and April few people visit	0	_	_	_	29	explanation_r	_	_
+31	and many tour companies and restaurants close down .	0	_	_	_	30	joint_m	_	_
+32	Neiafu town is the centre of activity .	4	_	_	_	19	joint_m	_	_
+33	It is on the southern point of the main island of Utu Vava'u	0	_	_	_	32	elaboration_r	_	_
+34	and has an attractive setting on one of the world 's most beautiful harbours .	0	_	_	_	33	joint_m	_	_
+35	Neiafu offers all the usual amenities including banks , schools , tour companies , restaurants , cafes and bars , supermarkets , a market and a hospital .	1	_	_	_	32	elaboration_r	_	_
+36	It does n't have a beach	0	_	_	_	37	adversative_r_r	_	_
+37	but boats to one of the nearby coral atolls with superb sandy beaches are easily available .	2	_	_	_	32	joint_m	_	_
+38	Climate	2	_	_	_	39	organization_r	_	_
+39	Vava'u has a tropical climate with average temperatures up to 29 º C in January and down to 24 º C in June .	7	_	_	_	19	joint_m	_	_
+40	It is sunny throughout the year .	0	_	_	_	39	joint_m	_	_
+41	Between November and April , it is more humid	0	_	_	_	40	joint_m	_	_
+42	and thunderstorms and cyclones do occur .	0	_	_	_	41	joint_m	_	_
+43	From May to September there are southeast trade winds	1	_	_	_	41	joint_m	_	_
+44	but during the summer months the winds are from the northeast .	0	_	_	_	43	adversative_m	_	_
+45	Port of Refuge Harbor at Neiafu	1	_	_	_	39	context_r	_	_
+46	Orientation	3	_	_	_	48	organization_r	_	_
+47	The main islands are :	2	_	_	_	48	organization_r	_	_
+48	Utu Vava'u .	3	_	_	_	39	joint_m	_	_
+49	This is the largest island ,	0	_	_	_	48	elaboration_r	_	_
+50	where Neiafu is found .	0	_	_	_	49	elaboration_r	_	_
+51	It is a limestone island with heights up to 213 m in the west .	1	_	_	_	49	elaboration_r	_	_
+52	The island provides a home to eleven indigenous bird species	0	_	_	_	51	joint_m	_	_
+53	and contains Mt. Talau national park , with some of the limited remaining native vegetation .	0	_	_	_	52	joint_m	_	_
+54	Tropical vegetation includes the pandanus or screw pine , the casuarina , and the mulberry tree ,	1	_	_	_	52	elaboration_r	_	_
+55	the bark of which is used	0	_	_	_	54	elaboration_r	_	_
+56	to make tapa cloth .	0	_	_	_	55	purpose_r	_	_
+57	Pangaimotu .	1	_	_	_	48	joint_m	_	_
+58	This is the second largest island in the Group .	0	_	_	_	57	elaboration_r	_	_
+59	It can be seen across the water from Neiafu	0	_	_	_	58	elaboration_r	_	_
+60	and is connected by land bridge at the most southern point of ‘Utu Vava’u .	0	_	_	_	59	joint_m	_	_
+61	There are some good beaches and plenty of secluded cove beaches and protected bays with good snorkelling .	1	_	_	_	57	joint_m	_	_
+62	Avai'o'vuna Swamp is a small coastal wetland on the island .	2	_	_	_	57	joint_m	_	_
+63	Hunga Island .	3	_	_	_	57	joint_m	_	_
+64	This is some 35 minutes from Neiafu Harbour	0	_	_	_	63	elaboration_r	_	_
+65	and provides the main concentration of humpback whales .	0	_	_	_	64	joint_m	_	_
+66	The island lies in deep water	1	_	_	_	64	joint_m	_	_
+67	and has sheltered waters and bays	0	_	_	_	66	joint_m	_	_
+68	which provide a resting place for humpbacks with calves .	0	_	_	_	67	elaboration_r	_	_

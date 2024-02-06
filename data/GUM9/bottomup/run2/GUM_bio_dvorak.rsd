@@ -1,0 +1,71 @@
+1	Antonín Dvořák	5	_	_	_	2	Organization_r	_	_
+2	Antonín Leopold Dvořák	0	_	_	_	0	ROOT	_	_
+3	( / d(ə)ˈvɔːrʒɑːk , -ʒæk / d(ə)-VOR-zha(h)k ;	0	_	_	_	2	Elaboration_r	_	_
+4	Czech :	1	_	_	_	2	Joint_m	_	_
+5	[ ˈantoɲiːn ˈlɛopolt ˈdvor̝aːk ] ;	0	_	_	_	4	Organization_r	_	_
+6	8 September 1841 – 1 May 1904 )	1	_	_	_	2	Joint_m	_	_
+7	was a Czech composer .	2	_	_	_	2	Same-Unit_m	_	_
+8	After Bedřich Smetana , he was the next Czech Romantic - era composer	3	_	_	_	2	Elaboration_r	_	_
+9	to achieve worldwide recognition .	0	_	_	_	8	Purpose_r	_	_
+10	Following Smetana 's nationalist example ,	0	_	_	_	11	Context_r	_	_
+11	Dvořák frequently employed aspects , specifically rhythms , of the folk music of Moravia and his native Bohemia .	1	_	_	_	8	Elaboration_r	_	_
+12	Dvořák 's own style has been described as " the fullest recreation of a national idiom with that of the symphonic tradition ,	1	_	_	_	11	Joint_m	_	_
+13	absorbing folk influences and finding effective ways	0	_	_	_	12	Elaboration_r	_	_
+14	of using them " .	0	_	_	_	13	Elaboration_r	_	_
+15	[ 1 ]	2	_	_	_	11	Explanation_r	_	_
+16	Antonín Dvořák	3	_	_	_	17	Organization_r	_	_
+17	Dvořák displayed his musical gifts at an early age ,	4	_	_	_	2	Elaboration_r	_	_
+18	being an apt violin student from age six .	0	_	_	_	17	Context_r	_	_
+19	The first public performances of his works were in Prague in 1872 and , with special success , in 1873 ,	1	_	_	_	17	Joint_m	_	_
+20	when he was aged 31 .	0	_	_	_	19	Context_r	_	_
+21	Seeking recognition beyond the Prague area ,	1	_	_	_	22	Purpose_r	_	_
+22	he submitted a score of his First Symphony to a prize competition in Germany ,	1	_	_	_	19	Joint_m	_	_
+23	but did not win ,	0	_	_	_	22	Adversative_m	_	_
+24	and the unreturned manuscript was lost	0	_	_	_	23	Causal_r	_	_
+25	until rediscovered many decades later .	0	_	_	_	24	Context_r	_	_
+26	In 1874 he made a submission to the Austrian State Prize for Composition ,	2	_	_	_	22	Joint_m	_	_
+27	including scores of two further symphonies and other works .	0	_	_	_	26	Elaboration_r	_	_
+28	Although Dvořák was not aware of it ,	1	_	_	_	29	Adversative_r	_	_
+29	Johannes Brahms was the leading member of the jury	1	_	_	_	26	Context_r	_	_
+30	and was highly impressed .	0	_	_	_	29	Joint_m	_	_
+31	The prize was awarded to Dvořák in 1874	2	_	_	_	26	Joint_r	_	_
+32	[ a ]	0	_	_	_	31	Explanation_r	_	_
+33	and again in 1876	1	_	_	_	31	Joint_m	_	_
+34	and in 1877 ,	0	_	_	_	33	Joint_m	_	_
+35	when Brahms and the prominent critic Eduard Hanslick , also a member of the jury , made themselves known to him .	0	_	_	_	34	Same-Unit_r	_	_
+36	Brahms recommended Dvořák to his publisher , Simrock ,	2	_	_	_	31	Causal_m	_	_
+37	who soon afterward commissioned what became the Slavonic Dances , Op. 46 .	0	_	_	_	36	Elaboration_r	_	_
+38	These were highly praised by the Berlin music critic Louis Ehlert in 1878 ,	1	_	_	_	36	Elaboration_r	_	_
+39	the sheet music	0	_	_	_	42	Causal_r	_	_
+40	( of the original piano 4 - hands version )	0	_	_	_	39	Elaboration_r	_	_
+41	had excellent sales ,	1	_	_	_	39	Same-Unit_m	_	_
+42	and Dvořák 's international reputation was launched at last .	0	_	_	_	38	Joint_m	_	_
+43	Dvořák 's first piece of a religious nature , his setting of Stabat Mater , was premiered in Prague in 1880 .	2	_	_	_	17	Joint_m	_	_
+44	It was very successfully performed in London in 1883 ,	0	_	_	_	43	Joint_m	_	_
+45	leading to many other performances in the United Kingdom and United States .	0	_	_	_	44	Causal_r	_	_
+46	[ 2 ]	1	_	_	_	43	Explanation_r	_	_
+47	In his career , Dvořák made nine invited visits to England ,	2	_	_	_	43	Joint_m	_	_
+48	often conducting performances of his own works .	0	_	_	_	47	Mode_r	_	_
+49	His Seventh Symphony was written for London .	1	_	_	_	47	Joint_r	_	_
+50	Visiting Russia in March 1890 ,	0	_	_	_	51	Context_r	_	_
+51	he conducted concerts of his own music in Moscow and Saint Petersburg .	0	_	_	_	49	Joint_m	_	_
+52	[ 3 ]	1	_	_	_	51	Explanation_r	_	_
+53	In 1891 Dvořák was appointed as a professor at the Prague Conservatory .	2	_	_	_	51	Joint_m	_	_
+54	In 1890 – 91 , he wrote his Dumky Trio , one of his most successful chamber music pieces .	0	_	_	_	53	Joint_m	_	_
+55	In 1892 , Dvořák moved to the United States	0	_	_	_	54	Joint_m	_	_
+56	and became the director of the National Conservatory of Music of America in New York City .	0	_	_	_	55	Joint_m	_	_
+57	While in the United States ,	1	_	_	_	58	Context_r	_	_
+58	Dvořák wrote his two most successful orchestral works :	1	_	_	_	55	Joint_m	_	_
+59	the Symphony From the New World ,	0	_	_	_	58	Elaboration_r	_	_
+60	which spread his reputation worldwide ,	0	_	_	_	59	Elaboration_r	_	_
+61	[ 4 ]	2	_	_	_	58	Explanation_r	_	_
+62	and his Cello Concerto , one of the most highly regarded of all cello concerti .	3	_	_	_	58	Same-Unit_m	_	_
+63	He also wrote his most appreciated piece of chamber music , the American String Quartet , during this time .	4	_	_	_	58	Joint_m	_	_
+64	But shortfalls in payment of his salary , along with increasing recognition in Europe and an onset of homesickness , led him to leave the United States and return to Bohemia in 1895 .	0	_	_	_	63	Joint_m	_	_
+65	All of Dvořák 's nine operas but his first have librettos in Czech	2	_	_	_	47	Joint_m	_	_
+66	and were intended to convey Czech national spirit ,	0	_	_	_	65	Joint_m	_	_
+67	as were some of his choral works .	1	_	_	_	65	Joint_m	_	_
+68	By far the most successful of the operas is Rusalka .	1	_	_	_	65	Joint_m	_	_
+69	Among his smaller works , the seventh Humoresque and the song " Songs My Mother Taught Me " are also widely performed and recorded .	0	_	_	_	68	Joint_m	_	_
+70	He has been described as " arguably the most versatile ... composer of his time " .	0	_	_	_	69	Joint_m	_	_
+71	[ 5 ]	0	_	_	_	70	Explanation_r	_	_

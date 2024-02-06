@@ -1,0 +1,177 @@
+1	Are you —	0	_	_	_	2	Organization_r	_	_
+2	do they still teach at Bahia on Sunday ?	2	_	_	_	4	Organization_r	_	_
+3	Night ?	1	_	_	_	4	Topic_r	_	_
+4	Oh yeah .	2	_	_	_	7	Adversative_r	_	_
+5	In fact I would have gone today ,	0	_	_	_	4	Elaboration_r	_	_
+6	if it was n't for my back .	0	_	_	_	5	Contingency_r	_	_
+7	Well I finally found some people there	2	_	_	_	23	Topic_r	_	_
+8	I can dance with .	0	_	_	_	7	Elaboration_r	_	_
+9	So that helps .	1	_	_	_	7	Causal_r	_	_
+10	Do you need a partner ?	1	_	_	_	13	Topic_r	_	_
+11	To go there ?	0	_	_	_	10	Purpose_r	_	_
+12	Yeah .	0	_	_	_	13	Topic_r	_	_
+13	No .	3	_	_	_	7	Elaboration_r	_	_
+14	Besides , you , I mean	0	_	_	_	15	Organization_r	_	_
+15	if you 're a guy , if —	2	_	_	_	18	Organization_r	_	_
+16	If you 're a woman ,	1	_	_	_	18	Contingency_r	_	_
+17	I mean ,	0	_	_	_	18	Organization_r	_	_
+18	those guys 'll be all over you .	2	_	_	_	13	Adversative_r	_	_
+19	I swear it .	3	_	_	_	18	Evaluation_r	_	_
+20	Do n't say that ,	4	_	_	_	18	Elaboration_r	_	_
+21	Harold 's in the room .	0	_	_	_	20	Explanation_r	_	_
+22	Run along now , dear .	0	_	_	_	23	Organization_r	_	_
+23	You could come too .	0	_	_	_	0	ROOT	_	_
+24	Well I do n't necessarily mean , in a bad way ,	1	_	_	_	27	Adversative_r	_	_
+25	even though I 'm sure	0	_	_	_	26	Attribution_r	_	_
+26	there are a few there ,	0	_	_	_	27	Adversative_r	_	_
+27	I 'm not dancing with guys .	1	_	_	_	28	Explanation_r	_	_
+28	All	1	_	_	_	23	Evaluation_r	_	_
+29	I can say	0	_	_	_	30	Attribution_r	_	_
+30	is , the women are n't all over me .	0	_	_	_	28	Elaboration_m	_	_
+31	Darn .	2	_	_	_	28	Evaluation_r	_	_
+32	Ooh .	0	_	_	_	31	Joint_m	_	_
+33	But , but I remember ,	1	_	_	_	37	Evaluation_r	_	_
+34	like I went there with this person ,	0	_	_	_	35	Evaluation_r	_	_
+35	it 's kind of funny .	0	_	_	_	33	Explanation_r	_	_
+36	Th- this person did not want to dance .	0	_	_	_	37	Causal_r	_	_
+37	So she 's just gon na watch .	2	_	_	_	38	Explanation_r	_	_
+38	So , every once in a while I 'd get up	3	_	_	_	28	Adversative_m	_	_
+39	and dance ,	0	_	_	_	38	Joint_m	_	_
+40	and it 's like ,	1	_	_	_	38	Adversative_m	_	_
+41	when I 'd come back ,	2	_	_	_	43	Context_r	_	_
+42	I mean	1	_	_	_	43	Organization_r	_	_
+43	there was some guy there ,	0	_	_	_	40	Same-Unit_m	_	_
+44	sitting in my chair .	0	_	_	_	43	Elaboration_r	_	_
+45	Every time	1	_	_	_	40	Context_r	_	_
+46	I got up .	0	_	_	_	45	Context_r	_	_
+47	I 'm thinking ,	0	_	_	_	48	Attribution_r	_	_
+48	God these guys do n't waste any time .	3	_	_	_	38	Evaluation_r	_	_
+49	I mean ,	1	_	_	_	50	Organization_r	_	_
+50	you turn your back	1	_	_	_	48	Explanation_r	_	_
+51	and there 's somebody	0	_	_	_	50	Joint_m	_	_
+52	moving in .	0	_	_	_	51	Elaboration_r	_	_
+53	I mean	1	_	_	_	55	Organization_r	_	_
+54	I do n't know	0	_	_	_	55	Attribution_r	_	_
+55	if they —	0	_	_	_	56	Organization_r	_	_
+56	Maybe Harold you should come with me .	2	_	_	_	50	Joint_m	_	_
+57	Why ?	1	_	_	_	58	Topic_r	_	_
+58	Learn some lam- lambada .	1	_	_	_	56	Explanation_r	_	_
+59	So I can find —	1	_	_	_	60	Organization_r	_	_
+60	find some girls	0	_	_	_	62	Topic_r	_	_
+61	with empty chairs next to em ?	0	_	_	_	60	Elaboration_r	_	_
+62	Maybe I should go with Miles .	0	_	_	_	58	Purpose_r	_	_
+63	Oh did —	0	_	_	_	64	Organization_r	_	_
+64	Yeah , you guys could be partners .	2	_	_	_	69	Adversative_r	_	_
+65	Did —	1	_	_	_	64	Restatement_r	_	_
+66	What ?	0	_	_	_	65	Organization_m	_	_
+67	Well I do n't know	0	_	_	_	68	Attribution_r	_	_
+68	if I told you ,	1	_	_	_	69	Organization_r	_	_
+69	told you that story about that woman ,	1	_	_	_	71	Topic_r	_	_
+70	who uh , went after that guy there ?	0	_	_	_	69	Elaboration_r	_	_
+71	I told you that story ,	2	_	_	_	75	Topic_r	_	_
+72	right ?	0	_	_	_	71	Organization_r	_	_
+73	I was there Sunday three four weeks ago ?	2	_	_	_	71	Organization_r	_	_
+74	Uh , after the class is over w- over with ,	1	_	_	_	75	Context_r	_	_
+75	I 'm sitting down at a table ,	2	_	_	_	127	Evaluation_r	_	_
+76	there 's a woman from —	0	_	_	_	75	Context_r	_	_
+77	who was in the class ,	0	_	_	_	76	Elaboration_r	_	_
+78	and two men ,	1	_	_	_	76	Joint_m	_	_
+79	sitting to my right , is a table	0	_	_	_	78	Elaboration_r	_	_
+80	with two women there .	1	_	_	_	78	Elaboration_m	_	_
+81	They had apparently just come from Oba Oba .	2	_	_	_	76	Elaboration_r	_	_
+82	On the last night —	3	_	_	_	75	Restatement_r	_	_
+83	Oh I think	0	_	_	_	84	Attribution_r	_	_
+84	you told me .	0	_	_	_	82	Explanation_r	_	_
+85	The last night —	1	_	_	_	82	Restatement_r	_	_
+86	Yeah .	0	_	_	_	85	Organization_r	_	_
+87	And like , well they were attractive women ,	4	_	_	_	91	Context_r	_	_
+88	the one had on a real real short skirt .	0	_	_	_	87	Elaboration_r	_	_
+89	Anyway , there was this guy in his fifties , out there	2	_	_	_	91	Context_r	_	_
+90	dancing , by himself .	0	_	_	_	89	Elaboration_r	_	_
+91	And the woman was just looking at him ,	4	_	_	_	75	Elaboration_r	_	_
+92	making eyes ,	0	_	_	_	91	Mode_r	_	_
+93	then she went out there ,	1	_	_	_	91	Joint_m	_	_
+94	got on her knees , in front of him , in this skirt	0	_	_	_	93	Joint_m	_	_
+95	that 's this short ,	0	_	_	_	94	Elaboration_r	_	_
+96	takes her hands ,	1	_	_	_	94	Joint_m	_	_
+97	and goes along his toes , and then up ,	0	_	_	_	96	Joint_m	_	_
+98	and is just doing like that .	0	_	_	_	97	Joint_m	_	_
+99	Ooh .	3	_	_	_	91	Evaluation_r	_	_
+100	I figured ,	0	_	_	_	101	Attribution_r	_	_
+101	oh , they must know each other .	5	_	_	_	91	Evaluation_r	_	_
+102	Ooh .	1	_	_	_	101	Evaluation_r	_	_
+103	Very well , in fact .	0	_	_	_	102	Restatement_m	_	_
+104	Mhm .	1	_	_	_	102	Organization_r	_	_
+105	Gross .	2	_	_	_	102	Joint_m	_	_
+106	That 's what I assumed .	3	_	_	_	102	Attribution_r	_	_
+107	And , they did that for the whole dance ,	2	_	_	_	101	Elaboration_r	_	_
+108	and I mean ,	0	_	_	_	109	Organization_r	_	_
+109	she was d- all kind of suggestive stuff ,	0	_	_	_	107	Evaluation_r	_	_
+110	and touching him and everything ,	2	_	_	_	111	Mode_r	_	_
+111	people would like cheering ,	1	_	_	_	109	Elaboration_r	_	_
+112	and clapping ,	0	_	_	_	111	Joint_m	_	_
+113	" go for it " .	1	_	_	_	111	Restatement_m	_	_
+114	And all this kind of thing ?	5	_	_	_	75	Restatement_r	_	_
+115	The – the song ended ,	0	_	_	_	116	Context_r	_	_
+116	the guy set down , at another table .	6	_	_	_	75	Restatement_m	_	_
+117	And she set down —	0	_	_	_	119	Organization_r	_	_
+118	At a —	0	_	_	_	117	Restatement_m	_	_
+119	At the table with her woman friend .	1	_	_	_	116	Joint_m	_	_
+120	They never danced again the rest of the evening .	1	_	_	_	119	Elaboration_r	_	_
+121	Hm .	2	_	_	_	124	Organization_r	_	_
+122	This is like —	0	_	_	_	121	Organization_m	_	_
+123	so I was thinking ,	1	_	_	_	124	Attribution_r	_	_
+124	this woman 's sitting about as far away from me	2	_	_	_	119	Evaluation_r	_	_
+125	as Jamie is .	0	_	_	_	124	Mode_r	_	_
+126	And I was thinking ,	0	_	_	_	127	Attribution_r	_	_
+127	hm , this is interesting .	2	_	_	_	176	Organization_r	_	_
+128	I wonder	0	_	_	_	129	Attribution_r	_	_
+129	how long it was gon na take the guys in this club to move in on her .	2	_	_	_	134	Context_r	_	_
+130	No sooner did I think this thought ,	0	_	_	_	131	Context_r	_	_
+131	guys were over there .	1	_	_	_	129	Context_r	_	_
+132	What , you did n't ask her to dance ?	1	_	_	_	134	Topic_r	_	_
+133	Not Miles ,	0	_	_	_	134	Causal_r	_	_
+134	he 's just in daze .	1	_	_	_	127	Explanation_r	_	_
+135	Well I was still trying to figure out ,	0	_	_	_	136	Organization_r	_	_
+136	surely they must know each other ,	3	_	_	_	134	Evaluation_r	_	_
+137	I mean ,	0	_	_	_	138	Organization_r	_	_
+138	why was n't he sitting at her table ?	1	_	_	_	136	Explanation_r	_	_
+139	You mean ,	0	_	_	_	140	Organization_r	_	_
+140	you were still thinking about it .	1	_	_	_	138	Evaluation_r	_	_
+141	Anyway , this guy ,	3	_	_	_	159	Context_r	_	_
+142	I mean	0	_	_	_	143	Organization_r	_	_
+143	he comes over there , immediately afterwards —	0	_	_	_	141	Restatement_m	_	_
+144	The same guy	2	_	_	_	148	Adversative_r	_	_
+145	who got his —	0	_	_	_	144	Elaboration_r	_	_
+146	the same guy	1	_	_	_	144	Same-Unit_m	_	_
+147	who 's —	0	_	_	_	146	Elaboration_r	_	_
+148	No , it 's just some random guy .	1	_	_	_	141	Elaboration_r	_	_
+149	Or just some random guy .	0	_	_	_	148	Joint_m	_	_
+150	No , a random guy ,	1	_	_	_	148	Restatement_r	_	_
+151	who was like sitting	0	_	_	_	150	Elaboration_r	_	_
+152	about where you are .	0	_	_	_	151	Attribution_r	_	_
+153	Yeah .	3	_	_	_	148	Organization_r	_	_
+154	He was sitting there ,	4	_	_	_	148	Elaboration_r	_	_
+155	there were two guys	0	_	_	_	154	Adversative_r	_	_
+156	sitting at a table	0	_	_	_	155	Elaboration_r	_	_
+157	right where you are .	0	_	_	_	156	Elaboration_r	_	_
+158	And then these two women are sitting here .	1	_	_	_	155	Joint_m	_	_
+159	So uh , he comes over there ,	1	_	_	_	176	Topic_r	_	_
+160	and is talking with that woman	0	_	_	_	159	Joint_m	_	_
+161	I do n't know about what ,	1	_	_	_	159	Elaboration_r	_	_
+162	but then like ten minutes later , she and her friend are over at their table .	2	_	_	_	159	Adversative_m	_	_
+163	And then , twenty minutes later , they were kinda like all over each other .	0	_	_	_	162	Joint_m	_	_
+164	You know ,	0	_	_	_	165	Organization_r	_	_
+165	kissing , et cetera , et cetera .	0	_	_	_	163	Elaboration_r	_	_
+166	And I was thinking ,	1	_	_	_	168	Attribution_r	_	_
+167	it looks like	0	_	_	_	168	Evaluation_r	_	_
+168	these people are n't going home alone tonight .	2	_	_	_	172	Adversative_r	_	_
+169	Gosh .	2	_	_	_	168	Organization_r	_	_
+170	But I just thought that —	1	_	_	_	172	Organization_r	_	_
+171	No wonder	0	_	_	_	172	Evaluation_r	_	_
+172	they forbid this dance .	1	_	_	_	163	Evaluation_r	_	_
+173	So —	1	_	_	_	175	Organization_r	_	_
+174	Oh my God ,	0	_	_	_	175	Organization_r	_	_
+175	what a story .	3	_	_	_	172	Organization_r	_	_
+176	Well , maybe I should n't go there then .	2	_	_	_	56	Joint_m	_	_
+177	Yeah , maybe you should n't .	0	_	_	_	176	Restatement_m	_	_

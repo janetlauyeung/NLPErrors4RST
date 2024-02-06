@@ -1,0 +1,80 @@
+1	Why the Division of Labor Increases Production	0	_	_	_	0	ROOT	_	_
+2	When we divide and subdivide the tasks	3	_	_	_	11	Context_r	_	_
+3	involved with producing a good or service ,	0	_	_	_	2	Elaboration_r	_	_
+4	workers and businesses can produce a greater quantity of output .	1	_	_	_	2	Causal_r	_	_
+5	In his observations of pin factories , Smith noticed	1	_	_	_	6	Attribution_r	_	_
+6	that one worker alone might make 20 pins in a day ,	2	_	_	_	11	Context_r	_	_
+7	but that a small business of 10 workers	0	_	_	_	6	Adversative_m	_	_
+8	( some of whom would need to complete two or three of the 18 tasks	0	_	_	_	7	Elaboration_r	_	_
+9	involved with pin - making ) ,	0	_	_	_	8	Elaboration_r	_	_
+10	could make 48,000 pins in a day .	1	_	_	_	7	Same-Unit_m	_	_
+11	How can a group of workers ,	5	_	_	_	16	Topic_r	_	_
+12	each specializing in certain tasks ,	0	_	_	_	11	Elaboration_r	_	_
+13	produce so much more than the same number of workers	1	_	_	_	11	Same-Unit_m	_	_
+14	who try to produce the entire good or service by themselves ?	0	_	_	_	13	Elaboration_r	_	_
+15	Smith offered three reasons .	4	_	_	_	16	Organization_r	_	_
+16	First , specialization in a particular small job allows workers to focus on the parts of the production process	0	_	_	_	1	Context_r	_	_
+17	where they have an advantage .	0	_	_	_	16	Elaboration_r	_	_
+18	( In later chapters , we will develop this idea	1	_	_	_	16	Restatement_r	_	_
+19	by discussing comparative advantage . )	0	_	_	_	18	Mode_r	_	_
+20	People have different skills , talents , and interests ,	0	_	_	_	21	Causal_r	_	_
+21	so they will be better at some jobs than at others .	2	_	_	_	16	Elaboration_r	_	_
+22	The particular advantages may be based on educational choices ,	1	_	_	_	25	Joint_r	_	_
+23	which are in turn shaped by interests and talents .	0	_	_	_	22	Elaboration_r	_	_
+24	Only those with medical degrees qualify to become doctors , for instance .	1	_	_	_	22	Adversative_r	_	_
+25	For some goods , geography affects specialization .	1	_	_	_	21	Joint_m	_	_
+26	For example , it is easier to be a wheat farmer in North Dakota	0	_	_	_	25	Elaboration_r	_	_
+27	than in Florida ,	0	_	_	_	26	Adversative_r	_	_
+28	but easier to run a tourist hotel in Florida	1	_	_	_	26	Adversative_m	_	_
+29	than in North Dakota .	0	_	_	_	28	Adversative_r	_	_
+30	If you live in or near a big city ,	2	_	_	_	31	Contingency_r	_	_
+31	it is easier to attract enough customers	3	_	_	_	37	Context_r	_	_
+32	to operate a successful dry cleaning business or movie theater	0	_	_	_	31	Purpose_r	_	_
+33	than if you live in a sparsely populated rural area .	1	_	_	_	31	Adversative_r	_	_
+34	Whatever the reason ,	2	_	_	_	37	Adversative_r	_	_
+35	if people specialize in the production	1	_	_	_	37	Contingency_r	_	_
+36	of what they do best ,	0	_	_	_	35	Elaboration_r	_	_
+37	they will be more effective	2	_	_	_	26	Joint_m	_	_
+38	than if they produce a combination of things ,	0	_	_	_	37	Adversative_r	_	_
+39	some of which they are good at	0	_	_	_	38	Elaboration_r	_	_
+40	and some of which they are not .	0	_	_	_	39	Adversative_m	_	_
+41	Second , workers	3	_	_	_	16	Joint_m	_	_
+42	who specialize in certain tasks	0	_	_	_	41	Elaboration_r	_	_
+43	often learn to produce more quickly and with higher quality .	1	_	_	_	41	Same-Unit_r	_	_
+44	This pattern holds true for many workers ,	2	_	_	_	41	Explanation_r	_	_
+45	including assembly line laborers	0	_	_	_	44	Elaboration_r	_	_
+46	who build cars ,	0	_	_	_	45	Elaboration_r	_	_
+47	stylists	1	_	_	_	45	Same-Unit_m	_	_
+48	who cut hair ,	0	_	_	_	47	Elaboration_r	_	_
+49	and doctors	1	_	_	_	47	Same-Unit_m	_	_
+50	who perform heart surgery .	0	_	_	_	49	Elaboration_r	_	_
+51	In fact , specialized workers often know their jobs well enough	1	_	_	_	44	Explanation_r	_	_
+52	to suggest innovative ways	0	_	_	_	51	Mode_r	_	_
+53	to do their work faster and better .	0	_	_	_	52	Purpose_r	_	_
+54	A similar pattern often operates within businesses .	3	_	_	_	41	Joint_m	_	_
+55	In many cases , a business	0	_	_	_	54	Elaboration_r	_	_
+56	that focuses on one or a few products	0	_	_	_	55	Elaboration_r	_	_
+57	( sometimes called its “ core competency ” )	0	_	_	_	56	Elaboration_r	_	_
+58	is more successful than firms	1	_	_	_	55	Same-Unit_m	_	_
+59	that try to make a wide range of products .	0	_	_	_	58	Elaboration_r	_	_
+60	Third , specialization allows businesses to take advantage of economies of scale ,	1	_	_	_	61	Causal_r	_	_
+61	which means that for many goods ,	1	_	_	_	54	Joint_m	_	_
+62	as the level of production increases ,	2	_	_	_	63	Context_r	_	_
+63	the average cost	0	_	_	_	61	Same-Unit_m	_	_
+64	of producing each individual unit	0	_	_	_	63	Elaboration_r	_	_
+65	declines .	1	_	_	_	63	Same-Unit_m	_	_
+66	For example ,	2	_	_	_	61	Elaboration_r	_	_
+67	if a factory produces only 100 cars per year ,	0	_	_	_	68	Contingency_r	_	_
+68	each car will be quite expensive to make on average .	0	_	_	_	66	Same-Unit_m	_	_
+69	However ,	1	_	_	_	66	Adversative_m	_	_
+70	if a factory produces 50,000 cars each year ,	2	_	_	_	71	Contingency_r	_	_
+71	then it can set up an assembly line with huge machines and workers	0	_	_	_	69	Same-Unit_m	_	_
+72	performing specialized tasks ,	0	_	_	_	71	Elaboration_r	_	_
+73	and the average cost of production per car will be lower .	1	_	_	_	71	Causal_r	_	_
+74	The ultimate result of workers	3	_	_	_	61	Causal_r	_	_
+75	who can focus on their preferences and talents ,	0	_	_	_	74	Elaboration_r	_	_
+76	learn to do their specialized jobs better ,	0	_	_	_	75	Joint_m	_	_
+77	and work in larger organizations	0	_	_	_	76	Joint_m	_	_
+78	is that society as a whole can produce and consume far more	1	_	_	_	74	Same-Unit_m	_	_
+79	than if each person tried to produce all of his or her own goods and services .	0	_	_	_	78	Adversative_r	_	_
+80	The division and specialization of labor has been a force against the problem of scarcity .	4	_	_	_	61	Evaluation_r	_	_

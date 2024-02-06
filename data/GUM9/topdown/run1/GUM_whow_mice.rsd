@@ -1,0 +1,130 @@
+1	How to Get Rid of Mice Naturally	3	_	_	_	10	organization_r	_	_
+2	Having mice in your home is both a nuisance and a health hazard .	1	_	_	_	10	explanation_r	_	_
+3	They can cause property damage ,	0	_	_	_	2	explanation_r	_	_
+4	create a mess ,	0	_	_	_	3	joint_m	_	_
+5	and produce unpleasant smells .	0	_	_	_	4	joint_m	_	_
+6	In addition , repelling and removing rodents from your home can be a hassle	1	_	_	_	2	joint_m	_	_
+7	if you do n't know what you are doing .	0	_	_	_	6	contingency_r	_	_
+8	It can also be dangerous	1	_	_	_	6	joint_m	_	_
+9	if you use toxic chemicals and poisons .	0	_	_	_	8	contingency_r	_	_
+10	It 's a good thing , then , that there are some simple ways	0	_	_	_	0	ROOT	_	_
+11	to effectively get mice out of your home	0	_	_	_	10	purpose_r	_	_
+12	without the use of toxic chemicals and poisons .	0	_	_	_	11	mode_r	_	_
+13	Method 1	4	_	_	_	15	organization_r	_	_
+14	Discouraging Mice Naturally	3	_	_	_	15	organization_r	_	_
+15	Keep your home clean .	2	_	_	_	10	joint_m	_	_
+16	Many times mice are drawn into homes on the search for food .	1	_	_	_	18	context_r	_	_
+17	If there is nothing to eat ,	0	_	_	_	18	contingency_r	_	_
+18	mice will be less likely to stay .	1	_	_	_	19	context_r	_	_
+19	Keep all food stored properly in airtight containers or in places	0	_	_	_	15	elaboration_r	_	_
+20	that are safe from mouse attack .	0	_	_	_	19	elaboration_r	_	_
+21	[ 1 ]	1	_	_	_	15	explanation_r	_	_
+22	Apply peppermint oil .	2	_	_	_	15	joint_m	_	_
+23	Peppermint oil is a natural deterrent .	0	_	_	_	22	explanation_r	_	_
+24	The smell is simply too intense for rodents	0	_	_	_	23	explanation_r	_	_
+25	and they will not try to go near it .	0	_	_	_	24	causal_r	_	_
+26	It also helps to mask the scent of any tasty morsels	1	_	_	_	23	joint_m	_	_
+27	that have been missed	0	_	_	_	26	elaboration_r	_	_
+28	when cleaning .	1	_	_	_	26	context_r	_	_
+29	It also gives the house a lovely smell ,	2	_	_	_	26	joint_m	_	_
+30	and is not toxic , unlike many synthetic chemical treatments .	0	_	_	_	29	joint_m	_	_
+31	You can get peppermint oil in most health food stores and even some major grocery stores .	2	_	_	_	23	explanation_r	_	_
+32	[ 2 ]	0	_	_	_	31	explanation_r	_	_
+33	Place a drop or two on a cotton ball .	3	_	_	_	23	joint_m	_	_
+34	Place a cotton ball under or near your garbage can	0	_	_	_	33	elaboration_r	_	_
+35	to deter mice from getting into it .	0	_	_	_	34	purpose_r	_	_
+36	Place the cotton balls in areas	1	_	_	_	34	joint_m	_	_
+37	where mice are likely to enter your house , by doorways , or heat vents , etc.	0	_	_	_	36	elaboration_r	_	_
+38	Peppermint oil cotton balls need to be replaced after 5 - 7 days ,	1	_	_	_	36	elaboration_r	_	_
+39	depending upon the quantity of oil	0	_	_	_	38	contingency_r	_	_
+40	you put on it .	0	_	_	_	39	elaboration_r	_	_
+41	Try growing peppermint plants near the entryways .	1	_	_	_	33	joint_m	_	_
+42	You can use the mint in cooking ,	0	_	_	_	41	explanation_r	_	_
+43	as well as it serving a deterrent purpose .	0	_	_	_	42	joint_m	_	_
+44	Use dried snake feces .	1	_	_	_	22	joint_m	_	_
+45	Visit a local reptile center , zoo , or pet store	0	_	_	_	44	elaboration_r	_	_
+46	and ask for some dried snake poo .	0	_	_	_	45	joint_m	_	_
+47	You can also sometimes find someone	1	_	_	_	45	elaboration_r	_	_
+48	who owns a pet snake .	0	_	_	_	47	elaboration_r	_	_
+49	Place near entrances and in places	2	_	_	_	45	joint_m	_	_
+50	where mice seem to go .	0	_	_	_	49	elaboration_r	_	_
+51	This will keep mice away .	1	_	_	_	49	causal_r	_	_
+52	[ 3 ]	1	_	_	_	44	explanation_r	_	_
+53	Be sure to keep the feces out of the reach of children and pets .	2	_	_	_	44	joint_m	_	_
+54	Zap mice with ultrasonic sounds .	3	_	_	_	44	joint_m	_	_
+55	There are electronic units	0	_	_	_	54	elaboration_r	_	_
+56	sold	0	_	_	_	55	elaboration_r	_	_
+57	that emit an ultrasonic beeping sound	0	_	_	_	56	elaboration_r	_	_
+58	that rodents hate .	0	_	_	_	57	elaboration_r	_	_
+59	They should be available at your local home improvement store or online .	1	_	_	_	55	elaboration_r	_	_
+60	These work only on a single line of sight ,	0	_	_	_	61	explanation_r	_	_
+61	so you need to know the exact path the mice are taking .	2	_	_	_	55	elaboration_r	_	_
+62	The units may only work for a short time	1	_	_	_	61	explanation_r	_	_
+63	because mice can become used to them .	0	_	_	_	62	causal_r	_	_
+64	[ 4 ]	3	_	_	_	55	explanation_r	_	_
+65	Use a commercial , organic deterrent .	1	_	_	_	54	joint_m	_	_
+66	Many companies	0	_	_	_	65	elaboration_r	_	_
+67	that specialize in organic garden and home products	0	_	_	_	66	elaboration_r	_	_
+68	make mice repellents	1	_	_	_	66	same-unit_m	_	_
+69	that are better for the environment than traditional poisons .	2	_	_	_	66	elaboration_r	_	_
+70	Many of these products use natural ingredients , such as peppermint ,	3	_	_	_	66	elaboration_r	_	_
+71	that are known to be disagreeable to mice .	0	_	_	_	70	elaboration_r	_	_
+72	They will not kill mice	1	_	_	_	73	adversative_r_r	_	_
+73	but they should keep them out of areas	1	_	_	_	70	elaboration_r	_	_
+74	where the product is applied .	0	_	_	_	73	elaboration_r	_	_
+75	These products should be available at your local gardening or home improvement center .	4	_	_	_	66	elaboration_r	_	_
+76	If you want a specific product ,	1	_	_	_	77	contingency_r	_	_
+77	try doing a online search	5	_	_	_	66	elaboration_r	_	_
+78	to see where it is available locally .	0	_	_	_	77	purpose_r	_	_
+79	Get a cat .	2	_	_	_	22	joint_m	_	_
+80	A house cat can take care of the problem .	0	_	_	_	79	elaboration_r	_	_
+81	Cats	0	_	_	_	80	joint_m	_	_
+82	that spend time outdoors	0	_	_	_	81	elaboration_r	_	_
+83	are more likely to hunt	1	_	_	_	81	same-unit_m	_	_
+84	to find their own food	0	_	_	_	83	purpose_r	_	_
+85	and may track down that mouse .	2	_	_	_	81	joint_m	_	_
+86	Just be aware ,	1	_	_	_	87	organization_r	_	_
+87	not all cats have enough energy , interest or training	1	_	_	_	80	joint_m	_	_
+88	to hunt mice .	0	_	_	_	87	purpose_r	_	_
+89	Kittens typically have to be taught by the mother	2	_	_	_	87	explanation_r	_	_
+90	to easily become a mouser .	0	_	_	_	89	purpose_r	_	_
+91	Well - food indoor kitties might just see the mouse as a toy ,	1	_	_	_	89	joint_m	_	_
+92	and grow quickly bored of it	0	_	_	_	91	joint_m	_	_
+93	after scaring it half witless .	0	_	_	_	92	context_r	_	_
+94	Shelters and adoption agencies often do not know	0	_	_	_	95	attribution_r	_	_
+95	if a cat is a good mouse hunter ,	3	_	_	_	87	joint_m	_	_
+96	and generally do not test for this .	1	_	_	_	95	joint_m	_	_
+97	Sometimes this information is available ,	0	_	_	_	98	adversative_r_r	_	_
+98	but usually not .	2	_	_	_	95	adversative_r_r	_	_
+99	While many mousers are great pets as well ,	0	_	_	_	100	adversative_r_r	_	_
+100	not all are .	3	_	_	_	95	adversative_r_r	_	_
+101	" Barn cats " may not be socialized well with humans ,	1	_	_	_	100	explanation_r	_	_
+102	although used to hunting mice for food .	0	_	_	_	101	adversative_r_r	_	_
+103	Even if you do not have a cat ,	1	_	_	_	104	adversative_r_r	_	_
+104	you can use used kitty litter	1	_	_	_	79	joint_m	_	_
+105	to deter mice .	0	_	_	_	104	purpose_r	_	_
+106	Place tubs of used kitty litter around entrances of the house .	2	_	_	_	104	elaboration_r	_	_
+107	The mice will sniff the smell of cat urine	0	_	_	_	106	explanation_r	_	_
+108	and clear off in a jiffy .	0	_	_	_	107	joint_m	_	_
+109	If you have a large infestation ,	1	_	_	_	110	contingency_r	_	_
+110	a cat may not be enough	3	_	_	_	104	joint_m	_	_
+111	to totally get rid of it .	0	_	_	_	110	purpose_r	_	_
+112	However ,	2	_	_	_	110	adversative_m	_	_
+113	once you eliminate the infestation ,	0	_	_	_	114	contingency_r	_	_
+114	a cat will probably prevent reinfestation .	0	_	_	_	112	same-unit_m	_	_
+115	[ 5 ]	3	_	_	_	110	explanation_r	_	_
+116	Put your trash cans far from your home .	4	_	_	_	104	joint_m	_	_
+117	Mice smell garbage and get attracted to your house .	0	_	_	_	116	explanation_r	_	_
+118	If you keep the cans away from the house ,	0	_	_	_	119	contingency_r	_	_
+119	they are less likely to take up residence in your home .	0	_	_	_	117	elaboration_r	_	_
+120	Promote the nesting of birds of prey in your yard .	1	_	_	_	116	joint_m	_	_
+121	Build a shelter box in your garden	0	_	_	_	120	elaboration_r	_	_
+122	to attract some onto your property .	0	_	_	_	121	purpose_r	_	_
+123	This may take some time ,	1	_	_	_	124	adversative_r_r	_	_
+124	but it 's worth the effort	1	_	_	_	121	adversative_r_r	_	_
+125	if you can attract a wild mouse eater to your yard .	0	_	_	_	124	contingency_r	_	_
+126	[ 6 ]	2	_	_	_	121	explanation_r	_	_
+127	Make sure the shelter box has no nails or safety hazards .	1	_	_	_	120	elaboration_r	_	_
+128	A barn owl is the best .	0	_	_	_	127	elaboration_r	_	_
+129	A family of barn owls can eat many mice in a night !	0	_	_	_	128	explanation_r	_	_
+130	However , you might attract other types of owls or birds of prey with your nesting box .	1	_	_	_	128	adversative_r_r	_	_

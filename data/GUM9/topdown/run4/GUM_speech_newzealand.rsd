@@ -1,0 +1,100 @@
+1	I wish to make a ministerial statement about the first confirmed case of COVID - 19 in New Zealand .	3	_	_	_	2	organization_r	_	_
+2	On Friday , 28 February , New Zealand recorded its first case of the COVID - 19 coronavirus ,	0	_	_	_	0	ROOT	_	_
+3	becoming the 48th country	0	_	_	_	2	elaboration_r	_	_
+4	to have a confirmed case .	0	_	_	_	3	purpose_r	_	_
+5	The individual had entered the country two days earlier	2	_	_	_	9	context_r	_	_
+6	after spending some weeks in Iran ,	0	_	_	_	5	context_r	_	_
+7	which is currently experiencing a sizable outbreak of the disease .	0	_	_	_	6	elaboration_r	_	_
+8	I can report to the House	0	_	_	_	9	attribution_r	_	_
+9	that they are currently in a stable and improving condition at Auckland Hospital .	1	_	_	_	2	elaboration_r	_	_
+10	The good news in this instance is that the individual had limited contact with people upon their return to the country ,	1	_	_	_	9	joint_m	_	_
+11	and their family took all the appropriate measures	0	_	_	_	10	joint_m	_	_
+12	when presenting at the emergency department .	0	_	_	_	11	context_r	_	_
+13	As you would expect ,	1	_	_	_	14	explanation_r	_	_
+14	our public health service is working hard	2	_	_	_	2	joint_m	_	_
+15	to contain this first case	0	_	_	_	14	purpose_r	_	_
+16	and limit the risk of any spread of the disease .	0	_	_	_	15	joint_m	_	_
+17	Contact tracing began immediately	2	_	_	_	14	elaboration_r	_	_
+18	and has gone to plan .	0	_	_	_	17	joint_m	_	_
+19	All 15 people	1	_	_	_	17	elaboration_r	_	_
+20	who were seated nearby the individual on their flight into New Zealand	0	_	_	_	19	elaboration_r	_	_
+21	have been traced	1	_	_	_	19	same-unit_m	_	_
+22	and are being told to self - isolate .	2	_	_	_	19	joint_m	_	_
+23	Public health staff will remain in touch with individuals	3	_	_	_	19	joint_m	_	_
+24	to monitor the situation	0	_	_	_	23	purpose_r	_	_
+25	and give ongoing advice .	0	_	_	_	24	joint_m	_	_
+26	All but 10 of the remaining passengers on the flight ,	1	_	_	_	23	joint_m	_	_
+27	who are not considered to be close contacts ,	0	_	_	_	26	elaboration_r	_	_
+28	have also been contacted	1	_	_	_	26	same-unit_m	_	_
+29	to provide reassurance	2	_	_	_	26	purpose_r	_	_
+30	and answer any questions	0	_	_	_	29	joint_m	_	_
+31	they might have ;	0	_	_	_	30	elaboration_r	_	_
+32	those 10	3	_	_	_	26	adversative_m	_	_
+33	that have n't been contacted	0	_	_	_	32	elaboration_r	_	_
+34	did not provide accurate contact information .	1	_	_	_	32	same-unit_m	_	_
+35	I 'm advised	1	_	_	_	36	attribution_r	_	_
+36	that	3	_	_	_	14	evaluation_r	_	_
+37	as a result of our decisive response ,	0	_	_	_	38	causal_r	_	_
+38	the chance of an outbreak from our first case is low .	0	_	_	_	36	same-unit_m	_	_
+39	Internationally , the situation with COVID - 19 continues to develop at pace .	3	_	_	_	41	adversative_r_r	_	_
+40	However , the Director - General of the World Health Organization said , this morning ,	1	_	_	_	41	attribution_r	_	_
+41	containment … is feasible	4	_	_	_	14	joint_m	_	_
+42	and must remain the top priority for all countries .	0	_	_	_	41	joint_m	_	_
+43	This is exactly the approach	2	_	_	_	41	evaluation_r	_	_
+44	that New Zealand is taking ,	0	_	_	_	43	elaboration_r	_	_
+45	using three main tools :	1	_	_	_	46	organization_r	_	_
+46	border controls ; self - isolation ; and good public health practices ,	1	_	_	_	43	elaboration_r	_	_
+47	including highlighting the importance of basic hygiene .	0	_	_	_	46	elaboration_r	_	_
+48	At every step , the Government has taken decisions in the interests of health and safety of the wider public ,	4	_	_	_	41	joint_m	_	_
+49	and so far we have been among the best	0	_	_	_	48	joint_m	_	_
+50	at keeping COVID - 19 at bay .	0	_	_	_	49	elaboration_r	_	_
+51	Just yesterday , Cabinet decided to extend for another week the travel restrictions	1	_	_	_	48	explanation_r	_	_
+52	that have been in place for China since 3 February and for Iran since last Friday .	0	_	_	_	51	elaboration_r	_	_
+53	These restrictions have played a key role	1	_	_	_	51	elaboration_r	_	_
+54	in keeping COVID - 19 out of New Zealand for so long	0	_	_	_	53	elaboration_r	_	_
+55	and have given us time	1	_	_	_	53	joint_m	_	_
+56	to better understand the disease	0	_	_	_	55	purpose_r	_	_
+57	and ramp up our preparations .	0	_	_	_	56	joint_m	_	_
+58	Of course , members will be aware	0	_	_	_	59	attribution_r	_	_
+59	that there are outbreaks in other regions as well .	5	_	_	_	61	context_r	_	_
+60	So , as a further precaution , we have decided	2	_	_	_	61	attribution_r	_	_
+61	that anyone arriving in New Zealand	2	_	_	_	48	joint_m	_	_
+62	who has been in northern Italy or South Korea	0	_	_	_	61	elaboration_r	_	_
+63	who has been there in the last 14 days	0	_	_	_	62	elaboration_r	_	_
+64	will be registered for self - isolation .	1	_	_	_	61	same-unit_m	_	_
+65	This is based on an expert assessment of risk .	3	_	_	_	61	elaboration_r	_	_
+66	It recognises	1	_	_	_	67	attribution_r	_	_
+67	that	0	_	_	_	65	elaboration_r	_	_
+68	while there are outbreaks in both countries ,	0	_	_	_	69	adversative_r_r	_	_
+69	they also have well - developed health systems	0	_	_	_	67	same-unit_m	_	_
+70	and the outbreaks are largely located in specific regions .	1	_	_	_	69	joint_m	_	_
+71	We know	0	_	_	_	72	attribution_r	_	_
+72	self - isolation works .	4	_	_	_	61	evaluation_r	_	_
+73	It is a longstanding and successful approach	1	_	_	_	72	explanation_r	_	_
+74	to managing infectious diseases	0	_	_	_	73	purpose_r	_	_
+75	and has proven its worth again in recent weeks .	1	_	_	_	73	joint_m	_	_
+76	We have also stepped up the health presence at our airports .	6	_	_	_	61	joint_m	_	_
+77	All airlines	0	_	_	_	76	elaboration_r	_	_
+78	flying into New Zealand	0	_	_	_	77	elaboration_r	_	_
+79	have been requested to read a health message	1	_	_	_	77	same-unit_m	_	_
+80	upon landing ,	0	_	_	_	79	context_r	_	_
+81	and all arrivals into New Zealand will receive health information cards alongside the standard customs declaration form .	2	_	_	_	77	joint_m	_	_
+82	As a result of decisions	3	_	_	_	77	joint_m	_	_
+83	taken on Friday ,	0	_	_	_	82	elaboration_r	_	_
+84	health staff are meeting all direct international flights	1	_	_	_	82	same-unit_m	_	_
+85	landing in New Zealand airports from Hong Kong , Japan , South Korea , Singapore , and Thailand .	0	_	_	_	84	elaboration_r	_	_
+86	Our border response is further ramping up	2	_	_	_	82	joint_m	_	_
+87	to have health staff available for all international flights into New Zealand .	0	_	_	_	86	purpose_r	_	_
+88	All these decisions and actions are designed	3	_	_	_	82	evaluation_r	_	_
+89	to limit the spread of any sporadic COVID - 19 cases	0	_	_	_	88	purpose_r	_	_
+90	that might arrive in New Zealand .	0	_	_	_	89	elaboration_r	_	_
+91	At the same time , our health system continues its preparations in line with our comprehensive pandemic plan .	1	_	_	_	76	joint_m	_	_
+92	I want to thank our DHBs , public health staff , and primary care and health officials for the work	7	_	_	_	61	joint_m	_	_
+93	they are doing	0	_	_	_	92	elaboration_r	_	_
+94	to protect the public .	0	_	_	_	93	purpose_r	_	_
+95	I have high confidence in our medical professionals .	1	_	_	_	92	joint_m	_	_
+96	We have a strong public health system .	2	_	_	_	92	joint_m	_	_
+97	We continue to work	1	_	_	_	99	adversative_r_r	_	_
+98	to keep COVID - 19 out ,	0	_	_	_	97	purpose_r	_	_
+99	but we are ready	3	_	_	_	92	joint_m	_	_
+100	if it arrives in our community .	0	_	_	_	99	contingency_r	_	_

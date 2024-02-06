@@ -1,0 +1,96 @@
+1	Chapter Two :	0	_	_	_	2	Organization_r	_	_
+2	Master Lunre	3	_	_	_	3	Organization_r	_	_
+3	My father ’s actions were largely incomprehensible to me ,	0	_	_	_	0	ROOT	_	_
+4	guided by his own secret and labyrinthine calculations .	0	_	_	_	3	Causal_r	_	_
+5	He dwelt in another world , a world of intrigue , bargains , contracts and clandestine purchases of land all over the island .	1	_	_	_	3	Elaboration_r	_	_
+6	He was in many ways a world in himself , whole as a sphere .	0	_	_	_	5	Joint_m	_	_
+7	No doubt his decisions were perfectly logical in his own eyes —	1	_	_	_	5	Adversative_r	_	_
+8	even the one	0	_	_	_	10	Organization_r	_	_
+9	that prompted him , a patriotic islander , to bring me a tutor from Bain :	0	_	_	_	8	Elaboration_r	_	_
+10	Master Lunre , an Olondrian .	0	_	_	_	7	Elaboration_r	_	_
+11	The day began	3	_	_	_	16	Context_r	_	_
+12	as it usually did	0	_	_	_	11	Mode_r	_	_
+13	when my father was expected home from his travels ,	0	_	_	_	12	Context_r	_	_
+14	the house festooned with flowers	1	_	_	_	11	Elaboration_r	_	_
+15	and stocked with coconut liquor .	0	_	_	_	14	Joint_m	_	_
+16	We stood by the gate ,	2	_	_	_	3	Joint_m	_	_
+17	washed	0	_	_	_	16	Mode_r	_	_
+18	and perfumed	0	_	_	_	17	Joint_m	_	_
+19	and arrayed in our brightest clothes ,	0	_	_	_	18	Joint_m	_	_
+20	my mother twisting her hands in her skirt ,	1	_	_	_	16	Context_r	_	_
+21	my father ’s wife with red eyes .	0	_	_	_	20	Joint_m	_	_
+22	Jom ,	2	_	_	_	16	Joint_m	_	_
+23	grown taller and broad in the shoulders ,	0	_	_	_	22	Elaboration_r	_	_
+24	moaned gently to himself ,	1	_	_	_	22	Same-Unit_m	_	_
+25	while I stood nervously	2	_	_	_	16	Joint_m	_	_
+26	rubbing the heel of one sandal on the flagstones .	0	_	_	_	25	Mode_r	_	_
+27	We scanned the deep blue valley for the first sign of the company ,	2	_	_	_	16	Joint_m	_	_
+28	but	0	_	_	_	27	Adversative_m	_	_
+29	before we saw them	1	_	_	_	31	Context_r	_	_
+30	we heard the children shouting :	0	_	_	_	31	Attribution_r	_	_
+31	“ A yellow man ! ”	0	_	_	_	28	Same-Unit_m	_	_
+32	A yellow man !	1	_	_	_	28	Restatement_r	_	_
+33	We glanced at one another in confusion .	2	_	_	_	28	Causal_r	_	_
+34	My mother bit her lower lip ;	0	_	_	_	33	Joint_m	_	_
+35	Jom gave a groan of alarm .	0	_	_	_	34	Joint_m	_	_
+36	At first I thought	2	_	_	_	39	Attribution_r	_	_
+37	the children meant my father ,	1	_	_	_	39	Adversative_r	_	_
+38	whose golden skin , the color of the night - monkey ’s pelt , was a rarity in the islands ;	0	_	_	_	37	Elaboration_r	_	_
+39	but certainly the children of Tyom were familiar with my father ,	1	_	_	_	27	Context_r	_	_
+40	and would never have greeted a council - member with such ill - mannered yells .	0	_	_	_	39	Joint_m	_	_
+41	Then I remembered the only “ yellow man ”	3	_	_	_	39	Adversative_m	_	_
+42	I had ever seen ,	0	_	_	_	41	Elaboration_r	_	_
+43	an Olondrian wizard and doctor	1	_	_	_	41	Same-Unit_m	_	_
+44	who had visited Tyom in my childhood ,	0	_	_	_	43	Elaboration_r	_	_
+45	who wore two pieces of glass on his eyes ,	1	_	_	_	43	Elaboration_r	_	_
+46	attached to his ears with wires ,	0	_	_	_	45	Elaboration_r	_	_
+47	and roamed the hills of Tinimavet ,	1	_	_	_	45	Joint_m	_	_
+48	cutting bits off the trees .	0	_	_	_	47	Mode_r	_	_
+49	I have since learned	1	_	_	_	50	Attribution_r	_	_
+50	that that doctor wrote a well - received treatise , On the Medicinal Properties of the Juice of the Young Coconut ,	1	_	_	_	53	Adversative_r	_	_
+51	and died a respected man in his native city of Deinivel ;	0	_	_	_	50	Joint_m	_	_
+52	but at the time I felt certain	0	_	_	_	53	Attribution_r	_	_
+53	he had returned with his sack of tree - cuttings .	2	_	_	_	41	Context_m	_	_
+54	“ There they are , ”	2	_	_	_	16	Joint_m	_	_
+55	said Pavit , the head house - servant , in a strained voice .	0	_	_	_	54	Attribution_r	_	_
+56	And there they were :	1	_	_	_	57	Organization_r	_	_
+57	a chain of riders	1	_	_	_	54	Organization_r	_	_
+58	weaving among the trees .	0	_	_	_	57	Elaboration_r	_	_
+59	My father ’s plaited umbrella appeared , his still , imposing figure , and beside him another man , tall and lean , astride an island mule .	2	_	_	_	16	Joint_m	_	_
+60	The hectic screams of the children preceded the company into the village ,	2	_	_	_	16	Joint_m	_	_
+61	so that they advanced like a festival ,	0	_	_	_	60	Purpose_r	_	_
+62	drawing people out of their houses .	0	_	_	_	61	Causal_r	_	_
+63	As they approached	0	_	_	_	64	Context_r	_	_
+64	I saw	1	_	_	_	65	Attribution_r	_	_
+65	that my father ’s face was shining with pride ,	2	_	_	_	16	Joint_m	_	_
+66	and his bearing had in it a new hauteur , like that of the old island kings .	0	_	_	_	65	Joint_m	_	_
+67	The man	2	_	_	_	16	Joint_m	_	_
+68	who rode beside him ,	0	_	_	_	67	Elaboration_r	_	_
+69	looking uncomfortable with his long legs ,	1	_	_	_	67	Same-Unit_r	_	_
+70	kept his gaze lowered and fixed between the ears of his plodding mule .	2	_	_	_	67	Same-Unit_m	_	_
+71	He was not yellow ,	0	_	_	_	72	Adversative_r	_	_
+72	but very pale brown , the color of raw cashews ;	3	_	_	_	67	Elaboration_r	_	_
+73	he had silver hair ,	1	_	_	_	72	Joint_m	_	_
+74	worn	0	_	_	_	73	Elaboration_r	_	_
+75	cropped close to the skull	0	_	_	_	74	Elaboration_r	_	_
+76	so that it resembled a cap .	0	_	_	_	75	Mode_r	_	_
+77	He was not the leaf - collecting doctor ,	0	_	_	_	78	Adversative_r	_	_
+78	but an altogether strange man , with silver eyebrows in his smooth face and long fine - knuckled hands .	4	_	_	_	67	Elaboration_r	_	_
+79	As he dismounted in front of the house	2	_	_	_	81	Context_r	_	_
+80	I heard my mother whispering :	1	_	_	_	81	Attribution_r	_	_
+81	“ Protect us , God with the Black - and - White Tail , from that	2	_	_	_	16	Joint_m	_	_
+82	which is not of this earth . ”	0	_	_	_	81	Elaboration_r	_	_
+83	My father dismounted from his mule	2	_	_	_	16	Joint_m	_	_
+84	and strutted toward us ,	0	_	_	_	83	Joint_m	_	_
+85	grinning .	0	_	_	_	84	Elaboration_r	_	_
+86	I thought	0	_	_	_	87	Attribution_r	_	_
+87	I caught an odor off him , of fish , sea - sickness and sweat .	0	_	_	_	83	Joint_m	_	_
+88	We knelt	2	_	_	_	16	Joint_m	_	_
+89	and stared down at the bald ground ,	2	_	_	_	16	Joint_m	_	_
+90	murmuring ritual greetings ,	0	_	_	_	89	Elaboration_r	_	_
+91	until he touched the tops of our heads with the palm of his fleshy hand .	0	_	_	_	90	Context_r	_	_
+92	Then we stood ,	2	_	_	_	16	Joint_m	_	_
+93	unable to keep from staring at the stranger ,	0	_	_	_	92	Mode_r	_	_
+94	who faced us awkwardly ,	0	_	_	_	93	Elaboration_r	_	_
+95	half - smiling ,	0	_	_	_	94	Joint_m	_	_
+96	taller than any man there .	0	_	_	_	95	Joint_m	_	_

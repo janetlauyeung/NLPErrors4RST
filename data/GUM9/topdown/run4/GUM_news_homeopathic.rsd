@@ -1,0 +1,79 @@
+1	Parents prosecuted	7	_	_	_	15	organization_r	_	_
+2	after homeopathic treatment leads to daughter 's death	0	_	_	_	1	context_r	_	_
+3	Friday , May 8 , 2009	6	_	_	_	15	context_r	_	_
+4	Thomas Sam , 42 , and his wife Manju Sam , 36 , from Sydney , Australia , are undergoing trial for manslaughter by gross negligence for the death of their nine - month - old child , Gloria .	5	_	_	_	15	context_r	_	_
+5	She died from infection	0	_	_	_	4	elaboration_r	_	_
+6	caused by severe eczema	0	_	_	_	5	elaboration_r	_	_
+7	after they shunned effective conventional medical treatments for homeopathy , a form of alternative medicine	1	_	_	_	5	context_r	_	_
+8	that has been described as pseudoscience .	0	_	_	_	7	elaboration_r	_	_
+9	Articles in peer - reviewed academic journals	1	_	_	_	4	elaboration_r	_	_
+10	including Social Science &amp;amp; Medicine	0	_	_	_	9	elaboration_r	_	_
+11	have characterized homeopathy as a form of quackery .	1	_	_	_	9	same-unit_m	_	_
+12	An example of severe eczema .	2	_	_	_	9	context_r	_	_
+13	Image :	0	_	_	_	14	organization_r	_	_
+14	Jambula .	0	_	_	_	12	attribution_r	_	_
+15	Gloria developed severe eczema at the age of four months	0	_	_	_	0	ROOT	_	_
+16	and the parents were advised to send the child to a skin specialist .	0	_	_	_	15	joint_m	_	_
+17	Thomas Sam , a practising homeopath , instead decided to treat his daughter himself .	1	_	_	_	15	adversative_m	_	_
+18	His daughter 's condition deteriorated , to the point	0	_	_	_	17	causal_r	_	_
+19	that the baby spent all her energy	0	_	_	_	18	elaboration_r	_	_
+20	battling the infections	0	_	_	_	19	purpose_r	_	_
+21	caused by the constant breaking of the skin ,	0	_	_	_	20	elaboration_r	_	_
+22	leading to severe malnutrition and , eventually , her death .	1	_	_	_	18	causal_r	_	_
+23	By the end , Gloria 's eczema was so severe	2	_	_	_	15	elaboration_r	_	_
+24	that her skin broke	0	_	_	_	23	elaboration_r	_	_
+25	every time her parents changed her clothes or nappy ,	0	_	_	_	24	context_r	_	_
+26	and in the words of the Crown prosecutor , Mark Tedeschi , QC ,	1	_	_	_	27	attribution_r	_	_
+27	" Gloria spent a lot of the last five months of her life	1	_	_	_	23	causal_r	_	_
+28	crying ,	0	_	_	_	27	elaboration_r	_	_
+29	irritable ,	0	_	_	_	28	joint_m	_	_
+30	scratching	0	_	_	_	29	joint_m	_	_
+31	and the only thing	1	_	_	_	28	joint_m	_	_
+32	that gave her solace	0	_	_	_	31	elaboration_r	_	_
+33	was to suck on her mother 's breast . "	1	_	_	_	31	same-unit_m	_	_
+34	Gloria also became unable to move her legs .	2	_	_	_	27	joint_m	_	_
+35	Mr. Tedeschi also told the court	1	_	_	_	36	attribution_r	_	_
+36	that , over the last five months of her life , " Gloria 's eczema played a devastating role in her overall health	2	_	_	_	23	joint_m	_	_
+37	and it is asserted by the Crown	1	_	_	_	38	attribution_r	_	_
+38	that both her parents knew this	0	_	_	_	36	joint_m	_	_
+39	and discussed it with each other . "	0	_	_	_	38	joint_m	_	_
+40	However ,	3	_	_	_	15	joint_m	_	_
+41	despite their child 's severe illness , and her lack of improvement ,	1	_	_	_	42	adversative_r_r	_	_
+42	the Sams continued to shun conventional medical treatment ,	0	_	_	_	40	same-unit_m	_	_
+43	instead seeking help from other homeopaths and naturopaths .	0	_	_	_	42	joint_m	_	_
+44	Gloria temporarily improved during the rare times	1	_	_	_	40	elaboration_r	_	_
+45	they used conventional treatments ,	0	_	_	_	44	elaboration_r	_	_
+46	but they soon dropped them in favour of homeopathy ,	1	_	_	_	44	adversative_m	_	_
+47	and she consistently worsened .	0	_	_	_	46	causal_r	_	_
+48	Allegedly , Thomas ' sister pleaded with him to send Gloria to a conventional medical doctor ,	2	_	_	_	40	elaboration_r	_	_
+49	but he replied	0	_	_	_	50	attribution_r	_	_
+50	" I am not able to do that " .	0	_	_	_	48	adversative_m	_	_
+51	The parents are also accused of putting their social life ahead of their child ,	3	_	_	_	40	joint_m	_	_
+52	taking her on a trip to India	0	_	_	_	51	elaboration_r	_	_
+53	and leaving her to servants	0	_	_	_	52	joint_m	_	_
+54	while embarking on a busy social schedule ,	0	_	_	_	53	context_r	_	_
+55	and giving her homeopathic drops	1	_	_	_	52	joint_m	_	_
+56	instead of using the prescription creams	0	_	_	_	55	adversative_r_r	_	_
+57	they had been given .	0	_	_	_	56	elaboration_r	_	_
+58	Gloria was finally taken to the emergency department shortly before her death .	4	_	_	_	40	joint_m	_	_
+59	By this time , " her skin was weeping ,	0	_	_	_	58	elaboration_r	_	_
+60	her body malnourished	0	_	_	_	59	joint_m	_	_
+61	and her corneas melting " ,	0	_	_	_	60	joint_m	_	_
+62	according to the Sydney Morning Herald .	1	_	_	_	59	attribution_r	_	_
+63	Speaking in the parents ' defense ,	2	_	_	_	65	attribution_r	_	_
+64	Tom Molomby , SC , said	0	_	_	_	63	same-unit_m	_	_
+65	that ,	1	_	_	_	58	joint_m	_	_
+66	as the parents came from India ,	0	_	_	_	65	same-unit_m	_	_
+67	where homeopathy is in common use ,	0	_	_	_	66	elaboration_r	_	_
+68	they should be declared not guilty due to cultural differences .	1	_	_	_	65	same-unit_m	_	_
+69	Homeopathy is a form of alternative medicine	4	_	_	_	15	joint_m	_	_
+70	which treats patients with massively diluted forms of substances	0	_	_	_	69	elaboration_r	_	_
+71	that ,	0	_	_	_	70	elaboration_r	_	_
+72	if given to a healthy person undiluted ,	0	_	_	_	73	contingency_r	_	_
+73	would cause symptoms similar to the disease .	0	_	_	_	71	same-unit_m	_	_
+74	Typical treatments take the dilutions , with ritualised shaking between each step of the dilution , past the level	2	_	_	_	77	context_r	_	_
+75	where any molecules of the original substance are likely to remain ;	0	_	_	_	74	elaboration_r	_	_
+76	for homeopathic treatments to work ,	0	_	_	_	77	purpose_r	_	_
+77	basic well - understood concepts in chemistry and physics would have to be wrong .	1	_	_	_	69	elaboration_r	_	_
+78	There is no evidence	1	_	_	_	77	joint_m	_	_
+79	that homeopathy is more effective than placebo for any condition .	0	_	_	_	78	elaboration_r	_	_

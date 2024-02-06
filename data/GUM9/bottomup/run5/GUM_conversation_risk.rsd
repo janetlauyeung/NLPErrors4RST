@@ -1,0 +1,197 @@
+1	We need a —	3	_	_	_	3	Organization_r	_	_
+2	Do you have any sharp objects on you ?	0	_	_	_	3	Topic_r	_	_
+3	No .	0	_	_	_	0	ROOT	_	_
+4	Keys ?	0	_	_	_	5	Topic_r	_	_
+5	No I need like a little pin or something .	1	_	_	_	3	Elaboration_r	_	_
+6	You have a pencil ?	0	_	_	_	11	Topic_r	_	_
+7	You have anything in your hair ?	0	_	_	_	8	Topic_r	_	_
+8	No .	0	_	_	_	10	Elaboration_r	_	_
+9	Fuck .	1	_	_	_	8	Evaluation_r	_	_
+10	What do you have to hit ?	0	_	_	_	6	Restatement_m	_	_
+11	See this is the little -	1	_	_	_	5	Elaboration_m	_	_
+12	Oh .	1	_	_	_	18	Adversative_r	_	_
+13	Oh oh .	0	_	_	_	12	Joint_m	_	_
+14	Cool ?	1	_	_	_	12	Joint_m	_	_
+15	Okay .	2	_	_	_	12	Joint_m	_	_
+16	Alright .	0	_	_	_	15	Joint_m	_	_
+17	See ,	0	_	_	_	18	Organization_r	_	_
+18	it was just slow .	1	_	_	_	11	Evaluation_r	_	_
+19	Okay .	1	_	_	_	24	Organization_r	_	_
+20	This is me ?	0	_	_	_	24	Organization_r	_	_
+21	Is this me ?	1	_	_	_	22	Topic_r	_	_
+22	Yeah .	0	_	_	_	20	Elaboration_r	_	_
+23	Yeah .	0	_	_	_	22	Organization_m	_	_
+24	Jennifer .	1	_	_	_	27	Elaboration_r	_	_
+25	Oh .	0	_	_	_	26	Organization_r	_	_
+26	That 's right .	2	_	_	_	24	Restatement_r	_	_
+27	There you go thinking again .	2	_	_	_	3	Joint_r	_	_
+28	Smart ass .	0	_	_	_	27	Evaluation_r	_	_
+29	Smart ass .	0	_	_	_	28	Restatement_m	_	_
+30	Alright .	3	_	_	_	34	Organization_r	_	_
+31	Wow .	0	_	_	_	30	Joint_m	_	_
+32	Who took over uh ...	2	_	_	_	34	Joint_r	_	_
+33	Oh .	1	_	_	_	34	Organization_r	_	_
+34	They got North America .	2	_	_	_	27	Joint_m	_	_
+35	But not for long .	0	_	_	_	34	Adversative_r	_	_
+36	Oh , my God .	0	_	_	_	37	Restatement_r	_	_
+37	Oh my God , did you see that ?	1	_	_	_	38	Topic_r	_	_
+38	Because player thr- player three is aggressive ,	4	_	_	_	34	Explanation_r	_	_
+39	so he 's gon na like go for everything .	0	_	_	_	38	Causal_r	_	_
+40	How do you know ?	1	_	_	_	42	Restatement_r	_	_
+41	Did I make him aggressive ?	0	_	_	_	42	Topic_r	_	_
+42	Yeah , you made him aggressive ,	0	_	_	_	43	Causal_r	_	_
+43	so , he 's gon na like , try to tear everything up now .	2	_	_	_	38	Elaboration_r	_	_
+44	Um , that 's pretty well , like secure right there ,	3	_	_	_	38	Elaboration_r	_	_
+45	so maybe —	0	_	_	_	46	Organization_r	_	_
+46	That 's me .	0	_	_	_	44	Explanation_r	_	_
+47	Oh fuck .	4	_	_	_	38	Evaluation_r	_	_
+48	Wow , he wiped my ass out .	5	_	_	_	38	Joint_m	_	_
+49	Ah , you suck .	6	_	_	_	38	Evaluation_r	_	_
+50	Watch this .	7	_	_	_	38	Evaluation_r	_	_
+51	Loser .	0	_	_	_	50	Joint_m	_	_
+52	What else can we do tomorrow ?	4	_	_	_	3	Joint_m	_	_
+53	Besides go to the movies , t- ?	1	_	_	_	54	Topic_r	_	_
+54	Go out to dinner ?	0	_	_	_	58	Adversative_r	_	_
+55	I 'm so not hungry right now ,	0	_	_	_	54	Evaluation_r	_	_
+56	it 's hard for me to think about food .	0	_	_	_	55	Causal_r	_	_
+57	Alright .	2	_	_	_	54	Organization_r	_	_
+58	I 'd like to go out to dinner though .	2	_	_	_	60	Adversative_r	_	_
+59	Think we can find a hot dog ?	1	_	_	_	60	Topic_r	_	_
+60	Yeah , that 's a good idea .	3	_	_	_	62	Explanation_r	_	_
+61	That 's an excellent idea .	0	_	_	_	60	Restatement_r	_	_
+62	There you go thinking again again .	0	_	_	_	52	Joint_r	_	_
+63	There you go thinking again .	0	_	_	_	62	Restatement_m	_	_
+64	I 'm gon na whip your butt .	1	_	_	_	62	Joint_m	_	_
+65	You think so , hunh ?	0	_	_	_	66	Topic_r	_	_
+66	Yeah .	0	_	_	_	64	Evaluation_r	_	_
+67	Un-unh .	1	_	_	_	66	Adversative_m	_	_
+68	That 's all	1	_	_	_	64	Restatement_r	_	_
+69	I get ?	0	_	_	_	68	Elaboration_r	_	_
+70	That 's me ,	2	_	_	_	62	Restatement_r	_	_
+71	right ?	0	_	_	_	70	Organization_r	_	_
+72	Yeah you get a percentage of the amount of countries	1	_	_	_	70	Explanation_r	_	_
+73	you own ,	0	_	_	_	72	Elaboration_r	_	_
+74	and then , for continents you get another set amount .	1	_	_	_	72	Joint_m	_	_
+75	So can I get something on this bad boy ?	0	_	_	_	76	Topic_r	_	_
+76	Yeah .	1	_	_	_	81	Explanation_r	_	_
+77	See ?	1	_	_	_	76	Organization_r	_	_
+78	So I hit okay ?	0	_	_	_	79	Topic_r	_	_
+79	Yeah .	2	_	_	_	76	Restatement_r	_	_
+80	Hit okay .	1	_	_	_	79	Restatement_m	_	_
+81	See you got one of each kind of card .	4	_	_	_	3	Joint_m	_	_
+82	Excellent .	0	_	_	_	81	Evaluation_r	_	_
+83	Oh okay .	0	_	_	_	82	Organization_m	_	_
+84	So I get ...	2	_	_	_	85	Organization_r	_	_
+85	So you got ten ,	2	_	_	_	81	Topic_r	_	_
+86	looks like sixteen .	0	_	_	_	85	Explanation_r	_	_
+87	Sixteen ?	1	_	_	_	85	Restatement_r	_	_
+88	Who you gon na trounce on ?	1	_	_	_	89	Topic_r	_	_
+89	That 's you up there , too , right there ,	0	_	_	_	87	Elaboration_r	_	_
+90	you know .	0	_	_	_	89	Organization_r	_	_
+91	That 's me right there , too .	2	_	_	_	89	Restatement_m	_	_
+92	Oh yeah .	0	_	_	_	91	Organization_r	_	_
+93	Um ...	2	_	_	_	95	Organization_r	_	_
+94	When w- you take over another person ,	0	_	_	_	95	Context_r	_	_
+95	you take a —	2	_	_	_	99	Causal_r	_	_
+96	you get , their cards .	1	_	_	_	95	Causal_r	_	_
+97	The MSG in that Chinese food really got me high for a little bit .	3	_	_	_	95	Causal_r	_	_
+98	Does MSG affect you ?	1	_	_	_	99	Topic_r	_	_
+99	No .	4	_	_	_	3	Joint_m	_	_
+100	Not really .	0	_	_	_	99	Adversative_m	_	_
+101	It affects my mother .	0	_	_	_	99	Adversative_m	_	_
+102	Gives her headaches .	0	_	_	_	101	Causal_r	_	_
+103	Are you gon na attack over there ?	0	_	_	_	104	Topic_r	_	_
+104	I do n't know .	1	_	_	_	106	Topic_r	_	_
+105	Thirteen .	0	_	_	_	106	Restatement_r	_	_
+106	That leaves me with thirteen .	3	_	_	_	99	Context_r	_	_
+107	I wan na fortify .	2	_	_	_	106	Topic_r	_	_
+108	You ca n't move those to there ,	4	_	_	_	99	Elaboration_r	_	_
+109	because they 're not touching .	0	_	_	_	108	Causal_r	_	_
+110	W- w- well that 's kind of bogus .	0	_	_	_	112	Explanation_r	_	_
+111	Nun-unh .	0	_	_	_	110	Evaluation_r	_	_
+112	Maybe I 'll move em right there .	1	_	_	_	108	Evaluation_r	_	_
+113	Done .	2	_	_	_	108	Evaluation_r	_	_
+114	Done .	0	_	_	_	113	Restatement_m	_	_
+115	Oh fuck .	0	_	_	_	117	Organization_r	_	_
+116	Oh .	0	_	_	_	115	Joint_m	_	_
+117	Who 's this guy ?	2	_	_	_	118	Topic_r	_	_
+118	Player six .	3	_	_	_	154	Explanation_r	_	_
+119	Yakutsk .	0	_	_	_	118	Elaboration_r	_	_
+120	Look at that .	0	_	_	_	121	Organization_r	_	_
+121	See if I have any cards .	0	_	_	_	122	Topic_r	_	_
+122	Oh , I got a set .	1	_	_	_	118	Elaboration_r	_	_
+123	You know	0	_	_	_	124	Attribution_r	_	_
+124	what I think ,	3	_	_	_	126	Explanation_r	_	_
+125	I think	2	_	_	_	126	Attribution_r	_	_
+126	the first time	1	_	_	_	122	Restatement_r	_	_
+127	that it does the card mode ,	0	_	_	_	126	Elaboration_r	_	_
+128	it takes a long time .	1	_	_	_	126	Same-Unit_m	_	_
+129	Yeah .	4	_	_	_	126	Organization_r	_	_
+130	Yeah .	0	_	_	_	129	Restatement_m	_	_
+131	You remember the last time ,	0	_	_	_	132	Context_r	_	_
+132	that 's what happened .	5	_	_	_	126	Explanation_m	_	_
+133	Yeah .	1	_	_	_	132	Organization_r	_	_
+134	You remember ?	0	_	_	_	135	Topic_r	_	_
+135	Yeah .	0	_	_	_	133	Restatement_r	_	_
+136	Look at you being smart .	2	_	_	_	154	Topic_r	_	_
+137	I 'm not smart ?	0	_	_	_	138	Topic_r	_	_
+138	You 're stupid .	0	_	_	_	136	Restatement_m	_	_
+139	Do n't call me stupid .	0	_	_	_	136	Restatement_m	_	_
+140	Mm .	2	_	_	_	136	Organization_r	_	_
+141	Alright .	0	_	_	_	140	Joint_m	_	_
+142	Look at you with the uh little armies down here .	1	_	_	_	146	Restatement_r	_	_
+143	Big armies .	0	_	_	_	142	Elaboration_r	_	_
+144	Trying to —	0	_	_	_	143	Elaboration_r	_	_
+145	trying to win .	0	_	_	_	144	Restatement_m	_	_
+146	I got big armies , buddy .	3	_	_	_	136	Context_r	_	_
+147	Trying to conquer the world .	0	_	_	_	146	Elaboration_r	_	_
+148	I 'm gon na conquer —	0	_	_	_	149	Organization_r	_	_
+149	I 'm gon na conquer you .	2	_	_	_	146	Restatement_m	_	_
+150	Probably .	1	_	_	_	149	Topic_r	_	_
+151	Ooh .	1	_	_	_	152	Organization_r	_	_
+152	He 's giving you some problems over there .	4	_	_	_	136	Evaluation_r	_	_
+153	He is indeed .	0	_	_	_	152	Restatement_r	_	_
+154	Go for that one .	4	_	_	_	3	Joint_m	_	_
+155	Go into Europe .	0	_	_	_	154	Restatement_m	_	_
+156	Get Europe .	0	_	_	_	155	Restatement_m	_	_
+157	Oops .	0	_	_	_	158	Organization_r	_	_
+158	You wo n't attack me yet .	1	_	_	_	155	Evaluation_r	_	_
+159	I think	0	_	_	_	160	Attribution_r	_	_
+160	I 'll stop there .	1	_	_	_	158	Explanation_m	_	_
+161	Hmm .	2	_	_	_	155	Organization_r	_	_
+162	I only have uh , that many cards , so ...	0	_	_	_	163	Organization_r	_	_
+163	How many cards you have ?	1	_	_	_	166	Topic_r	_	_
+164	You only have two .	0	_	_	_	166	Restatement_r	_	_
+165	Just two .	0	_	_	_	164	Adversative_r	_	_
+166	So you ca n't have a set .	1	_	_	_	154	Explanation_m	_	_
+167	When do you get — h- —	0	_	_	_	168	Organization_r	_	_
+168	when do you get cards though ?	0	_	_	_	169	Topic_r	_	_
+169	I do n't understand that .	1	_	_	_	171	Topic_r	_	_
+170	Every time you take over a country	0	_	_	_	171	Context_r	_	_
+171	you get cards .	2	_	_	_	166	Evaluation_r	_	_
+172	What row ?	1	_	_	_	173	Topic_r	_	_
+173	Attack with the twenty - two .	0	_	_	_	181	Organization_r	_	_
+174	Press twenty - two ,	0	_	_	_	173	Restatement_m	_	_
+175	attack .	0	_	_	_	174	Restatement_m	_	_
+176	Wow .	1	_	_	_	174	Evaluation_r	_	_
+177	Look at that .	0	_	_	_	176	Restatement_m	_	_
+178	Oh , see	0	_	_	_	179	Joint_r	_	_
+179	look ,	0	_	_	_	180	Organization_r	_	_
+180	you just got all of his cards .	1	_	_	_	176	Restatement_m	_	_
+181	Press okay .	2	_	_	_	183	Organization_r	_	_
+182	Bonus ?	1	_	_	_	181	Organization_r	_	_
+183	Oh my God .	4	_	_	_	154	Joint_r	_	_
+184	Fuck .	0	_	_	_	183	Joint_m	_	_
+185	Fuck .	0	_	_	_	184	Restatement_m	_	_
+186	Fuck fuck fuck .	0	_	_	_	185	Restatement_m	_	_
+187	Oh man .	0	_	_	_	188	Restatement_r	_	_
+188	Look at that .	1	_	_	_	184	Restatement_m	_	_
+189	Twenty - seven .	1	_	_	_	183	Elaboration_m	_	_
+190	Twenty - nine .	0	_	_	_	189	Restatement_m	_	_
+191	Th – twenty - one two three four five six seven eight .	1	_	_	_	189	Restatement_m	_	_
+192	Twenty - eight .	0	_	_	_	191	Restatement_m	_	_
+193	Do n't you fucking attack me .	2	_	_	_	189	Joint_m	_	_
+194	You ass .	0	_	_	_	193	Evaluation_r	_	_
+195	You asshole .	0	_	_	_	194	Restatement_m	_	_
+196	Two — hmm .	0	_	_	_	197	Joint_r	_	_
+197	I 'm tired .	1	_	_	_	193	Organization_r	_	_

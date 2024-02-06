@@ -1,0 +1,140 @@
+1	The prevalence of discrimination across racial groups in contemporary America :	10	_	_	_	19	organization_r	_	_
+2	Results from a nationally representative sample of adults	9	_	_	_	19	organization_r	_	_
+3	Introduction .	0	_	_	_	2	same-unit_m	_	_
+4	Personal experiences of discrimination and bias have been the focus of much social science research .	5	_	_	_	19	context_r	_	_
+5	[ 1 - 3 ]	0	_	_	_	4	explanation_r	_	_
+6	Sociologists have explored the adverse consequences of discrimination	1	_	_	_	4	explanation_r	_	_
+7	[ 3 – 5 ] ;	0	_	_	_	6	explanation_r	_	_
+8	psychologists have examined the mental processes	1	_	_	_	6	joint_m	_	_
+9	that underpin conscious and unconscious biases	0	_	_	_	8	elaboration_r	_	_
+10	[ 6 ] ;	1	_	_	_	8	explanation_r	_	_
+11	neuroscientists have examined the neurobiological underpinnings of discrimination	2	_	_	_	8	joint_m	_	_
+12	[ 7 – 9 ] ;	0	_	_	_	11	explanation_r	_	_
+13	and evolutionary theorists have explored the various ways	1	_	_	_	11	joint_m	_	_
+14	that in - group / out - group biases emerged across the history of our species .	0	_	_	_	13	elaboration_r	_	_
+15	[ 10 ]	2	_	_	_	6	explanation_r	_	_
+16	In many respects , researchers already possess a wealth of knowledge	4	_	_	_	19	context_r	_	_
+17	concerning the origins and consequences of discrimination and bias .	0	_	_	_	16	elaboration_r	_	_
+18	[ 11 ]	1	_	_	_	16	explanation_r	_	_
+19	What also should not be lost in discussion of discrimination is the growing push	0	_	_	_	0	ROOT	_	_
+20	to implement social policy	0	_	_	_	19	purpose_r	_	_
+21	aimed at reducing the occurrence of discriminatory practices .	0	_	_	_	20	elaboration_r	_	_
+22	Mandatory diversity trainings in professional settings , for example , are intended to reduce bias in the workplace	1	_	_	_	19	elaboration_r	_	_
+23	by increasing the awareness of employees	0	_	_	_	22	mode_r	_	_
+24	regarding the challenges	0	_	_	_	23	purpose_r	_	_
+25	facing minority group members .	0	_	_	_	24	elaboration_r	_	_
+26	[ 12 ]	1	_	_	_	22	explanation_r	_	_
+27	Indeed , the implementation of certain policies is rooted in the assumption	2	_	_	_	19	explanation_r	_	_
+28	that discrimination and biases are , at least to some appreciable amount , present in modern society .	0	_	_	_	27	elaboration_r	_	_
+29	Even so , estimates of the prevalence of perceived discrimination remains rare	3	_	_	_	31	adversative_r_r	_	_
+30	( see [ 13 – 14 ] ) .	0	_	_	_	29	explanation_r	_	_
+31	At least one prior study by Kessler and colleagues	1	_	_	_	27	adversative_m	_	_
+32	[ 15 ] ,	0	_	_	_	31	explanation_r	_	_
+33	however ,	0	_	_	_	36	attribution_r	_	_
+34	using measures of perceived discrimination in a large American sample ,	0	_	_	_	35	context_r	_	_
+35	reported	0	_	_	_	33	same-unit_m	_	_
+36	that approximately 33 % of respondents reported some form of discrimination	1	_	_	_	31	same-unit_m	_	_
+37	( see also , Gibbons et al. [ 4 ] ) .	2	_	_	_	31	explanation_r	_	_
+38	The current study seeks to build on this research	3	_	_	_	19	joint_m	_	_
+39	by estimating the prevalence of discrimination experiences among a large , nationally representative sample of adults from the United States .	0	_	_	_	38	mode_r	_	_
+40	Additionally , the analysis address the perceived reasons for reported discrimination experiences .	1	_	_	_	38	joint_m	_	_
+41	Reason for discrimination .	2	_	_	_	49	organization_r	_	_
+42	All respondents	0	_	_	_	49	organization_r	_	_
+43	who indicated	0	_	_	_	44	attribution_r	_	_
+44	they were discriminated against	0	_	_	_	42	elaboration_r	_	_
+45	— specifically , those	1	_	_	_	42	same-unit_m	_	_
+46	who responded with sometimes or often to the perceived discrimination measure	0	_	_	_	45	elaboration_r	_	_
+47	described above —	0	_	_	_	46	elaboration_r	_	_
+48	were asked the following question :	2	_	_	_	42	same-unit_m	_	_
+49	“ What do you think was the main reason for these experiences ? ”	6	_	_	_	19	joint_m	_	_
+50	Respondents were allowed to choose one response from 11 categories .	1	_	_	_	49	joint_m	_	_
+51	For the present analysis , these responses were recoded into nine mutually exclusive categories	0	_	_	_	50	elaboration_r	_	_
+52	capturing the following options :	0	_	_	_	51	elaboration_r	_	_
+53	race / ancestry / skin color ;	1	_	_	_	51	elaboration_r	_	_
+54	gender ;	0	_	_	_	53	joint_m	_	_
+55	age ;	0	_	_	_	54	joint_m	_	_
+56	religion ;	0	_	_	_	55	joint_m	_	_
+57	height or weight ;	0	_	_	_	56	joint_m	_	_
+58	sexual orientation ;	0	_	_	_	57	joint_m	_	_
+59	education or income ;	0	_	_	_	58	joint_m	_	_
+60	physical disability ;	0	_	_	_	59	joint_m	_	_
+61	and other .	0	_	_	_	60	joint_m	_	_
+62	The following categories from the original questionnaire were collapsed into one category for the analysis :	0	_	_	_	63	organization_r	_	_
+63	race ; ancestry or national origin ; and shade of skin color .	2	_	_	_	51	joint_m	_	_
+64	Additionally ,	1	_	_	_	50	joint_m	_	_
+65	because this question was only asked of respondents	1	_	_	_	67	context_r	_	_
+66	who reported prior discrimination experiences ,	0	_	_	_	65	elaboration_r	_	_
+67	the built - in skip pattern resulted in a large number of cases	0	_	_	_	64	same-unit_m	_	_
+68	scored as missing	0	_	_	_	67	elaboration_r	_	_
+69	( legitimate skip ) .	2	_	_	_	67	elaboration_r	_	_
+70	Respondent race .	5	_	_	_	74	organization_r	_	_
+71	Because a race variable is not available from the Wave 4 interviews ,	1	_	_	_	72	causal_r	_	_
+72	we use the racial category	3	_	_	_	74	context_r	_	_
+73	reported by the respondent during the Wave 1 interview .	0	_	_	_	72	elaboration_r	_	_
+74	Wave 1 race	7	_	_	_	19	joint_m	_	_
+75	— rather than , say , Wave 3 race —	0	_	_	_	74	adversative_r_r	_	_
+76	was used	1	_	_	_	74	same-unit_m	_	_
+77	to preserve case counts .	2	_	_	_	74	purpose_r	_	_
+78	The logic is that	4	_	_	_	74	elaboration_r	_	_
+79	( nearly )	0	_	_	_	78	same-unit_m	_	_
+80	all Wave 4 respondents appeared in the Wave 1 sample ,	0	_	_	_	79	same-unit_m	_	_
+81	but not all would have been interviewed at Wave 3 due to differential patterns of temporary attrition .	1	_	_	_	78	adversative_m	_	_
+82	Respondents were asked to indicate their race from among the following categories :	2	_	_	_	78	joint_m	_	_
+83	White ; Black or African American ; Hispanic ; American Indian or Native American ; and Asian or Pacific Islander .	0	_	_	_	82	elaboration_r	_	_
+84	Respondents were provided the opportunity	1	_	_	_	82	joint_m	_	_
+85	to select more than one race ,	0	_	_	_	84	purpose_r	_	_
+86	and those	1	_	_	_	84	joint_m	_	_
+87	who did	0	_	_	_	86	elaboration_r	_	_
+88	were asked a follow - up question	1	_	_	_	86	same-unit_m	_	_
+89	regarding which category best described their racial background .	0	_	_	_	88	elaboration_r	_	_
+90	In the current study , those respondents	2	_	_	_	82	joint_m	_	_
+91	who indicated more than one race	0	_	_	_	90	elaboration_r	_	_
+92	were coded as “ mixed race ” .	1	_	_	_	90	same-unit_m	_	_
+93	Demographic variables .	2	_	_	_	95	organization_r	_	_
+94	To provide information on the analytical sample as a whole ,	0	_	_	_	95	purpose_r	_	_
+95	two additional demographic variables are included .	8	_	_	_	19	joint_m	_	_
+96	First , age is a continuous measure	1	_	_	_	95	elaboration_r	_	_
+97	created	0	_	_	_	96	mode_r	_	_
+98	by subtracting the year of the respondents ' birth	0	_	_	_	97	mode_r	_	_
+99	( obtained from Wave 1 )	0	_	_	_	98	elaboration_r	_	_
+100	from the year of the interview at Wave 4 .	1	_	_	_	98	same-unit_m	_	_
+101	Second , sex was dichotomously coded	1	_	_	_	96	joint_m	_	_
+102	based on the self - reported sex of the respondent at Wave 4	0	_	_	_	101	mode_r	_	_
+103	( 0 = female and 1 = male ) .	0	_	_	_	102	elaboration_r	_	_
+104	Analytical plan .	3	_	_	_	106	organization_r	_	_
+105	Our exploratory study included three basic steps .	1	_	_	_	106	organization_r	_	_
+106	First , summary statistics of the study variables and racial categories were produced .	3	_	_	_	95	joint_m	_	_
+107	Second , we examined the relative proportions of the two discrimination experience measures across each racial category .	0	_	_	_	106	joint_m	_	_
+108	Finally , we assessed the distribution of reported reasons for discrimination across the racial categories .	0	_	_	_	107	joint_m	_	_
+109	In order to examine potential bivariate associations ,	5	_	_	_	110	purpose_r	_	_
+110	the adjusted F statistic	2	_	_	_	106	joint_m	_	_
+111	( design - based F )	0	_	_	_	110	restatement_r_r	_	_
+112	was employed	1	_	_	_	110	same-unit_m	_	_
+113	as it corrects for a complex sample design such as that	2	_	_	_	110	elaboration_r	_	_
+114	used in the Add Health .	0	_	_	_	113	elaboration_r	_	_
+115	[ 21 ]	3	_	_	_	110	explanation_r	_	_
+116	More specifically ,	4	_	_	_	110	joint_m	_	_
+117	when analyzing weighted sample data	1	_	_	_	119	context_r	_	_
+118	employing the svy suite of commands in Stata	0	_	_	_	117	mode_r	_	_
+119	the conventional Pearson χ2 statistic test of independence is converted into “ an F statistic with noninteger degrees of freedom	0	_	_	_	116	same-unit_m	_	_
+120	by using a second - order Rao and Scott ( 1981	0	_	_	_	119	mode_r	_	_
+121	[ 22 ] ,	0	_	_	_	120	explanation_r	_	_
+122	1984	1	_	_	_	120	joint_m	_	_
+123	[ 23 ] )	0	_	_	_	122	explanation_r	_	_
+124	correction ” .	2	_	_	_	120	same-unit_m	_	_
+125	[ 24 ]	2	_	_	_	119	explanation_r	_	_
+126	The p - value	1	_	_	_	116	joint_m	_	_
+127	associated with the design - based F	0	_	_	_	126	elaboration_r	_	_
+128	is thus more accurate	1	_	_	_	126	same-unit_m	_	_
+129	( than the associated with the χ2 statistic )	2	_	_	_	126	adversative_r_r	_	_
+130	given the adjustments and calculations take into account the weighted nature of the data .	3	_	_	_	126	causal_r	_	_
+131	This final step also included an examination of the relative distribution of racial categories across the various reported reasons for discrimination .	6	_	_	_	110	joint_m	_	_
+132	As noted earlier ,	2	_	_	_	133	context_r	_	_
+133	all analyses were weighted	0	_	_	_	131	elaboration_r	_	_
+134	according to the survey weight	0	_	_	_	133	mode_r	_	_
+135	provided by the Add Health research staff	0	_	_	_	134	elaboration_r	_	_
+136	and standard errors were corrected for the clustering and stratification	1	_	_	_	133	joint_m	_	_
+137	that defined the sampling strategy .	0	_	_	_	136	elaboration_r	_	_
+138	Thus , all estimates	3	_	_	_	133	joint_m	_	_
+139	reported here	0	_	_	_	138	elaboration_r	_	_
+140	can be considered nationally representative of the United States .	1	_	_	_	138	same-unit_m	_	_

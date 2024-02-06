@@ -1,0 +1,124 @@
+1	NASA celebrates 30th anniversary of first shuttle launch ;	8	_	_	_	13	Organization_r	_	_
+2	announces new homes for retired shuttles	0	_	_	_	1	Joint_m	_	_
+3	Wednesday , April 13 , 2011	7	_	_	_	13	Context_r	_	_
+4	NASA Administrator Charles Bolden announces	1	_	_	_	5	Attribution_r	_	_
+5	where four space shuttle orbiters will be permanently displayed at the conclusion of the Space Shuttle Program during an event	6	_	_	_	13	Context_r	_	_
+6	commemorating the 30th anniversay of the first shuttle launch on April 12 , 2011 .	0	_	_	_	5	Elaboration_r	_	_
+7	Image :	0	_	_	_	8	Organization_r	_	_
+8	NASA Bill Ingalls .	2	_	_	_	5	Attribution_r	_	_
+9	NASA celebrated the launch of the first space shuttle Tuesday at an event at the Kennedy Space Center	0	_	_	_	12	Context_r	_	_
+10	( KSC )	0	_	_	_	9	Restatement_r	_	_
+11	in Cape Canaveral , Florida .	1	_	_	_	9	Same-Unit_m	_	_
+12	On April 12 , 1981 , Space Shuttle Columbia lifted off from the Kennedy Space Center on STS - 1 , the first space shuttle mission .	3	_	_	_	13	Context_r	_	_
+13	NASA held a ceremony	0	_	_	_	0	ROOT	_	_
+14	commemorating the date	0	_	_	_	13	Elaboration_r	_	_
+15	outside the hangar ,	1	_	_	_	13	Same-Unit_m	_	_
+16	known as Orbiter Processing Facility - 1 ,	0	_	_	_	15	Elaboration_r	_	_
+17	for Space Shuttle Atlantis ,	1	_	_	_	13	Same-Unit_m	_	_
+18	which is being prepped for its final mission	0	_	_	_	17	Elaboration_r	_	_
+19	which will be STS - 135 ,	0	_	_	_	18	Elaboration_r	_	_
+20	which will be the last Space Shuttle mission .	0	_	_	_	19	Elaboration_r	_	_
+21	At the ceremony , NASA Administrator Charles Bolden announced the locations	2	_	_	_	13	Elaboration_r	_	_
+22	that would be given the three remaining Space Shuttle orbiters	0	_	_	_	21	Elaboration_r	_	_
+23	following the end of the Space Shuttle program .	0	_	_	_	22	Context_r	_	_
+24	The prototype orbiter , Space Shuttle Enterprise would be relocated from the Smithsonian 's National Air and Space Museum Steven F. Udvar - Hazy Center at Washington Dulles International Airport to the Intrepid Sea - Air - Space Museum in New York City .	1	_	_	_	21	Elaboration_r	_	_
+25	Space Shuttle Discovery will take the place of Enterprise at the Udvar - Hazy Center .	2	_	_	_	21	Joint_m	_	_
+26	Discovery has already been retired	0	_	_	_	25	Elaboration_r	_	_
+27	following the completion of STS - 133 last month , its 39th mission .	0	_	_	_	26	Context_r	_	_
+28	Discovery is undergoing decommissioning	1	_	_	_	26	Restatement_r	_	_
+29	and currently being prepped for display	0	_	_	_	28	Joint_m	_	_
+30	by removing toxic materials from the orbiter .	0	_	_	_	29	Mode_r	_	_
+31	Looking back :	0	_	_	_	32	Context_r	_	_
+32	Space Shuttle Columbia lifts off on STS - 1 from Launch Pad 39A at the Kennedy Space Center on April 12 , 1981 .	1	_	_	_	25	Elaboration_r	_	_
+33	Image :	0	_	_	_	34	Organization_r	_	_
+34	NASA .	1	_	_	_	32	Attribution_r	_	_
+35	Space Shuttle Endeavour ,	2	_	_	_	25	Joint_m	_	_
+36	which will launch on STS - 134 at the end of the month on April 29 ,	0	_	_	_	35	Elaboration_r	_	_
+37	will be sent to the California Science Center in Los Angeles , California	1	_	_	_	35	Same-Unit_m	_	_
+38	following its retirement .	2	_	_	_	35	Context_r	_	_
+39	Finally , Atlantis will go on display at the Kennedy Space Center Visitor Complex	3	_	_	_	35	Joint_m	_	_
+40	following the orbiter 's last flight	0	_	_	_	39	Context_r	_	_
+41	which launches June 28 .	0	_	_	_	40	Elaboration_r	_	_
+42	Columbia was lost tragically back on February 1 , 2003	4	_	_	_	35	Joint_m	_	_
+43	when it disintegrated during re-entry	0	_	_	_	42	Causal_r	_	_
+44	killing all seven astronauts aboard .	0	_	_	_	43	Causal_r	_	_
+45	Space Shuttle Challenger was lost	1	_	_	_	42	Joint_m	_	_
+46	when it exploded 73 seconds after liftoff back on January 28 , 1986	0	_	_	_	45	Context_r	_	_
+47	killing all six aboard .	0	_	_	_	46	Causal_r	_	_
+48	" We want to thank all of the locations	4	_	_	_	13	Context_r	_	_
+49	that expressed an interest in one of these national treasures , "	0	_	_	_	48	Elaboration_r	_	_
+50	said Bolden to the gathered crowd	1	_	_	_	48	Attribution_r	_	_
+51	which contained many KSC employees .	0	_	_	_	50	Elaboration_r	_	_
+52	" This was a very difficult decision ,	1	_	_	_	53	Adversative_r	_	_
+53	but one	2	_	_	_	55	Topic_r	_	_
+54	that was made with the American public in mind .	0	_	_	_	53	Elaboration_r	_	_
+55	In the end , these choices provide the greatest number of people with the best opportunity	2	_	_	_	48	Joint_m	_	_
+56	to share in the history and accomplishments of NASA 's remarkable Space Shuttle Program .	0	_	_	_	55	Purpose_r	_	_
+57	These facilities	2	_	_	_	63	Organization_r	_	_
+58	we 've chosen	0	_	_	_	57	Elaboration_r	_	_
+59	have a noteworthy legacy	1	_	_	_	57	Same-Unit_m	_	_
+60	of preserving space artifacts	0	_	_	_	59	Elaboration_r	_	_
+61	and providing outstanding access to U.S. and international visitors . "	0	_	_	_	60	Joint_m	_	_
+62	This was a very difficult decision ,	1	_	_	_	63	Adversative_r	_	_
+63	but one	1	_	_	_	65	Context_r	_	_
+64	that was made with the American public in mind .	0	_	_	_	63	Elaboration_r	_	_
+65	In the end , these choices provide the greatest number of people with the best opportunity	1	_	_	_	55	Evaluation_r	_	_
+66	to share in the history and accomplishments of NASA 's remarkable Space Shuttle Program .	0	_	_	_	65	Purpose_r	_	_
+67	Charles Bolden , NASA Administrator	3	_	_	_	48	Elaboration_r	_	_
+68	File image	1	_	_	_	69	Elaboration_r	_	_
+69	of Space Shuttle Atlantis lifting off ,	4	_	_	_	48	Attribution_r	_	_
+70	which approaches its last mission before retirement .	0	_	_	_	69	Elaboration_r	_	_
+71	Image :	0	_	_	_	72	Organization_r	_	_
+72	NASA .	2	_	_	_	69	Attribution_r	_	_
+73	Not all were pleased with the final choice of locations .	5	_	_	_	13	Joint_m	_	_
+74	U.S. Senator John Cornyn , Republican from Texas , issued a statement	0	_	_	_	73	Joint_m	_	_
+75	regarding the rejection of Johnson Space Center	0	_	_	_	74	Elaboration_r	_	_
+76	( JSC )	0	_	_	_	75	Restatement_r	_	_
+77	in Houston , Texas as a location .	1	_	_	_	75	Same-Unit_m	_	_
+78	" Like many Texans , I am disappointed with NASA 's decision	1	_	_	_	74	Evaluation_r	_	_
+79	to slight the Johnson Space Center as a permanent home for one of the Space Shuttle Orbiters .	0	_	_	_	78	Purpose_r	_	_
+80	Houston has played a critical role throughout the life of the space shuttle ,	0	_	_	_	81	Adversative_r	_	_
+81	but it is clear political favors trumped common sense and fairness in the selection of the final locations for the orbiter fleet . "	1	_	_	_	78	Context_r	_	_
+82	Cornyn 's statement added ,	2	_	_	_	84	Attribution_r	_	_
+83	" There is no question	0	_	_	_	84	Attribution_r	_	_
+84	Houston should have been selected as a final home for one of the orbiters	0	_	_	_	73	Joint_m	_	_
+85	— even Administrator Bolden stated as much .	1	_	_	_	84	Adversative_r	_	_
+86	Today 's announcement is an affront to the thousands of dedicated men and women at Johnson Space Center , the greater Houston community and the State of Texas ,	0	_	_	_	88	Adversative_r	_	_
+87	and I m deeply disappointed with the Administration 's misguided decision . “	0	_	_	_	86	Causal_r	_	_
+88	However , the JSC will recieve pilot and commander seats from the flight deck .	3	_	_	_	84	Evaluation_r	_	_
+89	The Museum of Flight in Seattle , Washington was also proposed as another location for a shuttle ,	0	_	_	_	73	Joint_m	_	_
+90	going so far as to build a new building	0	_	_	_	89	Elaboration_r	_	_
+91	to house an orbiter .	0	_	_	_	90	Purpose_r	_	_
+92	In a statement , Governor of Washington Chris Gregoire said ,	0	_	_	_	93	Attribution_r	_	_
+93	" The Museum of Flight put a tremendous amount of effort into landing a retired shuttle in the Pacific Northwest .	1	_	_	_	89	Adversative_r	_	_
+94	As the home of modern day air travel and the 747 ,	0	_	_	_	96	Causal_r	_	_
+95	which has gracefully transported shuttles for the last 30 years ,	0	_	_	_	94	Elaboration_r	_	_
+96	Seattle would have been a perfect fit .	2	_	_	_	99	Evaluation_r	_	_
+97	While the Museum of Flight was in the top running ,	1	_	_	_	99	Adversative_r	_	_
+98	I m disappointed	0	_	_	_	99	Attribution_r	_	_
+99	that NASA did not choose them .	1	_	_	_	93	Explanation_r	_	_
+100	In 2008 , Endeavour and Atlantis await a journey on their respective launchpads .	3	_	_	_	99	Explanation_r	_	_
+101	Image :	0	_	_	_	102	Organization_r	_	_
+102	NASA .	0	_	_	_	100	Attribution_r	_	_
+103	" However , the full fuselage trainer ,	0	_	_	_	73	Joint_m	_	_
+104	that every astronaut	0	_	_	_	103	Elaboration_r	_	_
+105	including [ former Museum of Flight CEO ] Bonnie Dunbar	0	_	_	_	104	Elaboration_r	_	_
+106	has been trained on ,	1	_	_	_	104	Same-Unit_m	_	_
+107	will soon call the Museum of Flight home .	1	_	_	_	103	Same-Unit_m	_	_
+108	The largest of the trainers ,	1	_	_	_	109	Evaluation_r	_	_
+109	this addition will allow visitors to actually climb aboard the trainer and experience the hands - on training	2	_	_	_	103	Elaboration_r	_	_
+110	that astronauts get .	0	_	_	_	109	Elaboration_r	_	_
+111	Visitors will not be allowed in the other shuttles	2	_	_	_	109	Adversative_r	_	_
+112	and this trainer is a true win for our dynamic museum .	0	_	_	_	111	Evaluation_r	_	_
+113	It will help inspire young people to the adventure of space and to the excitement of a career in science , technology , engineering and math . "	3	_	_	_	109	Explanation_r	_	_
+114	Today 's announcement is an affront to the thousands of dedicated men and women at Johnson Space Center , the greater Houston community and the State of Texas ,	3	_	_	_	103	Evaluation_r	_	_
+115	and I m deeply disappointed with the Administration 's misguided decision .	0	_	_	_	114	Evaluation_r	_	_
+116	John Cornyn , U.S. Senator	4	_	_	_	103	Elaboration_r	_	_
+117	( R - Texas )	0	_	_	_	116	Elaboration_r	_	_
+118	Other items include various shuttle simulators	0	_	_	_	73	Joint_m	_	_
+119	which will be given to the Adler Planetarium in Chicago , Illinois , the Evergreen Aviation &amp; Space Museum of McMinnville , Oregon , and Texas A&amp;M 's Aerospace Engineering Department .	0	_	_	_	118	Elaboration_r	_	_
+120	The nose cap assembly and crew compartment trainer for the National Museum of the U.S. Air Force at Wright - Patterson Air Force Base in Ohio and orbital maneuvering system engines for the U.S. Space and Rocket Center in Huntsville , Alabama , the National Air and Space Museum , and the Evergreen Aviation &amp; Space Museum .	0	_	_	_	73	Joint_m	_	_
+121	NASA is also offering shuttle heat shield tiles to schools and universities	0	_	_	_	73	Joint_m	_	_
+122	that want to share technology and a piece of space history with their students .	0	_	_	_	121	Elaboration_r	_	_
+123	The 30th anniversary of the first shuttle mission coincided with the 50th anniversary of the first manned space flight	0	_	_	_	73	Joint_m	_	_
+124	when Yuri Gagarin lifted off aboard Vostok 1 into space .	0	_	_	_	123	Elaboration_r	_	_

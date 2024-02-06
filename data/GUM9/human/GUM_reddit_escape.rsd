@@ -1,0 +1,135 @@
+1	Escape The Room Employees , what is the weirdest thing	4	_	_	pos1=VV|head_tok=thing|head_pos=NN|head_id=10|parent_pos=_|sid=1|stype=wh|len=10|head_func=root	3	topic-question_r	_	lexical-indicative_word-6
+2	you 've seen someone do in one of the rooms ?	0	_	_	pos1=PP|head_tok=see|head_pos=VVN|head_id=13|parent_posNN|sid=1|stype=wh|len=11|head_func=acl:relcl|subord=LEFT	1	elaboration-attribute_r	_	_
+3	The most depressing shit I saw was a tired looking couple	0	_	_	pos1=DT|head_tok=couple|head_pos=NN|head_id=32|parent_pos=_|sid=2|stype=decl|len=11|head_func=root|para=para	0	ROOT	_	_
+4	who brought in their bespectacled , NASA shirt wearing , 8 year old geek of a son in	0	_	_	pos1=WP|head_tok=bring|head_pos=VVD|head_id=34|parent_posNN|sid=2|stype=decl|len=18|head_func=acl:relcl|subord=LEFT	3	elaboration-attribute_r	_	syntactic-relative_clause-33;syntactic-nominal_modifier-41
+5	to have some fun .	0	_	_	pos1=TO|head_tok=have|head_pos=VH|head_id=52|parent_posVVD|sid=2|stype=decl|len=5|head_func=advcl|subord=LEFT	4	purpose-goal_r	_	syntactic-infinitival_clause-51
+6	The parents could n't have been more discouraging to him .	1	_	_	pos1=DT|head_tok=discouraging|head_pos=JJ|head_id=63|parent_pos=_|sid=3|stype=sub|len=11|head_func=root	3	elaboration-additional_r	_	semantic-repetition-29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,56,57
+7	He was excitedly bouncing around the room	0	_	_	pos1=PP|head_tok=bounce|head_pos=VVG|head_id=70|parent_pos=_|sid=4|stype=decl|len=7|head_func=root	6	elaboration-additional_r	_	_
+8	pointing out things	0	_	_	pos1=VVG|head_tok=point|head_pos=VVG|head_id=74|parent_posVVG|sid=4|stype=decl|len=3|head_func=advcl|subord=LEFT	7	elaboration-additional_r	_	_
+9	that he thought were clues clues	0	_	_	pos1=IN/that|head_tok=think|head_pos=VVD|head_id=79|parent_posNNS|sid=4|stype=decl|len=6|head_func=acl:relcl|subord=LEFT	8	elaboration-attribute_r	_	_
+10	while the parents dismissed every idea	1	_	_	pos1=IN|head_tok=dismiss|head_pos=VVD|head_id=86|parent_posVVG|sid=4|stype=decl|len=6|head_func=advcl|subord=LEFT	7	adversative-contrast_m	_	dm-dm-83
+11	he had	0	_	_	pos1=PP|head_tok=have|head_pos=VHD|head_id=90|parent_posNN|sid=4|stype=decl|len=2|head_func=acl:relcl|subord=LEFT	10	elaboration-attribute_r	_	_
+12	and told him to stop getting so excited .	1	_	_	pos1=CC|head_tok=tell|head_pos=VVD|head_id=92|parent_posVHD|sid=4|stype=decl|len=9|head_func=conj|subord=LEFT	10	joint-list_m	_	dm-dm-91
+13	The parents took charge	2	_	_	pos1=DT|head_tok=take|head_pos=VVD|head_id=102|parent_pos=_|sid=5|stype=decl|len=4|head_func=root	7	elaboration-additional_r	_	_
+14	and proceeded to ignore the obvious clues	0	_	_	pos1=CC|head_tok=proceed|head_pos=VVD|head_id=105|parent_posVVD|sid=5|stype=decl|len=7|head_func=conj|subord=LEFT	13	joint-sequence_m	_	dm-dm-104
+15	he was pointing out	0	_	_	pos1=PP|head_tok=point|head_pos=VVG|head_id=113|parent_posNNS|sid=5|stype=decl|len=4|head_func=acl:relcl|subord=LEFT	14	elaboration-attribute_r	_	_
+16	and spent most of the time	1	_	_	pos1=CC|head_tok=spend|head_pos=VVD|head_id=116|parent_posVVD|sid=5|stype=decl|len=6|head_func=conj|subord=LEFT	14	joint-list_m	_	dm-dm-115
+17	pursuing dead ends .	0	_	_	pos1=VVG|head_tok=pursue|head_pos=VVG|head_id=121|parent_posVVD|sid=5|stype=decl|len=4|head_func=xcomp|subord=LEFT	16	mode-manner_r	_	_
+18	Sad part is his instincts were more often than not correct	3	_	_	pos1=JJ|head_tok=correct|head_pos=JJ|head_id=135|parent_pos=_|sid=6|stype=decl|len=11|head_func=root	7	evaluation-comment_r	_	lexical-indicative_word-125;lexical-indicative_word-135
+19	but his parents just did n't listen	0	_	_	pos1=CC|head_tok=listen|head_pos=VV|head_id=142|parent_posJJ|sid=6|stype=decl|len=7|head_func=conj|subord=LEFT	18	adversative-contrast_m	_	dm-dm-136
+20	and refused to let him explore and try stuff out .	0	_	_	pos1=CC|head_tok=refuse|head_pos=VVD|head_id=144|parent_posVV|sid=6|stype=decl|len=11|head_func=conj|subord=LEFT	19	joint-list_m	_	dm-dm-143
+21	Hopefully his curiosity and enthusiasm survives them .	1	_	_	pos1=RB|head_tok=survive|head_pos=VVZ|head_id=159|parent_pos=_|sid=7|stype=decl|len=8|head_func=root|para=para	6	evaluation-comment_r	_	_
+22	I feel like	1	_	_	pos1=PP|head_tok=like|head_pos=IN|head_id=164|parent_posVVN|sid=8|stype=decl|len=3|head_func=mark|subord=RIGHT|para=para	24	attribution-positive_r	_	syntactic-reported_speech-163
+23	if it were in my power in any way ,	0	_	_	pos1=IN|head_tok=way|head_pos=NN|head_id=173|parent_posVVN|sid=8|stype=decl|len=10|head_func=advcl|subord=RIGHT	24	contingency-condition_r	_	dm-dm-165
+24	that kid would have led his parents right through the damned thing .	2	_	_	pos1=DT|head_tok=lead|head_pos=VVN|head_id=179|parent_posVVP|sid=8|stype=decl|len=13|head_func=advcl|subord=LEFT	3	evaluation-comment_r	_	_
+25	If I were the ' operator ' of that site ,	2	_	_	pos1=IN|head_tok=operator|head_pos=NN|head_id=193|parent_posVVN|sid=9|stype=sub|len=11|head_func=advcl|subord=RIGHT|para=para	26	contingency-condition_r	_	dm-dm-188
+26	at the end I would have walked the family through every damn clue	2	_	_	pos1=IN|head_tok=walk|head_pos=VVN|head_id=205|parent_pos=_|sid=9|stype=sub|len=13|head_func=root	24	elaboration-additional_r	_	_
+27	the kid noticed	0	_	_	pos1=DT|head_tok=notice|head_pos=VVD|head_id=214|parent_posNN|sid=9|stype=sub|len=3|head_func=acl:relcl|subord=LEFT	26	elaboration-attribute_r	_	_
+28	and made sure	1	_	_	pos1=CC|head_tok=make|head_pos=VVD|head_id=216|parent_posVVN|sid=9|stype=sub|len=3|head_func=conj|subord=LEFT	30	attribution-positive_r	_	_
+29	the parents knew	0	_	_	pos1=DT|head_tok=know|head_pos=VVD|head_id=220|parent_posRB|sid=9|stype=sub|len=3|head_func=ccomp|subord=LEFT	30	attribution-positive_r	_	_
+30	the kid was right .	1	_	_	pos1=DT|head_tok=right|head_pos=JJ|head_id=224|parent_posVVD|sid=9|stype=sub|len=5|head_func=ccomp|subord=LEFT	26	joint-list_m	_	dm-dm-215
+31	They probably wo n't	3	_	_	pos1=PP|head_tok=will|head_pos=MD|head_id=228|parent_pos=_|sid=10|stype=decl|len=4|head_func=root|para=para	26	evaluation-comment_r	_	lexical-indicative_word-227
+32	and he will develop chronic depression .	0	_	_	pos1=CC|head_tok=develop|head_pos=VV|head_id=233|parent_posMD|sid=10|stype=decl|len=7|head_func=conj|subord=LEFT	31	causal-result_r	_	dm-dm-230
+33	Me irl	1	_	_	pos1=PP|head_tok=I|head_pos=PP|head_id=237|parent_pos=_|sid=11|stype=frag|len=2|head_func=root|para=para	31	evaluation-comment_r	_	_
+34	That would seem to suggest	0	_	_	pos1=DT|head_tok=seem|head_pos=VV|head_id=241|parent_pos=_|sid=12|stype=sub|len=5|head_func=root|para=para	35	attribution-positive_r	_	syntactic-reported_speech-243
+35	parents are n't all knowing geniuses .	3	_	_	pos1=NNS|head_tok=genius|head_pos=NNS|head_id=249|parent_posVV|sid=12|stype=sub|len=7|head_func=ccomp|subord=LEFT	24	joint-other_m	_	_
+36	Say it a nit so ! !	1	_	_	pos1=VV|head_tok=say|head_pos=VV|head_id=251|parent_pos=_|sid=13|stype=imp|len=7|head_func=root	35	evaluation-comment_r	_	_
+37	I will not go	1	_	_	pos1=PP|head_tok=go|head_pos=VV|head_id=261|parent_pos=_|sid=14|stype=decl|len=4|head_func=root|para=para	38	explanation-motivation_r	_	_
+38	Turn the lights off	0	_	_	pos1=VV|head_tok=turn|head_pos=VV|head_id=262|parent_pos=_|sid=15|stype=imp|len=4|head_func=root|para=para	36	elaboration-additional_r	_	_
+39	Carry me home	0	_	_	pos1=VV|head_tok=carry|head_pos=VV|head_id=266|parent_pos=_|sid=16|stype=imp|len=3|head_func=root|para=para	38	joint-sequence_m	_	_
+40	NANANANANANANANANANANANANANANANANANA	2	_	_	pos1=UH|head_tok=NANANANANANANANANANANANANANANANANANA|head_pos=UH|head_id=269|parent_pos=_|sid=17|stype=other|len=1|head_func=root|para=para	38	joint-other_m	_	_
+41	It amazes me the chunks of time	3	_	_	pos1=PP|head_tok=amaze|head_pos=VVZ|head_id=271|parent_pos=_|sid=18|stype=decl|len=7|head_func=root|para=para	38	evaluation-comment_r	_	lexical-indicative_word-271
+42	it takes for people to respond to these things D:>	0	_	_	pos1=PP|head_tok=D:&gt;|head_pos=SYM|head_id=286|parent_posVVZ|sid=18|stype=decl|len=10|head_func=discourse|subord=LEFT	41	elaboration-additional_r	_	_
+43	1 year later	0	_	_	pos1=CD|head_tok=late|head_pos=RBR|head_id=289|parent_pos=_|sid=19|stype=frag|len=3|head_func=root|para=para	44	context-circumstance_r	_	dm-dm-289
+44	Late night , come home	1	_	_	pos1=JJ|head_tok=come|head_pos=VV|head_id=293|parent_pos=_|sid=20|stype=other|len=5|head_func=root	47	context-circumstance_r	_	_
+45	Work sucks ,	1	_	_	pos1=NN|head_tok=suck|head_pos=VVZ|head_id=296|parent_posVVP|sid=21|stype=decl|len=3|head_func=ccomp|subord=RIGHT|para=para	44	evaluation-comment_r	_	lexical-indicative_word-296
+46	I know	0	_	_	pos1=PP|head_tok=know|head_pos=VVP|head_id=299|parent_pos=_|sid=21|stype=decl|len=2|head_func=root	47	attribution-positive_r	_	syntactic-reported_speech-299
+47	She left me roses by the stairs .	4	_	_	pos1=PP|head_tok=leave|head_pos=VVD|head_id=301|parent_pos=_|sid=22|stype=decl|len=8|head_func=root|para=para	38	joint-other_m	_	_
+48	Not to over step my boundaries	0	_	_	pos1=RB|head_tok=step|head_pos=VV|head_id=311|parent_pos=_|sid=23|stype=other|len=6|head_func=root|para=para	49	adversative-concession_r	_	dm-dm-314
+49	but ... what cunts .	3	_	_	pos1=CC|head_tok=cunt|head_pos=NNS|head_id=317|parent_posVV|sid=23|stype=other|len=5|head_func=conj|subord=LEFT	24	joint-other_m	_	_
+50	That poor child deserves to be encouraged	1	_	_	pos1=DT|head_tok=deserve|head_pos=VVZ|head_id=322|parent_pos=_|sid=24|stype=decl|len=7|head_func=root	49	explanation-justify_r	_	_
+51	and listened to . :(	0	_	_	pos1=CC|head_tok=:(|head_pos=SYM|head_id=330|parent_posVVZ|sid=24|stype=decl|len=5|head_func=dep|subord=LEFT	50	joint-list_m	_	dm-dm-326
+52	This is the flaw with the premise of the movie Idiocracy .	2	_	_	pos1=DT|head_tok=flaw|head_pos=NN|head_id=334|parent_pos=_|sid=25|stype=decl|len=12|head_func=root|para=para	61	organization-preparation_r	_	_
+53	My parents always did that	1	_	_	pos1=PP$|head_tok=do|head_pos=VVD|head_id=346|parent_pos=_|sid=26|stype=multiple|len=5|head_func=root|para=para	61	adversative-antithesis_r	_	dm-dm-380
+54	when I was a kid	0	_	_	pos1=WRB|head_tok=kid|head_pos=NN|head_id=352|parent_posVVD|sid=26|stype=multiple|len=5|head_func=advcl|subord=LEFT	53	context-circumstance_r	_	dm-dm-348
+55	whenever there was a problem	1	_	_	pos1=WRB|head_tok=whenever|head_pos=WRB|head_id=353|parent_posVVD|sid=26|stype=multiple|len=5|head_func=advmod|subord=RIGHT	57	contingency-condition_r	_	dm-dm-353
+56	that needing thinking through	0	_	_	pos1=WDT|head_tok=need|head_pos=VVG|head_id=359|parent_posNN|sid=26|stype=multiple|len=4|head_func=acl:relcl|subord=LEFT	55	elaboration-attribute_r	_	syntactic-relative_clause-358
+57	they never let me help	1	_	_	pos1=PP|head_tok=let|head_pos=VVD|head_id=364|parent_posVVD|sid=26|stype=multiple|len=5|head_func=parataxis|subord=LEFT	53	elaboration-additional_r	_	reference-personal-343,344,362;reference-personal-343,365
+58	or dismissed every idea	0	_	_	pos1=CC|head_tok=dismiss|head_pos=VVD|head_id=368|parent_posVVD|sid=26|stype=multiple|len=4|head_func=conj|subord=LEFT	57	joint-disjunction_m	_	dm-dm-367
+59	I had	0	_	_	pos1=PP|head_tok=have|head_pos=VHD|head_id=372|parent_posNN|sid=26|stype=multiple|len=2|head_func=acl:relcl|subord=LEFT	58	elaboration-attribute_r	_	_
+60	simply because I was understandably a kid	2	_	_	pos1=RB|head_tok=kid|head_pos=NN|head_id=379|parent_posVVD|sid=26|stype=multiple|len=7|head_func=advcl|subord=LEFT	57	causal-cause_r	_	dm-dm-374
+61	but you still have to at least let your kids try and help	3	_	_	pos1=CC|head_tok=have|head_pos=VH|head_id=383|parent_posVVD|sid=26|stype=multiple|len=13|head_func=conj|subord=LEFT	24	joint-other_m	_	_
+62	or take their suggestions seriously	0	_	_	pos1=CC|head_tok=take|head_pos=VV|head_id=394|parent_posVV|sid=26|stype=multiple|len=5|head_func=conj|subord=LEFT	61	joint-disjunction_m	_	dm-dm-393
+63	That s infuriating	3	_	_	pos1=DT|head_tok=infuriate|head_pos=VVG|head_id=400|parent_pos=_|sid=27|stype=decl|len=3|head_func=root|para=para	24	joint-other_m	_	_
+64	because the whole point is to be adventurous and curious	0	_	_	pos1=IN|head_tok=adventurous|head_pos=JJ|head_id=408|parent_posVVG|sid=27|stype=decl|len=10|head_func=advcl|subord=LEFT	63	explanation-justify_r	_	dm-dm-401
+65	OH WAIT	0	_	_	pos1=UH|head_tok=wait|head_pos=VV|head_id=412|parent_posVVD|sid=28|stype=multiple|len=2|head_func=discourse|subord=RIGHT|para=para	66	organization-preparation_r	_	_
+66	I THOUGHT OF ANOTHER ONE	4	_	_	pos1=PP|head_tok=thought|head_pos=VVD|head_id=414|parent_pos=_|sid=28|stype=multiple|len=5|head_func=root	70	organization-preparation_r	_	_
+67	So we do proposals .	3	_	_	pos1=UH|head_tok=do|head_pos=VVP|head_id=420|parent_pos=_|sid=29|stype=decl|len=5|head_func=root|para=para	70	context-background_r	_	_
+68	Ring in the final puzzle box , proposal signs , whole package deal ,	0	_	_	pos1=NN|head_tok=ring|head_pos=NN|head_id=423|parent_pos=_|sid=30|stype=decl|len=14|head_func=root|subord=RIGHT	67	elaboration-additional_r	_	_
+69	people love it .	1	_	_	pos1=NNS|head_tok=love|head_pos=VVP|head_id=438|parent_posNN|sid=30|stype=decl|len=4|head_func=parataxis|subord=LEFT	67	evaluation-comment_r	_	lexical-indicative_word-438
+70	Dude calls up	3	_	_	pos1=NN|head_tok=call|head_pos=VVZ|head_id=442|parent_pos=_|sid=31|stype=decl|len=3|head_func=root	3	joint-other_m	_	_
+71	to set up a proposal ,	0	_	_	pos1=TO|head_tok=set|head_pos=VV|head_id=445|parent_posVVZ|sid=31|stype=decl|len=6|head_func=advcl|subord=RIGHT	70	purpose-goal_r	_	syntactic-infinitival_clause-444
+72	I ask	0	_	_	pos1=PP|head_tok=ask|head_pos=VVP|head_id=451|parent_posVVZ|sid=31|stype=decl|len=2|head_func=parataxis|subord=LEFT	73	attribution-positive_r	_	syntactic-reported_speech-451
+73	what room he wants etcetera .	1	_	_	pos1=WDT|head_tok=want|head_pos=VVZ|head_id=455|parent_posVVP|sid=31|stype=decl|len=6|head_func=ccomp|subord=LEFT	70	joint-sequence_m	_	_
+74	So then I tell him the total price to book out the entire room for the proposal .	1	_	_	pos1=RB|head_tok=tell|head_pos=VVP|head_id=461|parent_pos=_|sid=32|stype=decl|len=18|head_func=root	70	joint-sequence_m	_	dm-dm-459
+75	He says	0	_	_	pos1=PP|head_tok=say|head_pos=VVZ|head_id=477|parent_pos=_|sid=33|stype=decl|len=2|head_func=root	76	attribution-positive_r	_	syntactic-reported_speech-477
+76	he just wants to buy the two tickets for him and his girlfriend ,	0	_	_	pos1=PP|head_tok=want|head_pos=VVZ|head_id=480|parent_posVVZ|sid=33|stype=decl|len=14|head_func=ccomp|subord=RIGHT	74	adversative-contrast_m	_	_
+77	I tell him	1	_	_	pos1=PP|head_tok=tell|head_pos=VVP|head_id=493|parent_posVVZ|sid=33|stype=decl|len=3|head_func=parataxis|subord=LEFT	78	attribution-positive_r	_	syntactic-reported_speech-493
+78	we ca n't have strangers playing a game	1	_	_	pos1=PP|head_tok=have|head_pos=VH|head_id=498|parent_posVVP|sid=33|stype=decl|len=8|head_func=ccomp|subord=LEFT	70	joint-sequence_m	_	_
+79	that their experience is impacted / altered by the fact	0	_	_	pos1=IN/that|head_tok=impact|head_pos=VVN|head_id=507|parent_posNN|sid=33|stype=decl|len=10|head_func=acl:relcl|subord=LEFT	78	elaboration-attribute_r	_	_
+80	that there 's a proposal	0	_	_	pos1=IN/that|head_tok=be|head_pos=VBZ|head_id=515|parent_posNN|sid=33|stype=decl|len=5|head_func=acl|subord=LEFT	79	elaboration-attribute_r	_	syntactic-nominal_modifier-515
+81	going on .	0	_	_	pos1=VVG|head_tok=go|head_pos=VVG|head_id=518|parent_posVBZ|sid=33|stype=decl|len=3|head_func=advcl|subord=LEFT	80	elaboration-additional_r	_	_
+82	Proposal happens in an Escape Room ,	0	_	_	pos1=NN|head_tok=happen|head_pos=VVZ|head_id=522|parent_posVBZ|sid=34|stype=decl|len=7|head_func=advcl|subord=RIGHT	83	contingency-condition_r	_	_
+83	there 's no longer a game ,	2	_	_	pos1=EX|head_tok=be|head_pos=VBZ|head_id=529|parent_pos=_|sid=34|stype=decl|len=7|head_func=root|subord=RIGHT	78	explanation-justify_r	_	_
+84	it becomes about the proposal .	1	_	_	pos1=PP|head_tok=become|head_pos=VVZ|head_id=536|parent_posVBZ|sid=34|stype=decl|len=6|head_func=parataxis|subord=LEFT	83	causal-result_r	_	_
+85	I know this	2	_	_	pos1=PP|head_tok=know|head_pos=VVP|head_id=542|parent_pos=_|sid=35|stype=decl|len=3|head_func=root	83	explanation-justify_r	_	_
+86	because I 've seen it happen a hundred times .	0	_	_	pos1=IN|head_tok=see|head_pos=VVN|head_id=547|parent_posVVP|sid=35|stype=decl|len=10|head_func=advcl|subord=LEFT	85	explanation-evidence_r	_	dm-dm-544
+87	Anyway , dude refuses to buy out all of the tickets .	1	_	_	pos1=UH|head_tok=refuse|head_pos=VVZ|head_id=557|parent_pos=_|sid=36|stype=decl|len=12|head_func=root|para=para	70	joint-sequence_m	_	_
+88	Says	1	_	_	pos1=VVZ|head_tok=say|head_pos=VVZ|head_id=566|parent_pos=_|sid=37|stype=decl|len=1|head_func=root	90	attribution-positive_r	_	syntactic-reported_speech-566
+89	he wants strangers to be there ,	0	_	_	pos1=PP|head_tok=want|head_pos=VVZ|head_id=568|parent_posVVZ|sid=37|stype=decl|len=7|head_func=ccomp|subord=RIGHT	90	causal-cause_r	_	_
+90	he 's not going to buy the other four tickets .	0	_	_	pos1=PP|head_tok=go|head_pos=VVG|head_id=577|parent_posVVZ|sid=37|stype=decl|len=11|head_func=parataxis|subord=LEFT	87	restatement-repetition_m	_	reference-personal-556,574;semantic-repetition-559,579
+91	I hand the phone to my manager ,	1	_	_	pos1=PP|head_tok=hand|head_pos=VVP|head_id=586|parent_pos=_|sid=38|stype=decl|len=8|head_func=root|subord=RIGHT	70	joint-sequence_m	_	_
+92	they hash out details together .	0	_	_	pos1=PP|head_tok=hash|head_pos=VVP|head_id=594|parent_posVVP|sid=38|stype=decl|len=6|head_func=parataxis|subord=LEFT	91	joint-sequence_m	_	_
+93	Over the next three weeks	2	_	_	pos1=IN|head_tok=week|head_pos=NNS|head_id=603|parent_posVVZ|sid=39|stype=decl|len=5|head_func=obl|subord=RIGHT|para=para	70	joint-sequence_m	_	_
+94	leading up to the proposal ,	0	_	_	pos1=VVG|head_tok=lead|head_pos=VVG|head_id=604|parent_posNNS|sid=39|stype=decl|len=6|head_func=acl|subord=LEFT	93	elaboration-attribute_r	_	syntactic-nominal_modifier-604
+95	this guy calls every . Single . Fucking . Day .	1	_	_	pos1=DT|head_tok=call|head_pos=VVZ|head_id=612|parent_pos=_|sid=39|stype=decl|len=11|head_func=root	93	same-unit_m	_	_
+96	There 's nothing else to figure out ,	0	_	_	pos1=EX|head_tok=be|head_pos=VBZ|head_id=622|parent_pos=_|sid=40|stype=decl|len=8|head_func=root|subord=RIGHT	98	adversative-antithesis_r	_	dm-dm-637
+97	we 've got it all set up ,	0	_	_	pos1=PP|head_tok=get|head_pos=VVN|head_id=631|parent_posVBZ|sid=40|stype=decl|len=8|head_func=parataxis|subord=RIGHT	96	restatement-repetition_m	_	_
+98	but this guy is constantly badgering us .	2	_	_	pos1=CC|head_tok=badger|head_pos=VVG|head_id=642|parent_posVVN|sid=40|stype=decl|len=8|head_func=conj|subord=LEFT	93	restatement-repetition_m	_	_
+99	The big day rolls around ,	1	_	_	pos1=DT|head_tok=roll|head_pos=VVZ|head_id=648|parent_pos=_|sid=41|stype=decl|len=6|head_func=root|subord=RIGHT|para=para	100	context-circumstance_r	_	_
+100	he arrives early	1	_	_	pos1=PP|head_tok=arrive|head_pos=VVZ|head_id=652|parent_posVVZ|sid=41|stype=decl|len=3|head_func=parataxis|subord=LEFT	102	context-circumstance_r	_	_
+101	so he can hide out ,	0	_	_	pos1=IN|head_tok=hide|head_pos=VV|head_id=657|parent_posVVZ|sid=41|stype=decl|len=6|head_func=advcl|subord=RIGHT	100	purpose-goal_r	_	dm-dm-654
+102	and this dude is a kid .	2	_	_	pos1=CC|head_tok=kid|head_pos=NN|head_id=665|parent_posVVZ|sid=41|stype=decl|len=7|head_func=conj|subord=LEFT	70	joint-sequence_m	_	dm-dm-660
+103	Like , pimple - faced , voice - cracking , hair - growing - in - weird - places kind of kid .	0	_	_	pos1=UH|head_tok=kind|head_pos=NN|head_id=686|parent_pos=_|sid=42|stype=decl|len=23|head_func=root	102	elaboration-additional_r	_	semantic-repetition-661,662,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688
+104	Everybody in the control room is talking about him ,	2	_	_	pos1=NN|head_tok=talk|head_pos=VVG|head_id=696|parent_pos=_|sid=43|stype=decl|len=10|head_func=root|subord=RIGHT	70	joint-sequence_m	_	_
+105	because he 's been a thorn in our collective sides for weeks ,	0	_	_	pos1=IN|head_tok=thorn|head_pos=NN|head_id=705|parent_posVVG|sid=43|stype=decl|len=13|head_func=advcl|subord=RIGHT	104	causal-cause_r	_	dm-dm-700
+106	and we 're speculating about telling him	0	_	_	pos1=CC|head_tok=speculate|head_pos=VVG|head_id=716|parent_posVVG|sid=43|stype=decl|len=7|head_func=conj|subord=LEFT	107	attribution-positive_r	_	_
+107	marriage at his age is a horrible idea ,	1	_	_	pos1=NN|head_tok=idea|head_pos=NN|head_id=727|parent_posVVG|sid=43|stype=decl|len=9|head_func=ccomp|subord=RIGHT	104	joint-list_m	_	dm-dm-713
+108	but whatever	1	_	_	pos1=CC|head_tok=whatever|head_pos=WP|head_id=730|parent_posVVG|sid=43|stype=decl|len=2|head_func=conj|subord=LEFT	107	adversative-concession_r	_	dm-dm-729
+109	it 's too late .	0	_	_	pos1=PP|head_tok=late|head_pos=JJ|head_id=734|parent_posWP|sid=43|stype=decl|len=5|head_func=parataxis|subord=LEFT	108	explanation-justify_r	_	_
+110	So he hides ,	2	_	_	pos1=RB|head_tok=hide|head_pos=VVZ|head_id=738|parent_pos=_|sid=44|stype=decl|len=4|head_func=root|subord=RIGHT|para=para	70	joint-sequence_m	109:causal-result:0:0:orphan-orphan-736	_
+111	the girl and her friends show up ,	0	_	_	pos1=DT|head_tok=show|head_pos=VVP|head_id=745|parent_posVVZ|sid=44|stype=decl|len=8|head_func=parataxis|subord=RIGHT	110	joint-sequence_m	_	_
+112	they get started	0	_	_	pos1=PP|head_tok=get|head_pos=VVP|head_id=749|parent_posVVP|sid=44|stype=decl|len=3|head_func=parataxis|subord=LEFT	110	joint-sequence_m	_	_
+113	and we stash the dude in the second hidden room	0	_	_	pos1=CC|head_tok=stash|head_pos=VVP|head_id=753|parent_posVVP|sid=44|stype=decl|len=10|head_func=conj|subord=LEFT	112	joint-list_m	_	dm-dm-751
+114	that they 'll eventually end up in .	0	_	_	pos1=WDT|head_tok=end|head_pos=VV|head_id=765|parent_posNN|sid=44|stype=decl|len=8|head_func=acl:relcl|subord=LEFT	113	elaboration-attribute_r	_	syntactic-relative_clause-761
+115	Everybody crowds around the monitor	0	_	_	pos1=NN|head_tok=crowd|head_pos=VVP|head_id=770|parent_pos=_|sid=45|stype=decl|len=5|head_func=root	117	context-circumstance_r	_	_
+116	to watch	0	_	_	pos1=TO|head_tok=watch|head_pos=VV|head_id=775|parent_posVVP|sid=45|stype=decl|len=2|head_func=advcl|subord=LEFT	115	purpose-goal_r	_	syntactic-infinitival_clause-774
+117	and this guy pulls out a bouquet of flowers	2	_	_	pos1=CC|head_tok=pull|head_pos=VVZ|head_id=779|parent_posVVP|sid=45|stype=decl|len=9|head_func=conj|subord=LEFT	125	topic-solutionhood_r	115:joint-sequence:0:1:orphan-orphan-776	_
+118	and unfurls a sign	1	_	_	pos1=CC|head_tok=unfurl|head_pos=VVZ|head_id=786|parent_posVVZ|sid=45|stype=decl|len=4|head_func=conj|subord=LEFT	117	joint-sequence_m	_	dm-dm-785
+119	that says	0	_	_	pos1=WDT|head_tok=say|head_pos=VVZ|head_id=790|parent_posNN|sid=45|stype=decl|len=2|head_func=acl:relcl|subord=LEFT	120	attribution-positive_r	_	syntactic-relative_clause-789;syntactic-nominal_modifier-793
+120	" NAME REDACTED , will you go with me to PROM ? "	0	_	_	pos1=``|head_tok=go|head_pos=VV|head_id=797|parent_posVVZ|sid=45|stype=decl|len=13|head_func=ccomp|subord=LEFT	118	elaboration-attribute_r	_	_
+121	And the entire staff loses their collective shit .	2	_	_	pos1=CC|head_tok=lose|head_pos=VVZ|head_id=808|parent_pos=_|sid=46|stype=decl|len=9|head_func=root|para=para	117	causal-result_r	_	dm-dm-804
+122	Weeks of constant pestering , endless phone calls , and the most stressful proposal deal	0	_	_	pos1=NNS|head_tok=week|head_pos=NNS|head_id=813|parent_pos=_|sid=47|stype=frag|len=15|head_func=root	124	context-background_r	_	_
+123	we 've ever put together .	0	_	_	pos1=PP|head_tok=put|head_pos=VVN|head_id=831|parent_posNN|sid=47|stype=frag|len=6|head_func=acl:relcl|subord=LEFT	122	elaboration-attribute_r	_	_
+124	For a fucking PROMposal .	0	_	_	pos1=IN|head_tok=promposal|head_pos=NN|head_id=837|parent_pos=_|sid=48|stype=frag|len=5|head_func=root	121	causal-cause_r	_	_
+125	She said no .	2	_	_	pos1=PP|head_tok=say|head_pos=VVD|head_id=840|parent_pos=_|sid=49|stype=decl|len=4|head_func=root|para=para	70	joint-sequence_m	_	_
+126	cheers for the girl	0	_	_	pos1=NNS|head_tok=girl|head_pos=NN|head_id=846|parent_posVVG|sid=50|stype=frag|len=4|head_func=nsubj|subord=RIGHT|para=para	125	evaluation-comment_r	_	_
+127	saying no	0	_	_	pos1=VVG|head_tok=say|head_pos=VVG|head_id=847|parent_posNNS|sid=50|stype=frag|len=2|head_func=acl|subord=LEFT	126	elaboration-attribute_r	_	syntactic-nominal_modifier-847
+128	Made my day .	0	_	_	pos1=VVD|head_tok=make|head_pos=VVD|head_id=849|parent_pos=_|sid=51|stype=other|len=4|head_func=root|para=para	129	evaluation-comment_r	_	_
+129	" Shes said no "	1	_	_	pos1=``|head_tok=say|head_pos=VVD|head_id=855|parent_pos=_|sid=52|stype=decl|len=5|head_func=root	125	restatement-repetition_m	_	reference-personal-839,854;semantic-repetition-840,855
+130	You ok ?	1	_	_	pos1=PP|head_tok=ok|head_pos=JJ|head_id=859|parent_pos=_|sid=53|stype=q|len=3|head_func=root|para=para	129	evaluation-comment_r	_	_
+131	What a fucking niche name . .	3	_	_	pos1=WP|head_tok=name|head_pos=NN|head_id=865|parent_pos=_|sid=54|stype=other|len=7|head_func=root|para=para	125	evaluation-comment_r	120:evaluation-comment:2:0:unsure-unsure-	_
+132	parents must have been hippies	0	_	_	pos1=NNS|head_tok=hippie|head_pos=NNS|head_id=872|parent_pos=_|sid=55|stype=sub|len=5|head_func=root	131	causal-cause_r	_	_
+133	who thought their daughter did n't need to be labeled by society .	0	_	_	pos1=WP|head_tok=think|head_pos=VVD|head_id=874|parent_posNNS|sid=55|stype=sub|len=13|head_func=acl:relcl|subord=LEFT	132	elaboration-attribute_r	_	syntactic-relative_clause-873
+134	Or Ron Swanson .	1	_	_	pos1=CC|head_tok=Ron|head_pos=NP|head_id=887|parent_pos=_|sid=56|stype=frag|len=4|head_func=root|para=para	132	joint-disjunction_m	_	dm-dm-886
+135	AND I M DEAD	1	_	_	pos1=CC|head_tok=Dead|head_pos=JJ|head_id=893|parent_pos=_|sid=57|stype=decl|len=4|head_func=root|para=para	131	causal-result_r	_	dm-dm-890

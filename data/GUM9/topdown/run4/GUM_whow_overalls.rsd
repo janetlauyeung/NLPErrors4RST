@@ -1,0 +1,78 @@
+1	How to Wash Overalls in a Washing Machine	8	_	_	_	18	organization_r	_	_
+2	Whether you are a working man or just a little cutie	0	_	_	_	4	contingency_r	_	_
+3	trying to stay cute ,	0	_	_	_	2	elaboration_r	_	_
+4	those overalls are going to need washing sooner or later .	3	_	_	_	11	explanation_r	_	_
+5	The straps on adults ’ overalls often get so twisted during the wash	1	_	_	_	7	context_r	_	_
+6	that one wishes	0	_	_	_	7	attribution_r	_	_
+7	she had just used an old fashioned washboard instead .	1	_	_	_	4	explanation_r	_	_
+8	Your appliances are also murder on the straps ,	0	_	_	_	9	causal_r	_	_
+9	which are almost always the first things to wear out on your overalls .	2	_	_	_	7	joint_m	_	_
+10	This article will show you	1	_	_	_	11	attribution_r	_	_
+11	how to save time	7	_	_	_	18	context_r	_	_
+12	and prevent wear ,	0	_	_	_	11	joint_m	_	_
+13	extending the life of your overalls	2	_	_	_	11	explanation_r	_	_
+14	until they are so soft	0	_	_	_	13	causal_r	_	_
+15	you could wear them to bed .	0	_	_	_	14	elaboration_r	_	_
+16	Steps	5	_	_	_	18	organization_r	_	_
+17	Wash alone or with " like " clothing .	3	_	_	_	18	organization_r	_	_
+18	It ’s best to wash adults ’ overalls alone , especially men ’s .	0	_	_	_	0	ROOT	_	_
+19	However , it is okay to wash just a few items with them , like blue jeans .	0	_	_	_	18	adversative_m	_	_
+20	What you do n’t want to wash with them is anything	1	_	_	_	18	adversative_m	_	_
+21	that can get twisted up with the straps , like women ’s long sleeve shirts or kids ’ blankets .	0	_	_	_	20	elaboration_r	_	_
+22	Think similar clothing , minus the twisty-ness .	1	_	_	_	20	elaboration_r	_	_
+23	Just do the denim and canvas stuff together .	2	_	_	_	18	elaboration_r	_	_
+24	Fasten the straps to the bib .	4	_	_	_	18	joint_m	_	_
+25	If you did n’t know already ,	0	_	_	_	26	contingency_r	_	_
+26	the bib is the top front part with the breast pockets .	2	_	_	_	27	explanation_r	_	_
+27	Go ahead and fasten both straps	0	_	_	_	24	elaboration_r	_	_
+28	before you wash .	0	_	_	_	27	context_r	_	_
+29	This will help keep them from twisting up during the wash .	1	_	_	_	27	explanation_r	_	_
+30	Use twist ties	1	_	_	_	24	joint_m	_	_
+31	to keep the straps fastened .	0	_	_	_	30	purpose_r	_	_
+32	This step will reapportion years of your life in the long run .	3	_	_	_	34	explanation_r	_	_
+33	Do n’t skip it .	2	_	_	_	34	adversative_r_r	_	_
+34	Take the 20 seconds	1	_	_	_	30	explanation_r	_	_
+35	to use a couple twist ties on the fasteners	0	_	_	_	34	elaboration_r	_	_
+36	to make sure they do n’t come loose .	1	_	_	_	34	purpose_r	_	_
+37	If your washing machine is worth its salt ,	2	_	_	_	38	contingency_r	_	_
+38	it will undo those straps in a heartbeat	4	_	_	_	34	explanation_r	_	_
+39	and tie them in a sheet bend	0	_	_	_	38	joint_m	_	_
+40	unless you prevent it .	1	_	_	_	38	contingency_r	_	_
+41	All it takes is two twist ties and a few seconds of patience .	5	_	_	_	34	explanation_r	_	_
+42	Empty the pockets .	3	_	_	_	43	organization_r	_	_
+43	Overalls have more pockets than pants .	2	_	_	_	24	joint_m	_	_
+44	The bib has a wallet pocket and a watch pocket .	0	_	_	_	43	elaboration_r	_	_
+45	Kids put rocks , candy , and bugs in these .	1	_	_	_	43	elaboration_r	_	_
+46	Men put cell phones and small tools in them .	0	_	_	_	45	adversative_m	_	_
+47	Women defy the laws of purse - space ,	1	_	_	_	48	causal_r	_	_
+48	so	0	_	_	_	46	evaluation_r	_	_
+49	when it comes to bib pockets ,	0	_	_	_	50	context_r	_	_
+50	the sky is the limit .	0	_	_	_	48	same-unit_m	_	_
+51	Make sure all the pockets are empty .	2	_	_	_	43	joint_m	_	_
+52	Move the strap adjusters around .	4	_	_	_	43	joint_m	_	_
+53	You ’ve probably got them just the way you like them ,	1	_	_	_	55	adversative_r_r	_	_
+54	but if you move the adjusters up or down on the straps occasionally ,	0	_	_	_	55	contingency_r	_	_
+55	the straps will last longer .	0	_	_	_	52	explanation_r	_	_
+56	Depending on the adjusters ,	0	_	_	_	57	contingency_r	_	_
+57	you may be able to leave them a little loose too .	0	_	_	_	61	explanation_r	_	_
+58	The straps wear out fastest around the adjusters over the course of numerous wash and dry cycles	1	_	_	_	57	explanation_r	_	_
+59	( not to mention being out in the elements	0	_	_	_	58	context_r	_	_
+60	if they are work clothes ) .	0	_	_	_	59	contingency_r	_	_
+61	Moving them distributes the wear and tear of washing .	2	_	_	_	55	joint_m	_	_
+62	This is the same idea as rotating tires .	3	_	_	_	55	evaluation_r	_	_
+63	You know	0	_	_	_	64	attribution_r	_	_
+64	about rotating your tires ,	0	_	_	_	62	explanation_r	_	_
+65	do n't you ?	1	_	_	_	64	organization_r	_	_
+66	Tips	2	_	_	_	68	organization_r	_	_
+67	If you wash your overalls alone or in a light load ,	0	_	_	_	68	contingency_r	_	_
+68	use about half the detergent called for and less water .	6	_	_	_	18	joint_m	_	_
+69	Leave the straps fastened and twist - tied to the bib	1	_	_	_	68	joint_m	_	_
+70	when you throw them in the dryer .	0	_	_	_	69	context_r	_	_
+71	This will cut down on some of the racket ,	1	_	_	_	69	explanation_r	_	_
+72	but you 're still going to hear them .	0	_	_	_	71	adversative_m	_	_
+73	Warnings	1	_	_	_	78	organization_r	_	_
+74	The paper - type twist ties will deteriorate a little ,	0	_	_	_	75	adversative_r_r	_	_
+75	but the dryer filter screen will catch the fallout .	0	_	_	_	78	explanation_r	_	_
+76	Plastic - type twist ties will hold up in the wash ,	1	_	_	_	75	adversative_m	_	_
+77	but may or may not melt in your dryer .	0	_	_	_	76	adversative_m	_	_
+78	Use with caution .	3	_	_	_	68	joint_m	_	_

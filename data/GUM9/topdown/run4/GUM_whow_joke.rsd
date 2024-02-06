@@ -1,0 +1,135 @@
+1	How to Tell a Joke	4	_	_	_	5	organization_r	_	_
+2	Two Parts :	1	_	_	_	3	organization_r	_	_
+3	Getting the Material Right	2	_	_	_	5	organization_r	_	_
+4	Getting the Delivery Right	0	_	_	_	3	joint_m	_	_
+5	From one - liners to classic three - liners to the one - minute gag you tell your friends , a good joke pleases everyone .	0	_	_	_	0	ROOT	_	_
+6	Joke - telling is one of the best ways	0	_	_	_	5	explanation_r	_	_
+7	to ease tension ,	0	_	_	_	6	purpose_r	_	_
+8	make a new friend ,	0	_	_	_	7	joint_m	_	_
+9	or light up a room .	0	_	_	_	8	joint_m	_	_
+10	That is , of course ,	1	_	_	_	6	contingency_r	_	_
+11	if you can get a laugh .	0	_	_	_	10	contingency_r	_	_
+12	Telling good jokes is an art	1	_	_	_	5	joint_m	_	_
+13	that comes naturally to some people ,	0	_	_	_	12	elaboration_r	_	_
+14	but for others it takes practice and hard work .	1	_	_	_	12	adversative_r_r	_	_
+15	Part 1 of 2 :	0	_	_	_	16	organization_r	_	_
+16	Getting the Material Right	2	_	_	_	17	organization_r	_	_
+17	Know your audience .	3	_	_	_	5	joint_m	_	_
+18	All aspects of the joke	0	_	_	_	17	elaboration_r	_	_
+19	you tell ,	0	_	_	_	18	elaboration_r	_	_
+20	from the content to the length , need to be suited to your audience .	1	_	_	_	18	elaboration_r	_	_
+21	What ’s funny to a group of 20 - year old college students may be very different from what makes your 70 - year old - uncle laugh	2	_	_	_	18	elaboration_r	_	_
+22	( then again , maybe not ) .	0	_	_	_	21	adversative_r_r	_	_
+23	Everyone ’s an individual ,	0	_	_	_	24	causal_r	_	_
+24	so there are no hard and fast rules .	2	_	_	_	28	adversative_r_r	_	_
+25	But ,	1	_	_	_	28	organization_r	_	_
+26	unless you personally know the members of your audience ,	0	_	_	_	27	contingency_r	_	_
+27	here are some good rules of thumb to follow :	0	_	_	_	25	same-unit_m	_	_
+28	elderly people wo n’t like crude jokes ;	3	_	_	_	18	elaboration_r	_	_
+29	stay away from misogynist jokes	0	_	_	_	28	joint_m	_	_
+30	if you ’ve got an audience full of women ;	0	_	_	_	29	contingency_r	_	_
+31	people of a specific ethnic or racial group wo n’t enjoy jokes	1	_	_	_	29	joint_m	_	_
+32	making fun of their group ;	0	_	_	_	31	elaboration_r	_	_
+33	and jokes	1	_	_	_	31	joint_m	_	_
+34	requiring specialized knowledge	0	_	_	_	33	elaboration_r	_	_
+35	( of , for example , science or old movies )	0	_	_	_	34	elaboration_r	_	_
+36	will only be appreciated by people	1	_	_	_	33	same-unit_m	_	_
+37	who possess that knowledge .	0	_	_	_	36	elaboration_r	_	_
+38	The more you know about your audience	0	_	_	_	39	contingency_r	_	_
+39	the better you ’ll be able to tailor your jokes to them .	4	_	_	_	18	joint_m	_	_
+40	Choose great material .	1	_	_	_	17	joint_m	_	_
+41	You can find fodder lots of places —	0	_	_	_	40	elaboration_r	_	_
+42	from your life ,	0	_	_	_	41	mode_r	_	_
+43	joke files online ,	0	_	_	_	42	joint_m	_	_
+44	by repurposing jokes you ’ve heard in the past ,	0	_	_	_	43	joint_m	_	_
+45	and so on .	0	_	_	_	44	joint_m	_	_
+46	You may want to start your own joke file .	1	_	_	_	40	elaboration_r	_	_
+47	You can write your jokes down on index cards	0	_	_	_	46	elaboration_r	_	_
+48	to keep them handy	0	_	_	_	47	purpose_r	_	_
+49	or use a document file on your computer .	1	_	_	_	47	joint_m	_	_
+50	[ 1 ]	2	_	_	_	47	explanation_r	_	_
+51	The latter option may allow for easier revision .	1	_	_	_	46	explanation_r	_	_
+52	Decide on a target .	4	_	_	_	55	organization_r	_	_
+53	Every joke has a “ target , ”	2	_	_	_	55	context_r	_	_
+54	which is what the joke is about .	0	_	_	_	53	elaboration_r	_	_
+55	It ’s important that the joke ’s target	2	_	_	_	40	joint_m	_	_
+56	( the most basic element of your material )	0	_	_	_	55	restatement_r_r	_	_
+57	be suited to your audience .	1	_	_	_	55	same-unit_m	_	_
+58	Make sure	2	_	_	_	59	attribution_r	_	_
+59	it ’s a target	3	_	_	_	55	elaboration_r	_	_
+60	your audience will be interested in	0	_	_	_	59	elaboration_r	_	_
+61	and something	1	_	_	_	59	joint_m	_	_
+62	they ’re likely willing to laugh at .	0	_	_	_	61	elaboration_r	_	_
+63	[ 2 ]	3	_	_	_	59	explanation_r	_	_
+64	For example , husbands are likely to laugh at jokes about wives and vice versa ;	4	_	_	_	59	explanation_r	_	_
+65	students will typically find jokes about school and teachers humorous .	0	_	_	_	64	joint_m	_	_
+66	Have a realistic but exaggerated setup .	5	_	_	_	55	joint_m	_	_
+67	The opening of the joke	0	_	_	_	66	elaboration_r	_	_
+68	— or setup —	0	_	_	_	67	restatement_r_r	_	_
+69	should have a basis in the real world	1	_	_	_	67	same-unit_m	_	_
+70	so your audience can relate to it ,	0	_	_	_	69	purpose_r	_	_
+71	but it should also include exaggeration	2	_	_	_	67	joint_m	_	_
+72	because this is what gives a joke its humorous edge .	0	_	_	_	71	causal_r	_	_
+73	[ 3 ]	3	_	_	_	67	explanation_r	_	_
+74	Think of the setup as the foundation of a story .	4	_	_	_	67	joint_m	_	_
+75	It ’s a fundamental part of the joke ;	0	_	_	_	74	restatement_m	_	_
+76	if you do n’t lay a good foundation here ,	1	_	_	_	77	contingency_r	_	_
+77	then the punchline wo n’t make sense to the audience	1	_	_	_	74	elaboration_r	_	_
+78	or they wo n’t find it humorous .	0	_	_	_	77	joint_m	_	_
+79	Your setup needs to be both realistic and exaggerated	5	_	_	_	67	elaboration_r	_	_
+80	in order to be funny —	0	_	_	_	79	purpose_r	_	_
+81	it ’s placing these two incongruous elements side by side that makes the joke funny .	1	_	_	_	79	explanation_r	_	_
+82	[ 4 ]	2	_	_	_	79	explanation_r	_	_
+83	The exaggeration can be slight or considerable —	3	_	_	_	79	elaboration_r	_	_
+84	it just depends on the individual joke .	0	_	_	_	83	explanation_r	_	_
+85	Surprise with the punchline .	6	_	_	_	55	joint_m	_	_
+86	The ending of the joke is obviously crucial .	0	_	_	_	85	evaluation_r	_	_
+87	This is where the payoff comes in , what makes the joke succeed or fail .	0	_	_	_	86	explanation_r	_	_
+88	If you want to make the audience laugh ,	0	_	_	_	89	contingency_r	_	_
+89	your punchline needs to be surprising .	1	_	_	_	85	elaboration_r	_	_
+90	Some jokes also have what is called a tag or topper ,	1	_	_	_	89	joint_m	_	_
+91	which is an additional punchline .	0	_	_	_	90	elaboration_r	_	_
+92	The tag builds on the original punchline or twists back on it in a surprising way .	1	_	_	_	90	elaboration_r	_	_
+93	Make the joke your own .	2	_	_	_	85	joint_m	_	_
+94	Lots of jokes rehash the same ground	0	_	_	_	93	explanation_r	_	_
+95	and sometimes they retell a story	0	_	_	_	94	joint_m	_	_
+96	countless other jokes have told .	0	_	_	_	95	elaboration_r	_	_
+97	For your joke to be funny ,	1	_	_	_	98	purpose_r	_	_
+98	it has to surprise the audience in some way ,	1	_	_	_	93	joint_m	_	_
+99	which means it has to seem original or new .	0	_	_	_	98	elaboration_r	_	_
+100	One way	2	_	_	_	98	joint_m	_	_
+101	to personalize a joke	0	_	_	_	100	purpose_r	_	_
+102	is to change the ending .	1	_	_	_	100	same-unit_m	_	_
+103	[ 5 ]	2	_	_	_	100	explanation_r	_	_
+104	Another option is to dress the joke up as a story about your own life .	3	_	_	_	100	joint_m	_	_
+105	This will make a familiar joke unrecognizable .	0	_	_	_	104	elaboration_r	_	_
+106	It may also make it particularly interesting	0	_	_	_	105	joint_m	_	_
+107	if your audience is your friend(s) .	0	_	_	_	106	contingency_r	_	_
+108	[ 6 ]	3	_	_	_	98	explanation_r	_	_
+109	Know your material .	3	_	_	_	85	joint_m	_	_
+110	Practicing your joke is crucial .	0	_	_	_	109	elaboration_r	_	_
+111	You do n’t need to have it completely memorized	1	_	_	_	113	adversative_r_r	_	_
+112	— in fact , you " should n’t " memorize it —	0	_	_	_	111	restatement_r_r	_	_
+113	but you need to be really comfortable with it ,	0	_	_	_	110	elaboration_r	_	_
+114	so comfortable	0	_	_	_	113	elaboration_r	_	_
+115	that you can continue on with telling it	0	_	_	_	114	adversative_r_r	_	_
+116	even if you get nervous or sidetracked ,	0	_	_	_	115	adversative_r_r	_	_
+117	which is very possible	1	_	_	_	114	explanation_r	_	_
+118	once you ’re in front of an audience .	0	_	_	_	117	context_r	_	_
+119	Memorized jokes sound wooden ,	1	_	_	_	110	joint_m	_	_
+120	like they are being read off a script	0	_	_	_	119	elaboration_r	_	_
+121	instead of relayed by a friend or entertainer .	0	_	_	_	120	adversative_r_r	_	_
+122	Good jokes have a lot of details and personality ,	0	_	_	_	123	explanation_r	_	_
+123	so do n’t be afraid to embellish .	1	_	_	_	119	joint_m	_	_
+124	[ 7 ]	1	_	_	_	123	explanation_r	_	_
+125	Try different things out	2	_	_	_	123	joint_m	_	_
+126	and see what feels right , what sounds best .	0	_	_	_	125	joint_m	_	_
+127	Do n’t use a joke	1	_	_	_	125	joint_m	_	_
+128	until you ’re completely comfortable with it .	0	_	_	_	127	contingency_r	_	_
+129	Try recording your joke on a tape player and playing it back to yourself .	1	_	_	_	127	joint_m	_	_
+130	If you hear a lot of awkward pauses or “ah”s or “um”s ,	1	_	_	_	131	contingency_r	_	_
+131	your joke is n’t ready	0	_	_	_	129	joint_m	_	_
+132	and you need to practice more .	0	_	_	_	131	joint_m	_	_
+133	[ 8 ]	2	_	_	_	131	explanation_r	_	_
+134	You can also try practicing in front of a sympathetic friend or family member	3	_	_	_	131	joint_m	_	_
+135	once you ’re ready for a “ real ” audience .	0	_	_	_	134	context_r	_	_

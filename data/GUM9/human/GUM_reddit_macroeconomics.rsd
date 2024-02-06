@@ -1,0 +1,169 @@
+1	ELI5 :	1	_	_	pos1=NP|head_tok=ELI5|head_pos=NP|head_id=1|parent_pos=_|sid=1|stype=frag|len=2|head_func=root|heading=heading	5	organization-preparation_r	_	graphical-colon-2
+2	If every major country is in billions	0	_	_	pos1=IN|head_tok=billion|head_pos=NNS|head_id=9|parent_posVVG|sid=2|stype=wh|len=7|head_func=advcl|subord=RIGHT|heading=heading	5	context-background_r	_	dm-dm-3
+3	( if not trillions )	0	_	_	pos1=(|head_tok=trillion|head_pos=NNS|head_id=13|parent_posNNS|sid=2|stype=wh|len=5|head_func=acl|subord=LEFT|heading=heading	2	adversative-antithesis_r	_	dm-dm-11
+4	of debt ,	1	_	_	pos1=IN|head_tok=debt|head_pos=NN|head_id=16|parent_posNNS|sid=2|stype=wh|len=3|head_func=nmod|subord=LEFT|heading=heading	2	same-unit_m	_	_
+5	where are they borrowing from ?	0	_	_	pos1=WRB|head_tok=borrow|head_pos=VVG|head_id=21|parent_pos=_|sid=2|stype=wh|len=6|head_func=root|heading=heading	6	topic-question_r	_	lexical-indicative_word-18;syntactic-subject_auxiliary_inversion-19;graphical-question_mark-23
+6	You can borrow from your own people .	0	_	_	pos1=PP|head_tok=borrow|head_pos=VV|head_id=26|parent_pos=_|sid=3|stype=sub|len=8|head_func=root|para=para	0	ROOT	_	_
+7	The money	1	_	_	pos1=DT|head_tok=money|head_pos=NN|head_id=33|parent_posNNS|sid=4|stype=decl|len=2|head_func=nsubj|subord=RIGHT	6	elaboration-additional_r	_	_
+8	that is printed	0	_	_	pos1=WDT|head_tok=print|head_pos=VVN|head_id=36|parent_posNN|sid=4|stype=decl|len=3|head_func=acl:relcl|subord=LEFT	7	elaboration-attribute_r	_	syntactic-relative_clause-34
+9	is FEDERAL RESERVE	1	_	_	pos1=VBZ|head_tok=Reserve|head_pos=NP|head_id=39|parent_posNNS|sid=4|stype=decl|len=3|head_func=compound|subord=RIGHT	7	same-unit_m	_	_
+10	( thanks for the corrections )	0	_	_	pos1=(|head_tok=thanks|head_pos=NNS|head_id=41|parent_posNP|sid=4|stype=decl|len=6|head_func=parataxis|subord=LEFT	9	adversative-concession_r	_	_
+11	notes	1	_	_	pos1=NNS|head_tok=note|head_pos=NNS|head_id=46|parent_pos=_|sid=4|stype=decl|len=1|head_func=root	7	same-unit_m	_	_
+12	-- it 's technically a debt that the Reserve owes the bearer of the note	2	_	_	pos1=:|head_tok=debt|head_pos=NN|head_id=52|parent_posNNS|sid=4|stype=decl|len=15|head_func=parataxis|subord=LEFT	7	elaboration-additional_r	_	reference-personal-32,48
+13	( but printing money does not technically increase the debt supply	0	_	_	pos1=(|head_tok=increase|head_pos=VV|head_id=69|parent_posNNS|sid=4|stype=decl|len=11|head_func=conj|subord=LEFT	12	adversative-contrast_m	_	dm-dm-63
+14	-- the role of money has changed since fiat currency ) .	0	_	_	pos1=:|head_tok=change|head_pos=VVN|head_id=79|parent_posVV|sid=4|stype=decl|len=12|head_func=parataxis|subord=LEFT	13	causal-cause_r	_	_
+15	When you print more money ,	1	_	_	pos1=WRB|head_tok=print|head_pos=VVP|head_id=87|parent_posVVG|sid=5|stype=decl|len=6|head_func=advcl|subord=RIGHT|para=para	16	contingency-condition_r	_	dm-dm-85
+16	you are devaluing the rest of the currency	3	_	_	pos1=PP|head_tok=devalue|head_pos=VVG|head_id=93|parent_pos=_|sid=5|stype=decl|len=8|head_func=root	7	joint-other_m	_	_
+17	that is already in circulation .	0	_	_	pos1=WDT|head_tok=already|head_pos=RB|head_id=101|parent_posNN|sid=5|stype=decl|len=6|head_func=acl:relcl|subord=LEFT	16	elaboration-attribute_r	_	syntactic-relative_clause-99
+18	This means that	2	_	_	pos1=DT|head_tok=that|head_pos=IN/that|head_id=107|parent_posVV|sid=6|stype=decl|len=3|head_func=mark|subord=RIGHT	16	elaboration-additional_r	_	dm-dm-105,106
+19	if the govt decided to print $ 100,000,000,000,000,000	0	_	_	pos1=IN|head_tok=decide|head_pos=VVD|head_id=111|parent_posVV|sid=6|stype=decl|len=8|head_func=advcl|subord=RIGHT	22	contingency-condition_r	_	dm-dm-108
+20	( 1 quadrillion dollars )	0	_	_	pos1=(|head_tok=dollar|head_pos=NNS|head_id=119|parent_pos$|sid=6|stype=decl|len=5|head_func=appos|subord=LEFT	19	restatement-partial_r	_	graphical-parentheses-116,120
+21	in the span of a week ,	1	_	_	pos1=IN|head_tok=span|head_pos=NN|head_id=123|parent_posVV|sid=6|stype=decl|len=7|head_func=obl|subord=LEFT	19	same-unit_m	_	_
+22	the value of the dollar would probably crash pretty hard	0	_	_	pos1=DT|head_tok=crash|head_pos=VV|head_id=135|parent_posVVZ|sid=6|stype=decl|len=10|head_func=ccomp|subord=LEFT	18	same-unit_m	_	_
+23	( probably ... ) .	1	_	_	pos1=(|head_tok=probably|head_pos=RB|head_id=139|parent_posVV|sid=6|stype=decl|len=5|head_func=advmod|subord=LEFT	18	evaluation-comment_r	_	lexical-indicative_word-139
+24	This is related	3	_	_	pos1=DT|head_tok=related|head_pos=JJ|head_id=145|parent_pos=_|sid=7|stype=decl|len=3|head_func=root	16	evaluation-comment_r	_	_
+25	because people use money	0	_	_	pos1=IN|head_tok=use|head_pos=VVP|head_id=148|parent_posJJ|sid=7|stype=decl|len=4|head_func=advcl|subord=LEFT	24	causal-cause_r	_	dm-dm-146
+26	to buy US debt	0	_	_	pos1=TO|head_tok=buy|head_pos=VV|head_id=151|parent_posVVP|sid=7|stype=decl|len=4|head_func=advcl|subord=LEFT	25	purpose-goal_r	_	syntactic-infinitival_clause-150
+27	-- we 're loaning the US govt the very money	1	_	_	pos1=:|head_tok=loan|head_pos=VVG|head_id=157|parent_posVVP|sid=7|stype=decl|len=10|head_func=parataxis|subord=LEFT	25	elaboration-additional_r	_	_
+28	it prints .	0	_	_	pos1=PP|head_tok=print|head_pos=VVZ|head_id=165|parent_posNN|sid=7|stype=decl|len=3|head_func=acl:relcl|subord=LEFT	27	elaboration-attribute_r	_	_
+29	The only reason	4	_	_	pos1=DT|head_tok=reason|head_pos=NN|head_id=169|parent_posVVP|sid=8|stype=decl|len=3|head_func=nsubj|subord=RIGHT	16	evaluation-comment_r	_	_
+30	that this results in anything favorable	0	_	_	pos1=IN/that|head_tok=result|head_pos=VVZ|head_id=172|parent_posNN|sid=8|stype=decl|len=6|head_func=acl|subord=LEFT	29	elaboration-attribute_r	_	syntactic-nominal_modifier-172
+31	is because people all over the world value USD	1	_	_	pos1=VBZ|head_tok=value|head_pos=VVP|head_id=183|parent_pos=_|sid=8|stype=decl|len=9|head_func=root	29	same-unit_m	_	_
+32	and that paper currency represents potential labor , new assets , etc.	0	_	_	pos1=CC|head_tok=represent|head_pos=VVZ|head_id=189|parent_posVVP|sid=8|stype=decl|len=12|head_func=conj|subord=LEFT	31	joint-list_m	_	dm-dm-185
+33	If you own a baseball card of Sammy Sosa ,	1	_	_	pos1=IN|head_tok=own|head_pos=VVP|head_id=199|parent_posVBZ|sid=9|stype=sub|len=10|head_func=advcl|subord=RIGHT|para=para	34	contingency-condition_r	_	dm-dm-197
+34	there is a chance	4	_	_	pos1=EX|head_tok=be|head_pos=VBZ|head_id=208|parent_pos=_|sid=9|stype=sub|len=4|head_func=root	51	explanation-justify_r	_	_
+35	it could be worth a lot of money .	0	_	_	pos1=PP|head_tok=worth|head_pos=JJ|head_id=214|parent_posNN|sid=9|stype=sub|len=9|head_func=acl:relcl|subord=LEFT	34	elaboration-attribute_r	_	_
+36	Now imagine	0	_	_	pos1=RB|head_tok=imagine|head_pos=VV|head_id=221|parent_pos=_|sid=10|stype=imp|len=2|head_func=root	37	attribution-positive_r	_	syntactic-reported_speech-221;syntactic-reported_speech-222
+37	if the card company just mails a Sammy Sosa card to every family in America .	1	_	_	pos1=IN|head_tok=mail|head_pos=VVZ|head_id=227|parent_posVV|sid=10|stype=imp|len=16|head_func=ccomp|subord=LEFT	38	contingency-condition_r	_	dm-dm-222
+38	Your Sammy Sosa card is n't worth anything anymore	2	_	_	pos1=PP$|head_tok=worth|head_pos=JJ|head_id=244|parent_pos=_|sid=11|stype=decl|len=9|head_func=root	34	adversative-contrast_m	_	_
+39	because there are so many of them	0	_	_	pos1=IN|head_tok=be|head_pos=VBP|head_id=249|parent_posJJ|sid=11|stype=decl|len=7|head_func=advcl|subord=LEFT	38	causal-cause_r	_	dm-dm-247
+40	and everyone has it now .	0	_	_	pos1=CC|head_tok=have|head_pos=VHZ|head_id=256|parent_posVBP|sid=11|stype=decl|len=6|head_func=conj|subord=LEFT	39	joint-list_m	_	dm-dm-254
+41	Now imagine	0	_	_	pos1=RB|head_tok=imagine|head_pos=VV|head_id=261|parent_pos=_|sid=12|stype=imp|len=2|head_func=root	42	attribution-positive_r	_	syntactic-reported_speech-261;syntactic-reported_speech-262
+42	if they mailed another 5 to everyone	1	_	_	pos1=IN|head_tok=mail|head_pos=VVD|head_id=264|parent_posVV|sid=12|stype=imp|len=7|head_func=ccomp|subord=LEFT	43	contingency-condition_r	_	dm-dm-262
+43	-- the value crashes even harder	2	_	_	pos1=:|head_tok=crash|head_pos=VVZ|head_id=272|parent_posVV|sid=12|stype=imp|len=6|head_func=parataxis|subord=LEFT	34	adversative-contrast_m	_	_
+44	because there are SO many of them now .	0	_	_	pos1=IN|head_tok=be|head_pos=VBP|head_id=277|parent_posVVZ|sid=12|stype=imp|len=9|head_func=advcl|subord=LEFT	43	causal-cause_r	_	dm-dm-275
+45	That 's the same idea with money .	3	_	_	pos1=DT|head_tok=idea|head_pos=NN|head_id=288|parent_pos=_|sid=13|stype=decl|len=8|head_func=root|para=para	51	organization-preparation_r	_	_
+46	You ca n't keep printing more money	1	_	_	pos1=PP|head_tok=keep|head_pos=VV|head_id=295|parent_pos=_|sid=14|stype=sub|len=7|head_func=root	51	context-background_r	_	_
+47	or else the value of it will deteriorate .	0	_	_	pos1=CC|head_tok=deteriorate|head_pos=VV|head_id=306|parent_posVV|sid=14|stype=sub|len=9|head_func=conj|subord=LEFT	46	explanation-justify_r	46:adversative-antithesis:0:0:orphan-orphan-300,299	_
+48	But the gov't keeps issuing more debt	0	_	_	pos1=CC|head_tok=keep|head_pos=VVZ|head_id=311|parent_pos=_|sid=15|stype=multiple|len=7|head_func=root|subord=RIGHT	49	context-circumstance_r	_	_
+49	and we still look at $ 20 like it 's $ 20 ,	1	_	_	pos1=CC|head_tok=look|head_pos=VVP|head_id=318|parent_posVVZ|sid=15|stype=multiple|len=13|head_func=conj|subord=RIGHT	46	adversative-antithesis_r	_	dm-dm-315,308
+50	right ?	1	_	_	pos1=JJ|head_tok=right|head_pos=JJ|head_id=328|parent_posVVZ|sid=15|stype=multiple|len=2|head_func=discourse|subord=LEFT	49	organization-phatic_r	_	_
+51	Eventually , there could come a time	5	_	_	pos1=RB|head_tok=come|head_pos=VV|head_id=334|parent_pos=_|sid=16|stype=sub|len=7|head_func=root	16	elaboration-additional_r	_	_
+52	when we look at a $ 20 bill	0	_	_	pos1=WRB|head_tok=look|head_pos=VVP|head_id=339|parent_posNN|sid=16|stype=sub|len=8|head_func=acl:relcl|subord=LEFT	53	context-circumstance_r	_	dm-dm-337
+53	and it means nothing to us .	0	_	_	pos1=CC|head_tok=mean|head_pos=VVZ|head_id=347|parent_posVVP|sid=16|stype=sub|len=7|head_func=conj|subord=LEFT	51	elaboration-additional_r	_	dm-dm-345
+54	This is what happened in Zimbabwe	2	_	_	pos1=DT|head_tok=what|head_pos=WP|head_id=354|parent_pos=_|sid=17|stype=decl|len=6|head_func=root|para=para	51	explanation-evidence_r	_	_
+55	where a billion dollar transaction might happen for a loaf of bread .	0	_	_	pos1=WRB|head_tok=happen|head_pos=VV|head_id=364|parent_posNP|sid=17|stype=decl|len=13|head_func=acl:relcl|subord=LEFT	54	elaboration-attribute_r	_	dm-dm-358
+56	They printed so much money	1	_	_	pos1=PP|head_tok=print|head_pos=VVD|head_id=372|parent_pos=_|sid=18|stype=decl|len=5|head_func=root	59	causal-cause_r	_	dm-dm-391
+57	( without proper secure backing by the gov't )	0	_	_	pos1=(|head_tok=backing|head_pos=NN|head_id=380|parent_posVVD|sid=18|stype=decl|len=9|head_func=obl|subord=LEFT	56	mode-manner_r	_	dm-dm-377
+58	that it just became worthless .	1	_	_	pos1=IN/that|head_tok=become|head_pos=VVD|head_id=388|parent_posVVD|sid=18|stype=decl|len=6|head_func=advcl|subord=LEFT	56	causal-result_r	_	_
+59	So they started to just increase the numbers on their currency	1	_	_	pos1=RB|head_tok=start|head_pos=VVD|head_id=393|parent_pos=_|sid=19|stype=decl|len=11|head_func=root	54	elaboration-additional_r	_	_
+60	so you can actually pay for something .	0	_	_	pos1=IN|head_tok=pay|head_pos=VV|head_id=406|parent_posVVD|sid=19|stype=decl|len=8|head_func=advcl|subord=LEFT	59	purpose-goal_r	_	dm-dm-402
+61	Because the gov't theoretically owes its population money ,	0	_	_	pos1=IN|head_tok=owe|head_pos=VVZ|head_id=414|parent_posVVP|sid=20|stype=decl|len=9|head_func=advcl|subord=RIGHT|para=para	62	causal-cause_r	_	dm-dm-410
+62	they issue paper as a certificate of this .	3	_	_	pos1=PP|head_tok=issue|head_pos=VVP|head_id=420|parent_pos=_|sid=20|stype=decl|len=9|head_func=root	7	joint-other_m	_	_
+63	You might not have physically went to the bank	1	_	_	pos1=PP|head_tok=go|head_pos=VVN|head_id=433|parent_pos=_|sid=21|stype=sub|len=9|head_func=root	65	adversative-concession_r	_	dm-dm-444
+64	and traded something in return for paper	0	_	_	pos1=CC|head_tok=trade|head_pos=VVN|head_id=438|parent_posVVN|sid=21|stype=sub|len=7|head_func=conj|subord=LEFT	63	joint-sequence_m	_	dm-dm-437
+65	but you did something	1	_	_	pos1=CC|head_tok=do|head_pos=VVD|head_id=446|parent_posVVN|sid=21|stype=sub|len=4|head_func=conj|subord=LEFT	62	elaboration-additional_r	_	_
+66	that warranted the earning of that dollar .	0	_	_	pos1=WDT|head_tok=warrant|head_pos=VVD|head_id=449|parent_posNN|sid=21|stype=sub|len=8|head_func=acl:relcl|subord=LEFT	65	elaboration-attribute_r	_	syntactic-relative_clause-448
+67	If you work for a company ,	1	_	_	pos1=IN|head_tok=work|head_pos=VVP|head_id=458|parent_posVVP|sid=22|stype=decl|len=7|head_func=advcl|subord=RIGHT	68	contingency-condition_r	_	dm-dm-456
+68	they pay you that money	2	_	_	pos1=PP|head_tok=pay|head_pos=VVP|head_id=464|parent_pos=_|sid=22|stype=decl|len=5|head_func=root	65	restatement-repetition_m	_	reference-personal-445,465
+69	because it has value	0	_	_	pos1=IN|head_tok=have|head_pos=VHZ|head_id=470|parent_posVVP|sid=22|stype=decl|len=4|head_func=advcl|subord=LEFT	68	causal-cause_r	_	dm-dm-468
+70	and you can buy things with it .	0	_	_	pos1=CC|head_tok=buy|head_pos=VV|head_id=475|parent_posVHZ|sid=22|stype=decl|len=8|head_func=conj|subord=LEFT	69	elaboration-additional_r	_	dm-dm-472
+71	The only reason	3	_	_	pos1=DT|head_tok=reason|head_pos=NN|head_id=482|parent_posVVZ|sid=23|stype=decl|len=3|head_func=nsubj|subord=RIGHT|para=para	65	joint-other_m	_	_
+72	it has value	0	_	_	pos1=PP|head_tok=have|head_pos=VHZ|head_id=484|parent_posNN|sid=23|stype=decl|len=3|head_func=acl|subord=LEFT	71	elaboration-attribute_r	_	syntactic-nominal_modifier-484
+73	is	1	_	_	pos1=VBZ|head_tok=be|head_pos=VBZ|head_id=486|parent_posVVZ|sid=23|stype=decl|len=1|head_func=cop|subord=RIGHT	71	same-unit_m	_	_
+74	because	2	_	_	pos1=IN|head_tok=because|head_pos=IN|head_id=487|parent_posVVZ|sid=23|stype=decl|len=1|head_func=mark|subord=RIGHT	71	causal-cause_r	_	dm-dm-487
+75	the US gov't says	0	_	_	pos1=DT|head_tok=say|head_pos=VVZ|head_id=491|parent_pos=_|sid=23|stype=decl|len=4|head_func=root	76	attribution-positive_r	_	syntactic-reported_speech-491
+76	it does .	0	_	_	pos1=PP|head_tok=do|head_pos=VVZ|head_id=493|parent_posVVZ|sid=23|stype=decl|len=3|head_func=ccomp|subord=LEFT	74	same-unit_m	_	_
+77	You can pay gov't - related fees and bills with the money	3	_	_	pos1=PP|head_tok=pay|head_pos=VV|head_id=497|parent_pos=_|sid=24|stype=multiple|len=12|head_func=root	71	elaboration-additional_r	_	_
+78	they issue	0	_	_	pos1=PP|head_tok=issue|head_pos=VVP|head_id=508|parent_posNN|sid=24|stype=multiple|len=2|head_func=acl:relcl|subord=LEFT	77	elaboration-attribute_r	_	_
+79	and	1	_	_	pos1=CC|head_tok=and|head_pos=CC|head_id=509|parent_posVVP|sid=24|stype=multiple|len=1|head_func=cc|subord=RIGHT	77	joint-list_m	_	dm-dm-509
+80	because the gov't is well - secured ,	0	_	_	pos1=IN|head_tok=secure|head_pos=VVN|head_id=516|parent_posVVP|sid=24|stype=multiple|len=8|head_func=advcl|subord=RIGHT	81	causal-cause_r	_	dm-dm-510
+81	people accept it .	0	_	_	pos1=NNS|head_tok=accept|head_pos=VVP|head_id=519|parent_posVV|sid=24|stype=multiple|len=4|head_func=conj|subord=LEFT	79	same-unit_m	_	_
+82	If our gov't was unstable ,	3	_	_	pos1=IN|head_tok=unstable|head_pos=JJ|head_id=526|parent_posVV|sid=25|stype=sub|len=6|head_func=advcl|subord=RIGHT	83	contingency-condition_r	_	dm-dm-522
+83	no one would trust the dollars	4	_	_	pos1=DT|head_tok=trust|head_pos=VV|head_id=531|parent_pos=_|sid=25|stype=sub|len=6|head_func=root	71	explanation-justify_r	_	_
+84	they slept under	0	_	_	pos1=PP|head_tok=sleep|head_pos=VVD|head_id=535|parent_posNNS|sid=25|stype=sub|len=3|head_func=acl:relcl|subord=LEFT	83	elaboration-attribute_r	_	_
+85	for warmth	1	_	_	pos1=IN|head_tok=warmth|head_pos=NN|head_id=538|parent_posVVD|sid=25|stype=sub|len=2|head_func=obl|subord=LEFT	83	same-unit_m	_	_
+86	because the gov't could just come out	2	_	_	pos1=IN|head_tok=come|head_pos=VV|head_id=544|parent_posVV|sid=25|stype=sub|len=7|head_func=advcl|subord=LEFT	89	organization-preparation_r	_	_
+87	and say ,	1	_	_	pos1=CC|head_tok=say|head_pos=VV|head_id=547|parent_posVV|sid=25|stype=sub|len=3|head_func=conj|subord=RIGHT	89	attribution-positive_r	86:joint-list:0:0:orphan-orphan-546	_
+88	' Sorry	0	_	_	pos1=``|head_tok=sorry|head_pos=JJ|head_id=550|parent_posVVG|sid=25|stype=sub|len=2|head_func=discourse|subord=RIGHT	89	evaluation-comment_r	_	lexical-indicative_word-550
+89	we 're not paying you guys back ' .	2	_	_	pos1=PP|head_tok=pay|head_pos=VVG|head_id=554|parent_posVV|sid=25|stype=sub|len=9|head_func=ccomp|subord=LEFT	83	causal-cause_r	_	dm-dm-539
+90	Well what would they be paying back ?	0	_	_	pos1=UH|head_tok=pay|head_pos=VVG|head_id=565|parent_pos=_|sid=26|stype=wh|len=8|head_func=root|para=para	92	topic-question_r	_	lexical-indicative_word-561;syntactic-subject_auxiliary_inversion-562;graphical-question_mark-567
+91	To whom are they paying back to ?	0	_	_	pos1=IN|head_tok=pay|head_pos=VVG|head_id=572|parent_pos=_|sid=27|stype=wh|len=8|head_func=root	90	joint-list_m	_	_
+92	It used to be gold .	2	_	_	pos1=PP|head_tok=use|head_pos=VVD|head_id=577|parent_pos=_|sid=28|stype=decl|len=6|head_func=root|para=para	93	adversative-concession_r	_	dm-dm-582
+93	But	1	_	_	pos1=CC|head_tok=but|head_pos=CC|head_id=582|parent_posVVD|sid=29|stype=decl|len=1|head_func=cc|subord=RIGHT	98	adversative-antithesis_r	_	_
+94	as we grew as a planet ,	1	_	_	pos1=IN|head_tok=grow|head_pos=VVD|head_id=585|parent_posVVD|sid=29|stype=decl|len=7|head_func=advcl|subord=RIGHT	95	context-circumstance_r	_	dm-dm-583
+95	we ran out of gold	0	_	_	pos1=PP|head_tok=run|head_pos=VVD|head_id=591|parent_pos=_|sid=29|stype=decl|len=5|head_func=root	93	same-unit_m	_	_
+96	to back every dollar with	0	_	_	pos1=TO|head_tok=back|head_pos=VV|head_id=596|parent_posNN|sid=29|stype=decl|len=5|head_func=acl|subord=LEFT	95	purpose-attribute_r	_	syntactic-infinitival_clause-595
+97	and it just became a nightmare to handle .	1	_	_	pos1=CC|head_tok=become|head_pos=VVD|head_id=603|parent_posVVD|sid=29|stype=decl|len=9|head_func=conj|subord=LEFT	93	evaluation-comment_r	93:causal-result:0:1:orphan-orphan-600	_
+98	Enter , fiat currency , a piece of paper	3	_	_	pos1=VV|head_tok=enter|head_pos=VV|head_id=609|parent_pos=_|sid=30|stype=other|len=9|head_func=root	122	context-background_r	_	_
+99	that means nothing	0	_	_	pos1=WDT|head_tok=mean|head_pos=VVZ|head_id=619|parent_posNN|sid=30|stype=other|len=3|head_func=acl:relcl|subord=LEFT	98	elaboration-attribute_r	_	syntactic-relative_clause-618
+100	except what	0	_	_	pos1=IN|head_tok=what|head_pos=WP|head_id=622|parent_posNN|sid=30|stype=other|len=2|head_func=nmod|subord=LEFT	99	adversative-antithesis_r	_	dm-dm-621
+101	the gov't says	0	_	_	pos1=DT|head_tok=say|head_pos=VVZ|head_id=625|parent_posWP|sid=30|stype=other|len=3|head_func=acl:relcl|subord=LEFT	102	attribution-positive_r	_	syntactic-reported_speech-625
+102	it means .	0	_	_	pos1=PP|head_tok=mean|head_pos=VVZ|head_id=627|parent_posVVZ|sid=30|stype=other|len=3|head_func=ccomp|subord=LEFT	100	same-unit_m	_	_
+103	People used to go to banks with gold and receive ' money ' for it .	0	_	_	pos1=NNS|head_tok=use|head_pos=VVD|head_id=630|parent_pos=_|sid=31|stype=decl|len=16|head_func=root|para=para	110	causal-cause_r	_	_
+104	The banks would literally hold their gold	0	_	_	pos1=DT|head_tok=hold|head_pos=VV|head_id=649|parent_pos=_|sid=32|stype=decl|len=7|head_func=root	103	elaboration-additional_r	_	reference-personal-629,650
+105	and give them an certificate	0	_	_	pos1=CC|head_tok=give|head_pos=VV|head_id=653|parent_posVV|sid=32|stype=decl|len=5|head_func=conj|subord=LEFT	104	joint-list_m	_	dm-dm-652
+106	that says	0	_	_	pos1=WDT|head_tok=say|head_pos=VVZ|head_id=658|parent_posNN|sid=32|stype=decl|len=2|head_func=acl:relcl|subord=LEFT	107	attribution-positive_r	_	syntactic-reported_speech-658
+107	they own a claim of gold in their vaults .	0	_	_	pos1=PP|head_tok=own|head_pos=VVP|head_id=660|parent_posVVZ|sid=32|stype=decl|len=10|head_func=ccomp|subord=LEFT	105	elaboration-additional_r	_	reference-personal-654,659
+108	If ANYONE brought that certificate to the bank ,	0	_	_	pos1=IN|head_tok=bring|head_pos=VVD|head_id=671|parent_posVV|sid=33|stype=sub|len=9|head_func=advcl|subord=RIGHT	109	contingency-condition_r	_	dm-dm-669
+109	they could expect to receive gold for it .	1	_	_	pos1=PP|head_tok=expect|head_pos=VV|head_id=680|parent_pos=_|sid=33|stype=sub|len=9|head_func=root	103	joint-list_m	_	_
+110	That 's what gave it value .	2	_	_	pos1=DT|head_tok=what|head_pos=WP|head_id=689|parent_pos=_|sid=34|stype=decl|len=7|head_func=root	119	causal-result_r	126:causal-cause:8:0:orphan-orphan-786	dm-dm-748
+111	You could say	0	_	_	pos1=PP|head_tok=say|head_pos=VV|head_id=696|parent_pos=_|sid=35|stype=sub|len=3|head_func=root|para=para	112	attribution-positive_r	_	syntactic-reported_speech-696
+112	you want that farmer 's potatoes	1	_	_	pos1=PP|head_tok=want|head_pos=VVP|head_id=698|parent_posVV|sid=35|stype=sub|len=6|head_func=ccomp|subord=LEFT	113	context-circumstance_r	112:joint-sequence:3:2:orphan-orphan-703	_
+113	and he can go get $ 1 of gold from the bankers at his convenience	1	_	_	pos1=CC|head_tok=go|head_pos=VV|head_id=706|parent_posVVP|sid=35|stype=sub|len=15|head_func=conj|subord=LEFT	110	explanation-evidence_r	_	_
+114	or he could hold onto it	0	_	_	pos1=CC|head_tok=hold|head_pos=VV|head_id=721|parent_posVV|sid=35|stype=sub|len=6|head_func=conj|subord=LEFT	113	joint-disjunction_m	_	dm-dm-718
+115	and use it	0	_	_	pos1=CC|head_tok=use|head_pos=VV|head_id=725|parent_posVV|sid=35|stype=sub|len=3|head_func=conj|subord=LEFT	114	joint-sequence_m	_	dm-dm-724
+116	just like the person did before him --	0	_	_	pos1=RB|head_tok=do|head_pos=VVD|head_id=731|parent_posVV|sid=35|stype=sub|len=8|head_func=advcl|subord=RIGHT	115	mode-manner_r	_	dm-dm-728
+117	' trade ' it for something else like new shoes .	0	_	_	pos1=``|head_tok=trade|head_pos=VV|head_id=736|parent_posVV|sid=35|stype=sub|len=11|head_func=parataxis|subord=LEFT	116	restatement-repetition_m	_	_
+118	Why ?	1	_	_	pos1=WRB|head_tok=why|head_pos=WRB|head_id=746|parent_pos=_|sid=36|stype=wh|len=2|head_func=root	119	topic-question_r	_	lexical-indicative_word-746;graphical-question_mark-747
+119	Because everyone liked gold	1	_	_	pos1=IN|head_tok=like|head_pos=VVD|head_id=750|parent_pos=_|sid=37|stype=decl|len=4|head_func=root	122	context-background_r	_	_
+120	and everyone believed	0	_	_	pos1=CC|head_tok=believe|head_pos=VVD|head_id=754|parent_posVVD|sid=37|stype=decl|len=3|head_func=conj|subord=LEFT	121	attribution-positive_r	_	_
+121	gold had value .	0	_	_	pos1=NN|head_tok=have|head_pos=VHD|head_id=756|parent_posVVD|sid=37|stype=decl|len=4|head_func=ccomp|subord=LEFT	119	joint-list_m	_	dm-dm-752
+122	Eventually , this took off	3	_	_	pos1=RB|head_tok=take|head_pos=VVD|head_id=762|parent_pos=_|sid=38|stype=decl|len=5|head_func=root|para=para	7	joint-other_m	_	_
+123	and people stopped trading for things	0	_	_	pos1=CC|head_tok=stop|head_pos=VVD|head_id=766|parent_posVVD|sid=38|stype=decl|len=6|head_func=conj|subord=LEFT	122	joint-sequence_m	_	dm-dm-764
+124	and we developed currency with quantitative values	0	_	_	pos1=CC|head_tok=develop|head_pos=VVD|head_id=772|parent_posVVD|sid=38|stype=decl|len=7|head_func=conj|subord=LEFT	122	joint-sequence_m	_	dm-dm-770
+125	that allowed for easy exchanges to take place .	0	_	_	pos1=WDT|head_tok=allow|head_pos=VVD|head_id=778|parent_posNNS|sid=38|stype=decl|len=9|head_func=acl:relcl|subord=LEFT	124	elaboration-attribute_r	_	syntactic-relative_clause-777
+126	So you might think ,	3	_	_	pos1=RB|head_tok=think|head_pos=VV|head_id=789|parent_pos=_|sid=39|stype=sub|len=5|head_func=root|subord=RIGHT|para=para	128	attribution-positive_r	_	_
+127	' Well , now that there is n't gold behind my dollar ,	1	_	_	pos1=''|head_tok=be|head_pos=VBZ|head_id=797|parent_posJJ|sid=39|stype=sub|len=13|head_func=advcl|subord=RIGHT	128	context-circumstance_r	_	dm-dm-794,795
+128	how is it worth anything	1	_	_	pos1=WRB|head_tok=worth|head_pos=JJ|head_id=807|parent_posVV|sid=39|stype=sub|len=5|head_func=ccomp|subord=LEFT	132	topic-question_r	_	_
+129	even if the gov't say	0	_	_	pos1=RB|head_tok=say|head_pos=VVP|head_id=813|parent_posJJ|sid=39|stype=sub|len=5|head_func=advcl|subord=LEFT	130	attribution-positive_r	_	_
+130	it is ?	0	_	_	pos1=PP|head_tok=be|head_pos=VBZ|head_id=815|parent_posVVP|sid=39|stype=sub|len=3|head_func=ccomp|subord=LEFT	128	adversative-concession_r	_	dm-dm-809,810
+131	They wo n't give me anything in return for it " .	2	_	_	pos1=PP|head_tok=give|head_pos=VV|head_id=820|parent_posJJ|sid=39|stype=sub|len=12|head_func=parataxis|subord=LEFT	128	explanation-justify_r	_	_
+132	The same thing applies to gold .	2	_	_	pos1=DT|head_tok=apply|head_pos=VVZ|head_id=832|parent_pos=_|sid=40|stype=decl|len=7|head_func=root|para=para	122	joint-other_m	_	_
+133	No one wants gold	0	_	_	pos1=DT|head_tok=want|head_pos=VVZ|head_id=838|parent_pos=_|sid=41|stype=decl|len=4|head_func=root	132	elaboration-additional_r	_	_
+134	unless other people want gold .	0	_	_	pos1=IN|head_tok=want|head_pos=VVP|head_id=843|parent_posVVZ|sid=41|stype=decl|len=6|head_func=advcl|subord=LEFT	133	contingency-condition_r	_	dm-dm-840
+135	If you ca n't reasonably trade your gold for something else ,	0	_	_	pos1=IN|head_tok=trade|head_pos=VV|head_id=851|parent_posVH|sid=42|stype=wh|len=12|head_func=advcl|subord=RIGHT	136	contingency-condition_r	_	dm-dm-846,858;dm-dm-846
+136	then what value does it have ?	1	_	_	pos1=RB|head_tok=have|head_pos=VH|head_id=863|parent_pos=_|sid=42|stype=wh|len=7|head_func=root	133	explanation-justify_r	_	_
+137	( Someone did point out	2	_	_	pos1=(|head_tok=point|head_pos=VV|head_id=868|parent_pos=_|sid=43|stype=decl|len=5|head_func=root	138	attribution-positive_r	_	syntactic-reported_speech-868
+138	you can shave gold flakes into your water	2	_	_	pos1=PP|head_tok=shave|head_pos=VV|head_id=872|parent_posVV|sid=43|stype=decl|len=8|head_func=ccomp|subord=LEFT	133	adversative-concession_r	_	_
+139	and drink it ,	0	_	_	pos1=CC|head_tok=drink|head_pos=VV|head_id=879|parent_posVV|sid=43|stype=decl|len=4|head_func=conj|subord=RIGHT	138	joint-sequence_m	_	dm-dm-878
+140	like some companies have chosen to do ,	1	_	_	pos1=IN|head_tok=choose|head_pos=VVN|head_id=886|parent_posVV|sid=43|stype=decl|len=8|head_func=advcl|subord=RIGHT	138	mode-manner_r	_	dm-dm-882
+141	but that 's on you )	3	_	_	pos1=CC|head_tok=be|head_pos=VBZ|head_id=892|parent_posVV|sid=43|stype=decl|len=6|head_func=conj|subord=LEFT	138	adversative-concession_r	_	dm-dm-890
+142	As long as people continue to value dollars ,	0	_	_	pos1=RB|head_tok=long|head_pos=RB|head_id=897|parent_posVV|sid=44|stype=decl|len=9|head_func=advmod|subord=RIGHT|para=para	143	contingency-condition_r	_	dm-dm-896,897,898
+143	it does n't matter what it 's worth , sans some certain supply and demand laws .	3	_	_	pos1=PP|head_tok=matter|head_pos=VV|head_id=908|parent_pos=_|sid=44|stype=decl|len=17|head_func=root	133	joint-other_m	_	_
+144	So gold is no different in that regard .	4	_	_	pos1=RB|head_tok=different|head_pos=JJ|head_id=926|parent_pos=_|sid=45|stype=decl|len=9|head_func=root	133	evaluation-comment_r	133:causal-result:0:4:orphan-orphan-922	_
+145	The ONE difference between paper currency and gold is that $ 100,000 in cash weighs a lot less than $ 100,000 in gold	5	_	_	pos1=DT|head_tok=weigh|head_pos=VVZ|head_id=945|parent_pos=_|sid=46|stype=decl|len=23|head_func=root	133	joint-other_m	_	_
+146	and is a lot easier to hide too .	0	_	_	pos1=CC|head_tok=easy|head_pos=JJR|head_id=958|parent_posVVZ|sid=46|stype=decl|len=9|head_func=conj|subord=LEFT	145	joint-list_m	_	dm-dm-954
+147	EDIT :	3	_	_	pos1=NN|head_tok=edit|head_pos=NN|head_id=963|parent_pos=_|sid=47|stype=frag|len=2|head_func=root|para=para	148	organization-preparation_r	_	graphical-colon-964
+148	I made some slight revisions	2	_	_	pos1=PP|head_tok=make|head_pos=VVD|head_id=966|parent_pos=_|sid=48|stype=decl|len=5|head_func=root	6	elaboration-additional_r	_	_
+149	to correct errors	0	_	_	pos1=TO|head_tok=correct|head_pos=VV|head_id=971|parent_posVVD|sid=48|stype=decl|len=3|head_func=advcl|subord=LEFT	148	purpose-goal_r	_	syntactic-infinitival_clause-970
+150	and to try and relate things better to the main topic at hand .	0	_	_	pos1=CC|head_tok=try|head_pos=VV|head_id=975|parent_posVV|sid=48|stype=decl|len=14|head_func=conj|subord=LEFT	149	joint-list_m	_	dm-dm-973
+151	Sorry , I kinda started rambling .	1	_	_	pos1=JJ|head_tok=start|head_pos=VVD|head_id=991|parent_pos=_|sid=49|stype=other|len=7|head_func=root	148	adversative-concession_r	_	_
+152	I have also posted below in response to u/penny_eater	2	_	_	pos1=PP|head_tok=post|head_pos=VVN|head_id=997|parent_pos=_|sid=50|stype=decl|len=9|head_func=root	148	joint-list_m	_	dm-dm-996
+153	to correct my errors	0	_	_	pos1=TO|head_tok=correct|head_pos=VV|head_id=1004|parent_posVVN|sid=50|stype=decl|len=4|head_func=advcl|subord=LEFT	152	purpose-goal_r	_	syntactic-infinitival_clause-1003
+154	and explain them in a little bit further detail	0	_	_	pos1=CC|head_tok=explain|head_pos=VV|head_id=1008|parent_posVV|sid=50|stype=decl|len=9|head_func=conj|subord=LEFT	153	joint-list_m	_	dm-dm-1007
+155	but it kinda strays away from ELI5 territory .	1	_	_	pos1=CC|head_tok=stray|head_pos=VVZ|head_id=1019|parent_posVVN|sid=50|stype=decl|len=9|head_func=conj|subord=LEFT	152	adversative-concession_r	_	dm-dm-1016
+156	This kinda seems all over the place	1	_	_	pos1=DT|head_tok=seem|head_pos=VVZ|head_id=1027|parent_pos=_|sid=51|stype=decl|len=7|head_func=root|para=para	157	adversative-concession_r	_	dm-dm-1032
+157	but it should be good starter information for someone	2	_	_	pos1=CC|head_tok=information|head_pos=NN|head_id=1038|parent_posVVZ|sid=51|stype=decl|len=9|head_func=conj|subord=LEFT	159	organization-preparation_r	_	_
+158	trying to understand debt markets and macroeconomics , in general .	0	_	_	pos1=VVG|head_tok=try|head_pos=VVG|head_id=1041|parent_posNN|sid=51|stype=decl|len=11|head_func=acl|subord=LEFT	157	elaboration-attribute_r	_	syntactic-nominal_modifier-1041
+159	Monetary supply and debt are pretty hand - in - hand ,	3	_	_	pos1=JJ|head_tok=hand|head_pos=NN|head_id=1058|parent_pos=_|sid=52|stype=decl|len=12|head_func=root|subord=RIGHT	6	evaluation-comment_r	_	_
+160	even if they 're not exactly the same thing .	0	_	_	pos1=RB|head_tok=thing|head_pos=NN|head_id=1072|parent_posNN|sid=52|stype=decl|len=10|head_func=advcl|subord=LEFT	159	adversative-concession_r	_	dm-dm-1064,1065
+161	Larger and more complex economies warranted the development of fiat currency	1	_	_	pos1=JJR|head_tok=warrant|head_pos=VVD|head_id=1079|parent_pos=_|sid=53|stype=decl|len=11|head_func=root|para=para	159	joint-other_m	_	_
+162	which ultimately changed the role of currency , in general .	0	_	_	pos1=WDT|head_tok=change|head_pos=VVD|head_id=1087|parent_posNN|sid=53|stype=decl|len=11|head_func=acl:relcl|subord=LEFT	161	elaboration-attribute_r	161:joint-sequence:0:0:orphan-orphan-1086	_
+163	It no longer represents a claim , per se ,	1	_	_	pos1=PP|head_tok=represent|head_pos=VVZ|head_id=1099|parent_pos=_|sid=54|stype=decl|len=10|head_func=root|subord=RIGHT	161	elaboration-additional_r	_	_
+164	but it represents value	0	_	_	pos1=CC|head_tok=represent|head_pos=VVZ|head_id=1108|parent_posVVZ|sid=54|stype=decl|len=4|head_func=conj|subord=LEFT	163	adversative-contrast_m	_	dm-dm-1106
+165	because	0	_	_	pos1=IN|head_tok=because|head_pos=IN|head_id=1110|parent_posVVZ|sid=54|stype=decl|len=1|head_func=mark|subord=RIGHT	164	causal-cause_r	_	dm-dm-1110
+166	the gov't says	0	_	_	pos1=DT|head_tok=say|head_pos=VVZ|head_id=1113|parent_posVVZ|sid=54|stype=decl|len=3|head_func=advcl|subord=LEFT	167	attribution-positive_r	_	syntactic-reported_speech-1113
+167	it has value	0	_	_	pos1=PP|head_tok=have|head_pos=VHZ|head_id=1115|parent_posVVZ|sid=54|stype=decl|len=3|head_func=ccomp|subord=LEFT	165	same-unit_m	_	_
+168	and will accept it for gov't related transactions and business with foreign entities .	1	_	_	pos1=CC|head_tok=accept|head_pos=VV|head_id=1119|parent_posVVZ|sid=54|stype=decl|len=14|head_func=conj|subord=LEFT	167	joint-list_m	_	dm-dm-1117
+169	Also , do n't get me started on the petrodollar .	1	_	_	pos1=RB|head_tok=get|head_pos=VV|head_id=1135|parent_pos=_|sid=55|stype=imp|len=11|head_func=root|para=para	159	joint-other_m	_	dm-dm-1131

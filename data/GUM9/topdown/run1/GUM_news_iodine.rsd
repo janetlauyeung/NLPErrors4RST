@@ -1,0 +1,125 @@
+1	Australian children suffering from iodine deficiency	4	_	_	_	29	organization_r	_	_
+2	Thursday , February 23 , 2006	3	_	_	_	29	context_r	_	_
+3	Almost half of all Australian primary school children are mild to moderately iodine deficient ,	1	_	_	_	29	explanation_r	_	_
+4	researchers say .	0	_	_	_	3	attribution_r	_	_
+5	A new study	1	_	_	_	8	attribution_r	_	_
+6	documenting iodine nutritional status in Australian school children	0	_	_	_	5	elaboration_r	_	_
+7	has revealed	1	_	_	_	5	same-unit_m	_	_
+8	many are not getting enough iodine	1	_	_	_	3	elaboration_r	_	_
+9	- which can lead to mental and growth retardation .	0	_	_	_	8	elaboration_r	_	_
+10	The report 's authors say	0	_	_	_	11	attribution_r	_	_
+11	iodine deficiency is " the sleeper health issue in Australia " , and potentially a very serious one .	2	_	_	_	8	elaboration_r	_	_
+12	The results of the Australian National Iodine Nutrition Study	1	_	_	_	11	elaboration_r	_	_
+13	published in the Medical Journal of Australia this week ,	0	_	_	_	12	elaboration_r	_	_
+14	revealed	0	_	_	_	15	attribution_r	_	_
+15	that children in mainland Australia are borderline iodine deficient .	1	_	_	_	12	same-unit_m	_	_
+16	The report has prompted calls for all edible salt to be iodised .	2	_	_	_	12	elaboration_r	_	_
+17	They say	1	_	_	_	18	attribution_r	_	_
+18	adding the mineral to salt is the simplest and most effective method	0	_	_	_	16	elaboration_r	_	_
+19	of preventing iodine deficiency disorders .	0	_	_	_	18	elaboration_r	_	_
+20	A cross-sectional survey of 1709 schoolchildren	2	_	_	_	18	elaboration_r	_	_
+21	- aged 8 – 10 years , from 88 schools -	0	_	_	_	20	elaboration_r	_	_
+22	was carried out in New South Wales , Victoria , South Australia , Western Australia and Queensland , between July 2003 and December 2004 .	1	_	_	_	20	same-unit_m	_	_
+23	Tasmania was excluded from the study	2	_	_	_	20	elaboration_r	_	_
+24	- where an voluntary iodine fortification program	0	_	_	_	23	context_r	_	_
+25	using iodised salt in bread ,	0	_	_	_	24	elaboration_r	_	_
+26	is ongoing .	1	_	_	_	24	same-unit_m	_	_
+27	The authors say	0	_	_	_	28	attribution_r	_	_
+28	the results confirm the existence of inadequate iodine intake in the Australian population .	0	_	_	_	29	explanation_r	_	_
+29	They call for " urgent implementation of mandatory iodisation of all edible salt in Australia . "	0	_	_	_	0	ROOT	_	_
+30	Most iodine in food comes from seafood , milk and iodised salt .	2	_	_	_	32	context_r	_	_
+31	Professor Cres Eastman , Director of the National Iodine Nutrition study , and Chairman of the Australian Centre for Control of Iodine Deficiency Disorders , says	0	_	_	_	32	attribution_r	_	_
+32	it is crucial that children and pregnant women in particular have an adequate intake of iodine .	2	_	_	_	29	elaboration_r	_	_
+33	Iodine deficiency can lead to serious health problems	1	_	_	_	32	explanation_r	_	_
+34	including brain damage , stunted growth and deafness .	0	_	_	_	33	elaboration_r	_	_
+35	Professor Eastman says	1	_	_	_	36	attribution_r	_	_
+36	manufacturers could easily remedy the situation	3	_	_	_	32	elaboration_r	_	_
+37	by using iodised salt in their products in line with the United States and most European countries .	0	_	_	_	36	mode_r	_	_
+38	" I suspect	0	_	_	_	39	attribution_r	_	_
+39	they wo n't do that on a voluntary basis ,	3	_	_	_	43	adversative_r_r	_	_
+40	we 've tried so far	1	_	_	_	43	causal_r	_	_
+41	and have n't succeeded ,	0	_	_	_	40	joint_m	_	_
+42	so we 've convinced the Food Standards of Australia and New Zealand |	0	_	_	_	43	attribution_r	_	_
+43	that all salt should be iodised , "	2	_	_	_	36	adversative_m	_	_
+44	he said .	2	_	_	_	43	attribution_r	_	_
+45	The report says	2	_	_	_	46	attribution_r	_	_
+46	the decline in iodine intake appears to be due to changes in the dairy industry ,	4	_	_	_	32	joint_m	_	_
+47	where chlorine - containing sanitisers have replaced iodine - containing sanitisers .	0	_	_	_	46	elaboration_r	_	_
+48	Iodine	1	_	_	_	46	elaboration_r	_	_
+49	released from these chemicals into milk	0	_	_	_	48	elaboration_r	_	_
+50	has been the major source of dietary iodine in Australia for at least four decades ,	1	_	_	_	48	same-unit_m	_	_
+51	but is now declining .	2	_	_	_	48	adversative_m	_	_
+52	Another contributory factor has been the decreasing consumption of iodised salt	3	_	_	_	46	joint_m	_	_
+53	used in foods .	0	_	_	_	52	elaboration_r	_	_
+54	The report states	0	_	_	_	55	attribution_r	_	_
+55	that few if any food manufacturers use iodised salt in the preparation and manufacture of foods .	1	_	_	_	52	elaboration_r	_	_
+56	Professor Eastman says	1	_	_	_	57	attribution_r	_	_
+57	iodine is added to only 10 per cent of Australian salt in contravention of a World Health Organisation recommendation	4	_	_	_	46	elaboration_r	_	_
+58	that all salt be iodised .	0	_	_	_	57	elaboration_r	_	_
+59	He says	0	_	_	_	60	attribution_r	_	_
+60	authorities are reacting slowly to his urgent calls for mandatory iodised salt .	5	_	_	_	46	joint_m	_	_
+61	" The effects of iodine deficiency are dependent upon how severe it is and when it occurs .	1	_	_	_	60	explanation_r	_	_
+62	So	0	_	_	_	61	elaboration_r	_	_
+63	if we go to the pregnant woman ,	1	_	_	_	64	contingency_r	_	_
+64	she does n't get enough iodine ,	0	_	_	_	68	contingency_r	_	_
+65	she wo n't make enough thyroid hormone ,	0	_	_	_	64	joint_m	_	_
+66	and the foetus wo n't get the amount of thyroid hormone	0	_	_	_	65	joint_m	_	_
+67	it needs for adequate and proper development of the brain ,	0	_	_	_	66	elaboration_r	_	_
+68	so you 'll then see consequences being loss of IQ , learning difficulties , hearing difficulties and other neurological problems , "	0	_	_	_	62	same-unit_m	_	_
+69	Professor Eastman said .	1	_	_	_	68	attribution_r	_	_
+70	" If an infant 's not getting enough iodine ...	2	_	_	_	71	contingency_r	_	_
+71	brain development wo n't be completed	1	_	_	_	62	joint_m	_	_
+72	and they wo n't grow normally ,	0	_	_	_	71	joint_m	_	_
+73	and as you get older	0	_	_	_	74	context_r	_	_
+74	the problem will be that you will develop a goiter	1	_	_	_	71	joint_m	_	_
+75	and your thyroid wo n't function as well	1	_	_	_	74	joint_m	_	_
+76	as it should ,	0	_	_	_	75	mode_r	_	_
+77	so that may have all sorts of pernicious effects upon normal function in life . "	3	_	_	_	71	causal_r	_	_
+78	More than two billion people around the world live in areas prone to iodine deficiency ,	2	_	_	_	60	joint_m	_	_
+79	and yet the problem is easily fixed .	0	_	_	_	78	adversative_m	_	_
+80	The World Health Organisation	0	_	_	_	83	attribution_r	_	_
+81	( WHO )	0	_	_	_	80	restatement_r_r	_	_
+82	recommends	1	_	_	_	80	same-unit_m	_	_
+83	that every country should iodise all edible salt .	1	_	_	_	78	explanation_r	_	_
+84	The most well known effects of IDD are visible goiter and cretinism , a condition	1	_	_	_	83	elaboration_r	_	_
+85	characterised by severe brain damage	0	_	_	_	84	elaboration_r	_	_
+86	occurring in very early life .	0	_	_	_	85	elaboration_r	_	_
+87	WHO say	0	_	_	_	88	attribution_r	_	_
+88	Iodine deficiency is the world ’s most prevalent , yet easily preventable , cause of brain damage .	2	_	_	_	78	elaboration_r	_	_
+89	Professor Eastman said	0	_	_	_	90	attribution_r	_	_
+90	he is alarmed by what they found .	6	_	_	_	46	joint_m	_	_
+91	" Pregnant women in Australia are getting about half as much	1	_	_	_	90	explanation_r	_	_
+92	as what they require on a daily basis .	0	_	_	_	91	mode_r	_	_
+93	So that alarms me ,	1	_	_	_	91	evaluation_r	_	_
+94	because there 's quite serious potential for adverse effects and brain damage in the next generation of children	0	_	_	_	93	explanation_r	_	_
+95	born in this country , "	0	_	_	_	94	elaboration_r	_	_
+96	he said .	1	_	_	_	94	attribution_r	_	_
+97	" If Iodine deficiency is serious	0	_	_	_	98	contingency_r	_	_
+98	you lose 15 IQ points , on average .	1	_	_	_	99	explanation_r	_	_
+99	There should n't be anyone	2	_	_	_	90	joint_m	_	_
+100	suffering from iodine deficiency in a developed country like Australia . "	0	_	_	_	99	elaboration_r	_	_
+101	Lydia Buchtmann for Food Standards Australia New Zealand , says	0	_	_	_	102	attribution_r	_	_
+102	they are looking at mandatory guidelines on iodine by the end of the year .	3	_	_	_	90	joint_m	_	_
+103	She says	1	_	_	_	104	attribution_r	_	_
+104	the issue is complicated	1	_	_	_	102	joint_m	_	_
+105	and will take time to get right .	0	_	_	_	104	joint_m	_	_
+106	We need to " make sure there 's sufficient iodine	2	_	_	_	104	explanation_r	_	_
+107	added into the food supply ,	0	_	_	_	106	elaboration_r	_	_
+108	to help those people with a deficiency .	1	_	_	_	106	purpose_r	_	_
+109	But at the other end of the scale we 've got to make sure the people	2	_	_	_	106	joint_m	_	_
+110	who eat a lot of food	0	_	_	_	109	elaboration_r	_	_
+111	- we all know the teenage boy	1	_	_	_	109	elaboration_r	_	_
+112	who comes home from school	0	_	_	_	111	elaboration_r	_	_
+113	and eats a whole loaf of bread -	0	_	_	_	112	joint_m	_	_
+114	that those people do n't get too much	2	_	_	_	109	same-unit_m	_	_
+115	and get overdose , "	0	_	_	_	114	joint_m	_	_
+116	Ms Bauchtman said .	3	_	_	_	109	attribution_r	_	_
+117	" One of the reasons	3	_	_	_	106	joint_m	_	_
+118	that iodine is going down	0	_	_	_	117	elaboration_r	_	_
+119	is because people are taking that good healthy eating message	1	_	_	_	117	same-unit_m	_	_
+120	and not adding salt during cooking . "	0	_	_	_	119	joint_m	_	_
+121	Senior researcher Mu Li , of the University of NSW 's school of public health , said	1	_	_	_	122	attribution_r	_	_
+122	" it is reasonable to assume that pregnant women and breastfeeding mothers are also iodine deficient ,	4	_	_	_	106	joint_m	_	_
+123	putting the next generation of children	0	_	_	_	122	causal_r	_	_
+124	born in this country	0	_	_	_	123	elaboration_r	_	_
+125	at risk of the neuropsychological consequences of iodine deficiency . "	1	_	_	_	123	same-unit_m	_	_

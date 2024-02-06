@@ -1,0 +1,104 @@
+1	Senator Hatfield , Mr. Chief Justice , Mr. President , Vice President Bush , Vice President Mondale , Senator Baker , Speaker O'Neill , Reverend Moomaw , and my fellow citizens :	5	_	_	_	3	organization_r	_	_
+2	To a few of us here today this is a solemn and most momentous occasion ,	0	_	_	_	3	adversative_r_r	_	_
+3	and yet in the history of our nation it is a commonplace occurrence .	0	_	_	_	0	ROOT	_	_
+4	The orderly transfer of authority	1	_	_	_	9	context_r	_	_
+5	as called for in the Constitution	0	_	_	_	4	elaboration_r	_	_
+6	routinely takes place ,	1	_	_	_	4	same-unit_m	_	_
+7	as it has for almost two centuries ,	0	_	_	_	6	mode_r	_	_
+8	and few of us stop to think	0	_	_	_	9	attribution_r	_	_
+9	how unique we really are .	1	_	_	_	3	explanation_r	_	_
+10	In the eyes of many in the world , this every 4 - year ceremony	2	_	_	_	3	evaluation_r	_	_
+11	we accept as normal	0	_	_	_	10	elaboration_r	_	_
+12	is nothing less than a miracle .	1	_	_	_	10	same-unit_m	_	_
+13	Mr. President , I want our fellow citizens to know how much you did	3	_	_	_	3	joint_m	_	_
+14	to carry on this tradition .	0	_	_	_	13	purpose_r	_	_
+15	By your gracious cooperation in the transition process , you have shown a watching world	1	_	_	_	16	attribution_r	_	_
+16	that we are a united people	1	_	_	_	13	explanation_r	_	_
+17	pledged to maintaining a political system	0	_	_	_	16	elaboration_r	_	_
+18	which guarantees individual liberty to a greater degree than any other ,	0	_	_	_	17	elaboration_r	_	_
+19	and I thank you and your people for all your help	2	_	_	_	16	joint_m	_	_
+20	in maintaining the continuity	0	_	_	_	19	purpose_r	_	_
+21	which is the bulwark of our Republic .	0	_	_	_	20	elaboration_r	_	_
+22	The business of our nation goes forward .	4	_	_	_	23	organization_r	_	_
+23	These United States are confronted with an economic affliction of great proportions .	4	_	_	_	3	joint_m	_	_
+24	We suffer from the longest and one of the worst sustained inflations in our national history .	0	_	_	_	23	elaboration_r	_	_
+25	It distorts our economic decisions ,	0	_	_	_	24	elaboration_r	_	_
+26	penalizes thrift ,	0	_	_	_	25	joint_m	_	_
+27	and crushes the struggling young and the fixed - income elderly alike .	0	_	_	_	26	joint_m	_	_
+28	It threatens to shatter the lives of millions of our people .	1	_	_	_	26	joint_m	_	_
+29	Idle industries have cast workers into unemployment , human misery , and personal indignity .	1	_	_	_	25	joint_m	_	_
+30	Those	0	_	_	_	29	joint_m	_	_
+31	who do work	0	_	_	_	30	elaboration_r	_	_
+32	are denied a fair return for their labor by a tax system	1	_	_	_	30	same-unit_m	_	_
+33	which penalizes successful achievement	2	_	_	_	30	elaboration_r	_	_
+34	and keeps us from maintaining full productivity .	0	_	_	_	33	joint_m	_	_
+35	But	1	_	_	_	44	causal_r	_	_
+36	great as our tax burden is ,	0	_	_	_	37	adversative_r_r	_	_
+37	it has not kept pace with public spending .	0	_	_	_	35	same-unit_m	_	_
+38	For decades we have piled deficit upon deficit ,	1	_	_	_	35	explanation_r	_	_
+39	mortgaging our future and our children 's future for the temporary convenience of the present .	0	_	_	_	38	causal_r	_	_
+40	To continue this long trend is to guarantee tremendous social , cultural , political , and economic upheavals .	1	_	_	_	38	causal_r	_	_
+41	You and I , as individuals , can ,	0	_	_	_	44	adversative_r_r	_	_
+42	by borrowing ,	0	_	_	_	43	mode_r	_	_
+43	live beyond our means ,	0	_	_	_	41	same-unit_m	_	_
+44	but for only a limited period of time .	1	_	_	_	46	explanation_r	_	_
+45	Why , then , should we think	0	_	_	_	46	attribution_r	_	_
+46	that collectively , as a nation , we 're not bound by that same limitation ?	1	_	_	_	23	joint_m	_	_
+47	We must act today	2	_	_	_	23	joint_m	_	_
+48	in order to preserve tomorrow .	0	_	_	_	47	purpose_r	_	_
+49	And let there be no misunderstanding :	1	_	_	_	50	organization_r	_	_
+50	We are going to begin to act ,	1	_	_	_	47	elaboration_r	_	_
+51	beginning today .	0	_	_	_	50	mode_r	_	_
+52	The economic ills	2	_	_	_	56	context_r	_	_
+53	we suffer	0	_	_	_	52	elaboration_r	_	_
+54	have come upon us over several decades .	1	_	_	_	52	same-unit_m	_	_
+55	They will not go away in days , weeks , or months ,	0	_	_	_	56	adversative_r_r	_	_
+56	but they will go away .	2	_	_	_	47	explanation_r	_	_
+57	They will go away	1	_	_	_	56	joint_m	_	_
+58	because we as Americans have the capacity now ,	0	_	_	_	57	causal_r	_	_
+59	as we 've had in the past ,	0	_	_	_	58	mode_r	_	_
+60	to do whatever needs to be done	1	_	_	_	58	purpose_r	_	_
+61	to preserve this last and greatest bastion of freedom .	0	_	_	_	60	purpose_r	_	_
+62	In this present crisis , government is not the solution to our problem ;	0	_	_	_	63	adversative_r_r	_	_
+63	government is the problem .	3	_	_	_	23	joint_m	_	_
+64	From time to time we 've been tempted to believe	1	_	_	_	65	attribution_r	_	_
+65	that society has become too complex to be managed by self - rule ,	1	_	_	_	67	context_r	_	_
+66	that government by an elite group is superior to government for , by , and of the people .	0	_	_	_	65	joint_m	_	_
+67	Well ,	0	_	_	_	72	explanation_r	_	_
+68	if no one among us is capable	1	_	_	_	70	contingency_r	_	_
+69	of governing himself ,	0	_	_	_	68	elaboration_r	_	_
+70	then who among us has the capacity	0	_	_	_	67	same-unit_m	_	_
+71	to govern someone else ?	0	_	_	_	70	purpose_r	_	_
+72	All of us together , in and out of government , must bear the burden .	1	_	_	_	63	explanation_r	_	_
+73	The solutions	1	_	_	_	72	joint_m	_	_
+74	we seek	0	_	_	_	73	elaboration_r	_	_
+75	must be equitable ,	1	_	_	_	73	same-unit_m	_	_
+76	with no one group singled out	2	_	_	_	73	elaboration_r	_	_
+77	to pay a higher price .	0	_	_	_	76	purpose_r	_	_
+78	We hear much of special interest groups .	3	_	_	_	79	adversative_r_r	_	_
+79	Well , our concern must be for a special interest group	2	_	_	_	72	joint_m	_	_
+80	that has been too long neglected .	0	_	_	_	79	elaboration_r	_	_
+81	It knows no sectional boundaries or ethnic and racial divisions ,	1	_	_	_	79	elaboration_r	_	_
+82	and it crosses political party lines .	0	_	_	_	81	joint_m	_	_
+83	It is made up of men and women	1	_	_	_	92	context_r	_	_
+84	who raise our food ,	0	_	_	_	83	elaboration_r	_	_
+85	patrol our streets ,	0	_	_	_	84	joint_m	_	_
+86	man our mines and factories ,	0	_	_	_	85	joint_m	_	_
+87	teach our children ,	0	_	_	_	86	joint_m	_	_
+88	keep our homes ,	0	_	_	_	87	joint_m	_	_
+89	and heal us	0	_	_	_	88	joint_m	_	_
+90	when we 're sick —	0	_	_	_	89	context_r	_	_
+91	professionals , industrialists , shopkeepers , clerks , cabbies , and truck drivers .	1	_	_	_	85	same-unit_m	_	_
+92	They are , in short , " We the people , "	2	_	_	_	79	elaboration_r	_	_
+93	this breed	0	_	_	_	92	same-unit_m	_	_
+94	called Americans .	0	_	_	_	93	same-unit_m	_	_
+95	Well , this administration 's objective will be a healthy , vigorous , growing economy	4	_	_	_	79	joint_m	_	_
+96	that provides equal opportunities for all Americans , with no barriers	0	_	_	_	95	elaboration_r	_	_
+97	born of bigotry or discrimination .	0	_	_	_	96	elaboration_r	_	_
+98	Putting America back to work means putting all Americans back to work .	1	_	_	_	95	joint_m	_	_
+99	Ending inflation means freeing all Americans from the terror of runaway living costs .	0	_	_	_	98	joint_m	_	_
+100	All must share in the productive work of this " new beginning , "	1	_	_	_	98	joint_m	_	_
+101	and all must share in the bounty of a revived economy .	0	_	_	_	100	joint_m	_	_
+102	With the idealism and fair play	0	_	_	_	104	mode_r	_	_
+103	which are the core of our system and our strength ,	0	_	_	_	102	elaboration_r	_	_
+104	we can have a strong and prosperous America , at peace with itself and the world .	2	_	_	_	95	joint_m	_	_

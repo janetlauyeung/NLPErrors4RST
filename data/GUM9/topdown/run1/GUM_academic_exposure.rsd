@@ -1,0 +1,110 @@
+1	Introduction	4	_	_	_	14	organization_r	_	_
+2	Research on adult - learned second language	3	_	_	_	14	context_r	_	_
+3	( L2 )	0	_	_	_	2	restatement_r_r	_	_
+4	has provided considerable insight into the neurocognitive mechanisms	1	_	_	_	2	same-unit_m	_	_
+5	underlying the learning and processing of L2 grammar	0	_	_	_	4	elaboration_r	_	_
+6	[ 1 ] – [ 11 ] .	2	_	_	_	2	explanation_r	_	_
+7	Of interest here , studies suggest	1	_	_	_	8	attribution_r	_	_
+8	that ,	1	_	_	_	14	adversative_r_r	_	_
+9	despite the difficulties	0	_	_	_	8	same-unit_m	_	_
+10	in acquiring L2 grammar ,	0	_	_	_	9	elaboration_r	_	_
+11	adult learners can approximate native - like levels of use and neurocognitive processing	1	_	_	_	9	same-unit_m	_	_
+12	[ 12 ] – [ 15 ] .	2	_	_	_	9	explanation_r	_	_
+13	However , it is not enough to have attained such native - like levels .	0	_	_	_	14	adversative_r_r	_	_
+14	Crucially , it is also desirable to retain them , even in the absence of continued practice or exposure to the L2 .	0	_	_	_	0	ROOT	_	_
+15	In fact , substantial periods	2	_	_	_	14	elaboration_r	_	_
+16	( months to years )	0	_	_	_	15	elaboration_r	_	_
+17	of limited or no exposure	1	_	_	_	15	same-unit_m	_	_
+18	following L2 training	0	_	_	_	17	elaboration_r	_	_
+19	are not uncommon ,	2	_	_	_	15	same-unit_m	_	_
+20	and may even be the norm	3	_	_	_	15	joint_m	_	_
+21	[ 16 ] .	0	_	_	_	20	explanation_r	_	_
+22	Such a scenario may be found in different situations ,	4	_	_	_	15	elaboration_r	_	_
+23	including when one studies a language in a classroom	0	_	_	_	22	elaboration_r	_	_
+24	and then stops taking classes	0	_	_	_	23	joint_m	_	_
+25	[ 17 ] , [ 18 ]	0	_	_	_	24	explanation_r	_	_
+26	and when one is immersed in a foreign language setting	1	_	_	_	23	joint_m	_	_
+27	and then moves away	0	_	_	_	26	joint_m	_	_
+28	[ 19 ] .	1	_	_	_	26	explanation_r	_	_
+29	In the present study , we examine the outcomes of such a period of no exposure on the neurocognition of L2 grammar :	5	_	_	_	15	joint_m	_	_
+30	that is , whether a substantial period of no exposure leads to decreased proficiency and / or less native - like neural processes	0	_	_	_	29	elaboration_r	_	_
+31	( “ use it	0	_	_	_	30	elaboration_r	_	_
+32	or lose it ”	0	_	_	_	31	joint_m	_	_
+33	[ 20 ] ) ,	1	_	_	_	30	explanation_r	_	_
+34	no such changes ,	2	_	_	_	30	same-unit_m	_	_
+35	or perhaps whether even higher proficiency and / or more native - like processing may be observed .	3	_	_	_	30	joint_m	_	_
+36	Additionally , we test whether any such outcomes might vary as a function of the type of L2 training , in particular between classroom - like and immersion - like contexts .	1	_	_	_	29	joint_m	_	_
+37	Previous Research	5	_	_	_	38	organization_r	_	_
+38	We are aware of six studies	5	_	_	_	14	joint_m	_	_
+39	designed	0	_	_	_	38	elaboration_r	_	_
+40	to investigate the effects of a substantial period of limited exposure	0	_	_	_	39	purpose_r	_	_
+41	following adult L2 training	0	_	_	_	40	elaboration_r	_	_
+42	[ 17 ] , [ 18 ] , [ 21 ] – [ 24 ] ,	1	_	_	_	40	explanation_r	_	_
+43	all of which were restricted to the examination of behavioral	1	_	_	_	38	same-unit_m	_	_
+44	( performance )	0	_	_	_	43	restatement_r_r	_	_
+45	outcomes .	1	_	_	_	43	same-unit_m	_	_
+46	( Note	2	_	_	_	47	attribution_r	_	_
+47	that we do not consider case studies , purely observational data , or research on L2s	2	_	_	_	38	elaboration_r	_	_
+48	acquired by children ;	0	_	_	_	47	elaboration_r	_	_
+49	for a comprehensive review , see [ 16 ] ) .	1	_	_	_	47	elaboration_r	_	_
+50	The six studies tested L2 learners after periods of 1 month to 50 years of limited L2 exposure , mainly on general language skills	3	_	_	_	38	elaboration_r	_	_
+51	[ 17 ] , [ 18 ] , [ 21 ] , [ 23 ] , [ 24 ] ,	0	_	_	_	50	explanation_r	_	_
+52	though also on more specific paradigms	1	_	_	_	50	same-unit_m	_	_
+53	meant to target aspects of grammatical abilities	0	_	_	_	52	elaboration_r	_	_
+54	[ 17 ] , [ 18 ]	0	_	_	_	53	explanation_r	_	_
+55	or lexical abilities	1	_	_	_	52	same-unit_m	_	_
+56	[ 22 ] , [ 23 ] .	0	_	_	_	55	explanation_r	_	_
+57	These language measures were compared in most studies to the same measures in a different set of subjects	2	_	_	_	50	elaboration_r	_	_
+58	who had not experienced a period of limited exposure	0	_	_	_	57	elaboration_r	_	_
+59	[ 17 ] , [ 18 ] , [ 22 ] , [ 23 ] ,	1	_	_	_	57	explanation_r	_	_
+60	or to retrospective ratings of the same subjects	2	_	_	_	57	joint_m	_	_
+61	[ 21 ] ,	0	_	_	_	60	explanation_r	_	_
+62	with only one longitudinal study	3	_	_	_	57	adversative_m	_	_
+63	testing the same subjects before and after a period of limited exposure	0	_	_	_	62	elaboration_r	_	_
+64	[ 24 ] .	1	_	_	_	62	explanation_r	_	_
+65	Across the studies , the periods of limited exposure followed either classroom training	3	_	_	_	50	joint_m	_	_
+66	[ 17 ] , [ 18 ] , [ 22 ] , [ 24 ]	0	_	_	_	65	explanation_r	_	_
+67	or mixed classroom and immersion training	1	_	_	_	65	same-unit_m	_	_
+68	[ 21 ] , [ 23 ] , [ 24 ] .	0	_	_	_	67	explanation_r	_	_
+69	The training lasted varying lengths of time , apparently usually in the range of a few years ,	2	_	_	_	65	joint_m	_	_
+70	and resulted in seemingly varying proficiency levels	0	_	_	_	69	joint_m	_	_
+71	( though not directly measured , except by [ 24 ] )	0	_	_	_	70	adversative_r_r	_	_
+72	prior to the period of limited exposure .	1	_	_	_	70	same-unit_m	_	_
+73	Overall , the results of the six studies have been taken to suggest the following .	5	_	_	_	74	organization_r	_	_
+74	A period of limited exposure generally leads to attrition	4	_	_	_	38	joint_m	_	_
+75	( loss )	0	_	_	_	74	restatement_r_r	_	_
+76	of L2 performance or knowledge	1	_	_	_	74	same-unit_m	_	_
+77	[ 17 ] , [ 18 ] , [ 21 ] , [ 23 ] .	2	_	_	_	74	explanation_r	_	_
+78	Such loss has been observed after as little as a few months of limited exposure , e.g. , after a 1 - 7 month	3	_	_	_	74	explanation_r	_	_
+79	[ 23 ]	0	_	_	_	78	explanation_r	_	_
+80	or 6 month delay	1	_	_	_	78	same-unit_m	_	_
+81	[ 21 ] ,	0	_	_	_	80	explanation_r	_	_
+82	as well as after 2 years	2	_	_	_	78	joint_m	_	_
+83	[ 18 ] ,	0	_	_	_	82	explanation_r	_	_
+84	though in one case it was observed only by 3 - 5 years , and not earlier	1	_	_	_	82	adversative_r_r	_	_
+85	[ 17 ] .	0	_	_	_	84	explanation_r	_	_
+86	Although attrition may take place within the first few years ,	3	_	_	_	88	adversative_r_r	_	_
+87	some studies suggest	1	_	_	_	88	attribution_r	_	_
+88	that it then appears to level off ,	4	_	_	_	74	joint_m	_	_
+89	with no further losses occurring	0	_	_	_	88	elaboration_r	_	_
+90	[ 17 ] , [ 18 ] .	2	_	_	_	88	explanation_r	_	_
+91	Higher levels of proficiency	4	_	_	_	88	joint_m	_	_
+92	( or exposure )	0	_	_	_	91	restatement_r_r	_	_
+93	may be associated with less attrition	1	_	_	_	91	same-unit_m	_	_
+94	[ 17 ] , [ 18 ] , [ 21 ] , [ 23 ]	2	_	_	_	91	explanation_r	_	_
+95	or even with no observed losses	3	_	_	_	91	joint_m	_	_
+96	[ 21 ] .	0	_	_	_	95	explanation_r	_	_
+97	Moreover , one study found no changes at all in performance , across proficiency levels , after either 2 or 4 years of limited exposure	5	_	_	_	88	joint_m	_	_
+98	[ 22 ] .	0	_	_	_	97	explanation_r	_	_
+99	Finally , in some cases a gain in performance has been observed :	6	_	_	_	88	joint_m	_	_
+100	after 1.5 years of limited exposure in one study , particularly for L2 learners with immersion as well as classroom training	0	_	_	_	99	context_r	_	_
+101	[ 24 ] ,	0	_	_	_	100	explanation_r	_	_
+102	and in another study after 2 years ,	1	_	_	_	99	joint_m	_	_
+103	though only for some abilities , such as listening and reading comprehension	0	_	_	_	102	adversative_r_r	_	_
+104	[ 18 ] .	0	_	_	_	103	explanation_r	_	_
+105	It remains unclear what might explain such gains ,	7	_	_	_	88	joint_m	_	_
+106	which have been attributed to motivation and to L2 experience during the period of ostensibly limited exposure	0	_	_	_	105	elaboration_r	_	_
+107	[ 24 ] ,	0	_	_	_	106	explanation_r	_	_
+108	or to factors	1	_	_	_	105	joint_m	_	_
+109	related to general maturation , cognitive development , or continued academic training	0	_	_	_	108	elaboration_r	_	_
+110	[ 18 ] .	1	_	_	_	108	explanation_r	_	_

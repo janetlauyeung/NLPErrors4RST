@@ -1,0 +1,129 @@
+1	Falling	3	_	_	_	2	Organization_r	_	_
+2	You ’re on the 236th - level Kaiserstrasse moving sidewalk	0	_	_	_	0	ROOT	_	_
+3	when you see her .	0	_	_	_	2	Context_r	_	_
+4	You ’re leaning on the railing ,	1	_	_	_	2	Elaboration_r	_	_
+5	waiting to ask Derya about a job ,	0	_	_	_	4	Purpose_r	_	_
+6	watching the glittering stream of mites	1	_	_	_	4	Causal_r	_	_
+7	that arc over half the sky —	0	_	_	_	6	Elaboration_r	_	_
+8	flying up	1	_	_	_	6	Elaboration_r	_	_
+9	to rewind their nanosprings in the stratospheric sunlight ,	0	_	_	_	8	Purpose_r	_	_
+10	flying down	1	_	_	_	8	Joint_m	_	_
+11	to make Frankfurt run .	0	_	_	_	10	Purpose_r	_	_
+12	You never get tired of watching them .	2	_	_	_	6	Evaluation_r	_	_
+13	She ’s on the Holbeinsteg bridge .	2	_	_	_	54	Context_r	_	_
+14	Someone ’s hung it up here —	0	_	_	_	13	Context_r	_	_
+15	a hundred meters of clean gray and green twentieth - century modernism ,	0	_	_	_	14	Elaboration_r	_	_
+16	plucked up from the river Main	0	_	_	_	15	Elaboration_r	_	_
+17	and suspended in the chilly air 2,360 meters up , between a lump of wooded parkland and a cluster of antique subway cars .	0	_	_	_	16	Joint_m	_	_
+18	She ’s wearing a 1950s sundress and a broad - brimmed hat ,	1	_	_	_	13	Elaboration_r	_	_
+19	and it ’s like an essay on the last century —	0	_	_	_	18	Evaluation_r	_	_
+20	the austere steel bridge , the bright blobs of subway graffiti , and her yellow dress ,	0	_	_	_	19	Elaboration_r	_	_
+21	flapping against her legs	0	_	_	_	20	Elaboration_r	_	_
+22	as she climbs over the bridge ’s rail .	0	_	_	_	21	Context_r	_	_
+23	A picture of elegance and style from the age of money , violence , and simplicity .	1	_	_	_	18	Evaluation_r	_	_
+24	She ’s a strawberry blonde , slim ,	2	_	_	_	18	Joint_m	_	_
+25	her skin blank and virginal as new butter .	0	_	_	_	24	Joint_m	_	_
+26	She ’s beyond the rail now ,	1	_	_	_	24	Joint_m	_	_
+27	hanging out over the mountain - high drop .	0	_	_	_	26	Elaboration_r	_	_
+28	Thin translucent shadows move across her —	1	_	_	_	26	Joint_m	_	_
+29	the shadows of the neosilk - and - nanotube filaments	0	_	_	_	28	Elaboration_r	_	_
+30	that hang the city from the hundreds of five - kilometer - high towers	0	_	_	_	29	Elaboration_r	_	_
+31	that encircle it .	0	_	_	_	30	Elaboration_r	_	_
+32	( A civic agent notices you noticing ,	1	_	_	_	35	Organization_r	_	_
+33	and attaches itself to your infospace ,	0	_	_	_	32	Joint_m	_	_
+34	whispering statistics —	0	_	_	_	33	Elaboration_r	_	_
+35	“ Each object ’s suspension must weather a class 5 hurricane and the destruction of 80 % of the towers ” —	2	_	_	_	13	Context_r	_	_
+36	“ Frankfurt ’s current population is stable at 53 million ” —	0	_	_	_	35	Joint_m	_	_
+37	“ Average age 62 ,	0	_	_	_	36	Elaboration_r	_	_
+38	birth rate 0.22 ,	0	_	_	_	37	Joint_m	_	_
+39	net immigration of half a million a year ” —	0	_	_	_	38	Joint_m	_	_
+40	“ Current personal squatright :	1	_	_	_	37	Joint_m	_	_
+41	311 cubic meters per resident ” —	0	_	_	_	40	Elaboration_r	_	_
+42	until you brush it away . )	1	_	_	_	36	Context_r	_	_
+43	You ’re watching her lean out .	1	_	_	_	54	Causal_r	_	_
+44	The wind whips her hair ,	0	_	_	_	43	Joint_r	_	_
+45	ruffles the skirt around her knees .	0	_	_	_	44	Joint_m	_	_
+46	She must be a tourist .	1	_	_	_	43	Evaluation_r	_	_
+47	You remember your first trip to the upper levels :	1	_	_	_	48	Organization_r	_	_
+48	leaning over the edge into the angry swarm of mites ,	0	_	_	_	46	Explanation_r	_	_
+49	whirring	0	_	_	_	48	Mode_r	_	_
+50	and buzzing warnings	0	_	_	_	49	Joint_m	_	_
+51	and shoving you back like a million mosquito chaperones .	0	_	_	_	50	Joint_m	_	_
+52	Everyone tries it once —	2	_	_	_	48	Adversative_r	_	_
+53	Except that there are n’t any mites around her .	0	_	_	_	52	Adversative_r	_	_
+54	You clutch the railing .	2	_	_	_	2	Joint_m	_	_
+55	Hot , animal fear surges in your chest .	0	_	_	_	54	Joint_m	_	_
+56	She looks up at you	0	_	_	_	54	Joint_m	_	_
+57	and , across the gap of forty meters , smiles a brilliant , heartbreaking smile .	0	_	_	_	54	Joint_m	_	_
+58	Then she lets go and falls .	0	_	_	_	54	Joint_m	_	_
+59	You scream .	0	_	_	_	58	Causal_r	_	_
+60	“ Fucking airsurfers , ”	3	_	_	_	54	Causal_r	_	_
+61	says Derya .	0	_	_	_	60	Attribution_r	_	_
+62	He steps off the moving sidewalk near you :	1	_	_	_	60	Context_r	_	_
+63	tall , hook - nosed , the fashionable whorls of pox and acne making constellations of his cheeks and chest ;	0	_	_	_	62	Elaboration_r	_	_
+64	the glowing , formal tattoos of his committees and lifebrands adorning his massive triceps .	0	_	_	_	63	Joint_m	_	_
+65	You swallow on a dry throat .	2	_	_	_	60	Joint_m	_	_
+66	Derya , of all people , hearing you scream !	0	_	_	_	65	Evaluation_r	_	_
+67	He gives you a hooded look .	1	_	_	_	65	Joint_r	_	_
+68	“ They infect themselves with some designer virus -	0	_	_	_	67	Context_r	_	_
+69	it lets them hack the city ’s person - recognition systems .	0	_	_	_	68	Elaboration_r	_	_
+70	So the mites do n’t see them	0	_	_	_	69	Causal_r	_	_
+71	when they jump .	0	_	_	_	70	Context_r	_	_
+72	Watch — ”	1	_	_	_	67	Explanation_r	_	_
+73	She ’s swept past the whalelike oval of the public pool on the 202nd , past the sloping mandala of the Google of offices on the 164th .	3	_	_	_	60	Joint_m	_	_
+74	At the 131st , below her , is the old Stock Exchange ,	0	_	_	_	73	Joint_m	_	_
+75	hung upside - down now as a hipster den .	0	_	_	_	74	Elaboration_r	_	_
+76	Now the mites are finally closing in .	2	_	_	_	77	Causal_r	_	_
+77	A silver swarm coalesces around the 164th ,	1	_	_	_	73	Causal_r	_	_
+78	and she vanishes into it ,	0	_	_	_	77	Causal_m	_	_
+79	like a snip of scallion into cloudy miso soup .	0	_	_	_	78	Mode_r	_	_
+80	When the cloud disperses ,	0	_	_	_	81	Context_r	_	_
+81	she ’s standing on one of the Stock Exchange ’s upside - down overhangs .	1	_	_	_	77	Joint_m	_	_
+82	She waves , antlike ,	1	_	_	_	81	Joint_m	_	_
+83	then crawls through a dormer window .	0	_	_	_	82	Joint_m	_	_
+84	“ It ’s not funny , ”	2	_	_	_	81	Evaluation_r	_	_
+85	Derya says .	0	_	_	_	84	Attribution_r	_	_
+86	“ They ’re a huge drain on emergency preparedness .	1	_	_	_	84	Explanation_r	_	_
+87	Ripple effects are causing project slowdowns ... ”	0	_	_	_	86	Causal_r	_	_
+88	“ Freeloaders drive systemic evolution , ”	3	_	_	_	81	Elaboration_r	_	_
+89	you find yourself saying .	0	_	_	_	88	Attribution_r	_	_
+90	“ Do n’t you quote the founders at me , ”	2	_	_	_	95	Organization_r	_	_
+91	Derya snaps .	0	_	_	_	90	Attribution_r	_	_
+92	“ The Free Society is fragile .	1	_	_	_	95	Explanation_r	_	_
+93	The minute enough people find anticontributive behavior cool ,	0	_	_	_	94	Contingency_r	_	_
+94	the party ’s over —	0	_	_	_	95	Organization_r	_	_
+95	it ’s back to capitalist competition or state control . ”	1	_	_	_	88	Evaluation_r	_	_
+96	He stares	3	_	_	_	95	Causal_m	_	_
+97	until you meet his eye .	0	_	_	_	96	Context_r	_	_
+98	“ You even talk to those people -	1	_	_	_	101	Topic_r	_	_
+99	are you paying attention ? —	0	_	_	_	98	Restatement_r	_	_
+100	you even talk to them ,	0	_	_	_	101	Contingency_r	_	_
+101	your rep will be trashed on all the major servers .	1	_	_	_	96	Elaboration_r	_	_
+102	You wo n’t work ,	0	_	_	_	104	Adversative_r	_	_
+103	you wo n’t party ,	0	_	_	_	102	Restatement_m	_	_
+104	you ’ll be defriended by every one of your tribes .	2	_	_	_	101	Joint_m	_	_
+105	Got it ? ”	1	_	_	_	104	Organization_r	_	_
+106	Her broad - brimmed hat is still sailing on the wind .	2	_	_	_	73	Joint_m	_	_
+107	The mites missed it .	0	_	_	_	106	Causal_r	_	_
+108	It cuts between the towers of the 50th .	1	_	_	_	106	Context_r	_	_
+109	The upside - down trading floor is deserted .	2	_	_	_	106	Joint_m	_	_
+110	There are heaps of yellowed euros and deutschmarks dumped here , like snowdrifts .	0	_	_	_	109	Explanation_r	_	_
+111	Wood panel , marble .	1	_	_	_	109	Elaboration_r	_	_
+112	Silence .	2	_	_	_	109	Joint_m	_	_
+113	And the air is strangely clear .	0	_	_	_	112	Joint_m	_	_
+114	You realize :	0	_	_	_	115	Organization_r	_	_
+115	no mites .	0	_	_	_	116	Organization_r	_	_
+116	The city has no eyes or ears here .	0	_	_	_	113	Causal_r	_	_
+117	You walk through empty , miteless rooms ,	1	_	_	_	113	Joint_m	_	_
+118	stepping around light fixtures .	0	_	_	_	117	Mode_r	_	_
+119	Then she ’s there , in a doorway .	1	_	_	_	117	Joint_m	_	_
+120	Her eyes , bright blue , radiant .	0	_	_	_	119	Elaboration_r	_	_
+121	Her smile , with that chaste yellow dress , so bashful .	0	_	_	_	120	Joint_m	_	_
+122	She comes to you .	1	_	_	_	127	Context_r	_	_
+123	“ You want it ? ”	0	_	_	_	127	Topic_r	_	_
+124	she says .	0	_	_	_	123	Attribution_r	_	_
+125	“ You want to be infected ?	1	_	_	_	123	Elaboration_r	_	_
+126	You want to fly ? ”	0	_	_	_	125	Joint_m	_	_
+127	You nod .	1	_	_	_	119	Joint_m	_	_
+128	Eyes closing ,	2	_	_	_	127	Joint_m	_	_
+129	she leans in for the kiss .	0	_	_	_	128	Joint_m	_	_

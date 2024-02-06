@@ -1,0 +1,235 @@
+1	What 'd you do Sabrina ?	0	_	_	_	2	Topic_r	_	_
+2	Nothing .	1	_	_	_	55	Topic_r	_	_
+3	I left the phone in my bedroom last night ,	0	_	_	_	4	Causal_r	_	_
+4	and so I 'm grounded from the phone .	2	_	_	_	9	Context_r	_	_
+5	It was an accident .	1	_	_	_	4	Context_r	_	_
+6	You guys are always in trouble .	0	_	_	_	5	Causal_r	_	_
+7	What 's up with that ?	0	_	_	_	8	Topic_r	_	_
+8	Mom 's a bitch .	0	_	_	_	6	Evaluation_r	_	_
+9	Get your feet off of there .	0	_	_	_	55	Context_r	_	_
+10	Get your feet off of there .	0	_	_	_	9	Restatement_m	_	_
+11	You 're so stupid	1	_	_	_	16	Context_r	_	_
+12	thinking	0	_	_	_	13	Evaluation_r	_	_
+13	I spent the night .	0	_	_	_	11	Evaluation_r	_	_
+14	I came home last night	0	_	_	_	16	Context_r	_	_
+15	and told you .	0	_	_	_	14	Joint_m	_	_
+16	Kendra , just let it go .	1	_	_	_	9	Joint_m	_	_
+17	You —	1	_	_	_	18	Organization_r	_	_
+18	No ,	3	_	_	_	9	Causal_r	_	_
+19	because she does n't —	0	_	_	_	18	Causal_r	_	_
+20	All	1	_	_	_	24	Organization_r	_	_
+21	you said last night	0	_	_	_	20	Elaboration_r	_	_
+22	was —	1	_	_	_	20	Same-Unit_m	_	_
+23	She thinks	0	_	_	_	24	Attribution_r	_	_
+24	I spent the night in my jeans —	0	_	_	_	19	Elaboration_r	_	_
+25	Kim was n't staying the night .	1	_	_	_	43	Causal_r	_	_
+26	If I did spend the night ,	0	_	_	_	28	Contingency_r	_	_
+27	and I was trying to lie ,	0	_	_	_	26	Context_m	_	_
+28	I would give up ,	0	_	_	_	25	Explanation_r	_	_
+29	cause then I would n't care ,	1	_	_	_	28	Causal_r	_	_
+30	cause I knew	0	_	_	_	31	Attribution_r	_	_
+31	I deserved it .	0	_	_	_	29	Causal_r	_	_
+32	But I did n't spend the night ,	2	_	_	_	28	Adversative_m	_	_
+33	and I do n't deserve this .	0	_	_	_	32	Evaluation_r	_	_
+34	Kim could n't spend the night ,	1	_	_	_	25	Restatement_r	_	_
+35	I told you .	0	_	_	_	34	Attribution_r	_	_
+36	She could ,	2	_	_	_	38	Adversative_r	_	_
+37	but then af- —	0	_	_	_	38	Organization_r	_	_
+38	I wanted to stay at the game longer .	2	_	_	_	25	Elaboration_r	_	_
+39	And her mom wanted to take her home early ,	1	_	_	_	41	Causal_r	_	_
+40	and I 'm like ,	0	_	_	_	41	Attribution_r	_	_
+41	no let 's stay longer .	1	_	_	_	38	Causal_r	_	_
+42	But her mom would n't let her .	2	_	_	_	41	Adversative_r	_	_
+43	And so she went home	2	_	_	_	18	Restatement_m	_	_
+44	and , I was like ,	2	_	_	_	45	Attribution_r	_	_
+45	I 'll call you	0	_	_	_	43	Joint_m	_	_
+46	when I get home ,	0	_	_	_	45	Context_r	_	_
+47	and then you come over .	1	_	_	_	45	Joint_m	_	_
+48	And she goes ,	0	_	_	_	49	Attribution_r	_	_
+49	no just spend the night .	3	_	_	_	45	Context_r	_	_
+50	We 'll do this some other weekend .	1	_	_	_	49	Elaboration_r	_	_
+51	Okay cool ,	0	_	_	_	52	Causal_r	_	_
+52	cause she had to go bowling in the morning .	4	_	_	_	9	Evaluation_r	_	_
+53	Talk to Melanie 's mom .	5	_	_	_	9	Context_r	_	_
+54	Her mom would know .	0	_	_	_	53	Explanation_r	_	_
+55	I 'll have Melanie call you .	0	_	_	_	0	ROOT	_	_
+56	Oh .	0	_	_	_	57	Organization_r	_	_
+57	Her mom call you ,	0	_	_	_	67	Adversative_r	_	_
+58	Right , right .	1	_	_	_	57	Organization_r	_	_
+59	Her mom would n't lie .	1	_	_	_	60	Explanation_r	_	_
+60	Right , Melanie will call me	2	_	_	_	57	Joint_m	_	_
+61	to confirm your lie .	0	_	_	_	60	Purpose_r	_	_
+62	Melanie lies	0	_	_	_	63	Adversative_r	_	_
+63	but —	1	_	_	_	64	Explanation_r	_	_
+64	You 'll get a hold of her first .	2	_	_	_	60	Adversative_r	_	_
+65	I know	0	_	_	_	66	Attribution_r	_	_
+66	how that works .	0	_	_	_	64	Evaluation_r	_	_
+67	No , Melanie 's mom .	2	_	_	_	75	Context_r	_	_
+68	I thought	0	_	_	_	69	Attribution_r	_	_
+69	Melanie did n't have a phone .	1	_	_	_	70	Adversative_r	_	_
+70	But I 'm supposed to call Melanie 's mom .	1	_	_	_	67	Adversative_r	_	_
+71	I did n't want you to have her phone number .	0	_	_	_	70	Restatement_m	_	_
+72	Yeah , another lie .	2	_	_	_	70	Evaluation_r	_	_
+73	Remember ?	0	_	_	_	74	Topic_r	_	_
+74	That was a long time ago .	0	_	_	_	72	Organization_r	_	_
+75	Now I 'm supposed to re- —	2	_	_	_	55	Context_r	_	_
+76	A- and I 'm supposed to trust you every time	0	_	_	_	75	Organization_r	_	_
+77	you tell the truth .	0	_	_	_	76	Context_r	_	_
+78	But how am I supposed to know	0	_	_	_	79	Attribution_r	_	_
+79	when you 're telling the truth ?	4	_	_	_	80	Topic_r	_	_
+80	That was a joke .	1	_	_	_	75	Adversative_r	_	_
+81	That was a joke .	0	_	_	_	80	Restatement_m	_	_
+82	Yeah ,	0	_	_	_	80	Restatement_m	_	_
+83	and I 'm supposed to read your mind	2	_	_	_	80	Joint_m	_	_
+84	and know what you 're joking about .	0	_	_	_	83	Joint_m	_	_
+85	No	0	_	_	_	86	Adversative_r	_	_
+86	but , it was a joke .	3	_	_	_	80	Adversative_r	_	_
+87	You know Kendra , y- —	1	_	_	_	89	Organization_r	_	_
+88	I do n't know	0	_	_	_	89	Attribution_r	_	_
+89	how many times I got ta tell you ,	5	_	_	_	80	Organization_r	_	_
+90	once you lie ,	0	_	_	_	91	Context_r	_	_
+91	once you lie —	2	_	_	_	89	Context_r	_	_
+92	Are they having a carwash ?	1	_	_	_	94	Topic_r	_	_
+93	You lose th- complete trust .	0	_	_	_	92	Causal_r	_	_
+94	No .	1	_	_	_	97	Topic_r	_	_
+95	Yeah they are .	0	_	_	_	94	Restatement_r	_	_
+96	Yeah that 's what it is a —	2	_	_	_	94	Restatement_m	_	_
+97	We should have a carwash there .	3	_	_	_	55	Joint_m	_	_
+98	Carwash and a bakesale .	0	_	_	_	97	Joint_m	_	_
+99	They 're not getting any people though .	2	_	_	_	97	Adversative_m	_	_
+100	Mm .	0	_	_	_	101	Organization_r	_	_
+101	Hot out .	0	_	_	_	99	Evaluation_r	_	_
+102	What 's that supposed to be ?	1	_	_	_	103	Topic_r	_	_
+103	They 're making it into something .	3	_	_	_	55	Joint_m	_	_
+104	You 're not going anywhere for a while .	0	_	_	_	103	Joint_m	_	_
+105	It 's a bookstore .	0	_	_	_	104	Context_r	_	_
+106	Really ?	2	_	_	_	107	Topic_r	_	_
+107	God , I did n't spend the night ,	2	_	_	_	103	Evaluation_r	_	_
+108	that 's what makes me so mad ,	0	_	_	_	109	Causal_r	_	_
+109	I 'm grounded for nothing .	0	_	_	_	107	Causal_r	_	_
+110	I was home all night last night ,	0	_	_	_	113	Context_r	_	_
+111	I came home	0	_	_	_	110	Context_m	_	_
+112	and told you .	0	_	_	_	111	Joint_m	_	_
+113	And even my cuffs and everything 's on my bed .	1	_	_	_	107	Adversative_r	_	_
+114	So stupid .	1	_	_	_	113	Evaluation_r	_	_
+115	Next time	3	_	_	_	55	Joint_m	_	_
+116	if I leave in the morning ,	0	_	_	_	117	Contingency_r	_	_
+117	I 'll wake you up .	0	_	_	_	115	Same-Unit_r	_	_
+118	Mom I 'm awake now ,	0	_	_	_	119	Joint_r	_	_
+119	I 'm leaving .	1	_	_	_	115	Restatement_m	_	_
+120	Well you woke me up last night ,	4	_	_	_	124	Context_r	_	_
+121	to tell me	0	_	_	_	122	Joint_r	_	_
+122	Kim was n't spending the night .	0	_	_	_	120	Purpose_r	_	_
+123	I do n't know	1	_	_	_	124	Attribution_r	_	_
+124	why you could n't wake me up in the morning ,	1	_	_	_	119	Context_r	_	_
+125	to tell me	0	_	_	_	126	Attribution_r	_	_
+126	that you were going .	0	_	_	_	124	Purpose_r	_	_
+127	You guys wake me up every time	2	_	_	_	124	Explanation_r	_	_
+128	I 'm trying to take a little nap .	0	_	_	_	127	Context_r	_	_
+129	What if we are awake ?	2	_	_	_	130	Topic_r	_	_
+130	I was tired this morning .	3	_	_	_	124	Evaluation_r	_	_
+131	So much fun .	0	_	_	_	130	Causal_r	_	_
+132	My hair looks like a mess .	1	_	_	_	130	Joint_m	_	_
+133	I left it in a ponytail ,	0	_	_	_	132	Context_r	_	_
+134	I did n't even have time	1	_	_	_	132	Joint_m	_	_
+135	to take a shower .	0	_	_	_	134	Purpose_r	_	_
+136	I think	1	_	_	_	138	Attribution_r	_	_
+137	if I spent the night	0	_	_	_	138	Contingency_r	_	_
+138	I would 've took a shower .	2	_	_	_	132	Joint_m	_	_
+139	All	2	_	_	_	154	Organization_r	_	_
+140	I need	0	_	_	_	139	Elaboration_r	_	_
+141	is your signature	1	_	_	_	139	Same-Unit_m	_	_
+142	so I can play the volleyball .	2	_	_	_	139	Purpose_r	_	_
+143	On the volleyball team .	0	_	_	_	142	Elaboration_r	_	_
+144	No .	3	_	_	_	139	Evaluation_r	_	_
+145	No .	0	_	_	_	144	Restatement_r	_	_
+146	Why ?	1	_	_	_	147	Topic_r	_	_
+147	It 's just volleyball .	4	_	_	_	139	Evaluation_r	_	_
+148	It 's f- like on Saturdays and Wednesdays .	0	_	_	_	147	Elaboration_r	_	_
+149	It 's for church .	0	_	_	_	148	Joint_m	_	_
+150	It 's fun .	0	_	_	_	149	Evaluation_r	_	_
+151	You have practice every Wednesday .	1	_	_	_	149	Elaboration_r	_	_
+152	Yeah	0	_	_	_	151	Organization_r	_	_
+153	but , not at uh —	1	_	_	_	151	Adversative_r	_	_
+154	This is at six thirty .	2	_	_	_	119	Adversative_m	_	_
+155	I do n't care .	0	_	_	_	154	Evaluation_r	_	_
+156	And Susan 's going to it too .	1	_	_	_	154	Context_r	_	_
+157	Mm .	3	_	_	_	159	Organization_r	_	_
+158	Who cut the grass ?	1	_	_	_	159	Topic_r	_	_
+159	Marlena did it .	2	_	_	_	115	Organization_r	_	_
+160	Marlena did it a long time ago ,	0	_	_	_	161	Adversative_r	_	_
+161	but it has n't been watered .	0	_	_	_	162	Causal_r	_	_
+162	It 's dying .	0	_	_	_	159	Context_r	_	_
+163	I know .	2	_	_	_	159	Organization_r	_	_
+164	Gon na rip your purse .	3	_	_	_	55	Joint_m	_	_
+165	I know .	0	_	_	_	164	Evaluation_r	_	_
+166	See	2	_	_	_	169	Attribution_r	_	_
+167	if I spent the night mom ,	1	_	_	_	169	Context_r	_	_
+168	you 'd think	0	_	_	_	169	Attribution_r	_	_
+169	I 'd still be in my uniform ?	3	_	_	_	176	Topic_r	_	_
+170	I know	0	_	_	_	171	Attribution_r	_	_
+171	she 's —	2	_	_	_	174	Organization_r	_	_
+172	J- she —	1	_	_	_	171	Restatement_m	_	_
+173	See	1	_	_	_	174	Attribution_r	_	_
+174	now she 's trying to think of ways	2	_	_	_	176	Explanation_r	_	_
+175	to cover her tracks .	0	_	_	_	174	Purpose_r	_	_
+176	I know what you 're doing .	3	_	_	_	55	Joint_m	_	_
+177	Seen this before .	1	_	_	_	178	Mode_r	_	_
+178	I 'm hungry .	0	_	_	_	176	Elaboration_r	_	_
+179	Shit .	0	_	_	_	178	Evaluation_r	_	_
+180	I love your jeans .	1	_	_	_	176	Joint_m	_	_
+181	Cause I wanted to go to the bathroom	0	_	_	_	180	Causal_r	_	_
+182	when you 're done .	0	_	_	_	181	Context_r	_	_
+183	Anyways , they were not .	1	_	_	_	185	Organization_r	_	_
+184	Did you get a Sawzall ?	0	_	_	_	185	Topic_r	_	_
+185	Yes , it 's right here .	3	_	_	_	55	Joint_m	_	_
+186	Oh .	0	_	_	_	187	Organization_r	_	_
+187	I got the blades .	2	_	_	_	185	Joint_m	_	_
+188	They 're right here .	1	_	_	_	187	Restatement_r	_	_
+189	Do you remember the uh , program on TV , about Hantavirus ?	2	_	_	_	187	Elaboration_r	_	_
+190	About what virus ?	0	_	_	_	191	Topic_r	_	_
+191	Hantavirus .	0	_	_	_	189	Elaboration_r	_	_
+192	Hutter ?	0	_	_	_	193	Organization_r	_	_
+193	What 's that about ?	2	_	_	_	196	Topic_r	_	_
+194	I do n't re- –	0	_	_	_	195	Organization_r	_	_
+195	I do n't remember .	1	_	_	_	196	Adversative_r	_	_
+196	It 's the one from the dead mice .	3	_	_	_	185	Organization_r	_	_
+197	Oh , yeah .	0	_	_	_	196	Organization_r	_	_
+198	Is it , is it all over now ?	2	_	_	_	204	Topic_r	_	_
+199	Is it for real now ?	0	_	_	_	198	Restatement_m	_	_
+200	Is it in here ?	0	_	_	_	199	Joint_m	_	_
+201	Is it in the United States now ?	0	_	_	_	200	Joint_m	_	_
+202	They said ,	1	_	_	_	204	Attribution_r	_	_
+203	they already determined	0	_	_	_	204	Attribution_r	_	_
+204	it was in like eighteen different states .	4	_	_	_	185	Elaboration_r	_	_
+205	What ?	0	_	_	_	206	Restatement_r	_	_
+206	So ?	0	_	_	_	207	Topic_r	_	_
+207	The Hantavirus .	3	_	_	_	204	Evaluation_r	_	_
+208	What , what are you g- —	0	_	_	_	209	Joint_r	_	_
+209	Well —	0	_	_	_	210	Organization_r	_	_
+210	So what 're you getting at ?	0	_	_	_	211	Organization_r	_	_
+211	That insulation out there with the mice shit in it ?	0	_	_	_	213	Topic_r	_	_
+212	Did you just wash —	1	_	_	_	211	Joint_r	_	_
+213	Yes .	0	_	_	_	220	Adversative_r	_	_
+214	Really bothers me .	1	_	_	_	213	Evaluation_r	_	_
+215	I kn- —	0	_	_	_	216	Organization_r	_	_
+216	Oh oh I know .	2	_	_	_	213	Evaluation_r	_	_
+217	I mean	1	_	_	_	218	Attribution_r	_	_
+218	that 's the thing	3	_	_	_	213	Restatement_m	_	_
+219	I thought of too .	0	_	_	_	218	Elaboration_r	_	_
+220	Well , it 's all packed up in garbage bags now .	2	_	_	_	221	Context_r	_	_
+221	I did n't even touch it .	0	_	_	_	231	Context_r	_	_
+222	Used a hoe ,	0	_	_	_	221	Adversative_r	_	_
+223	stuffed it .	0	_	_	_	222	Joint_m	_	_
+224	I did n't touch anything .	1	_	_	_	221	Adversative_m	_	_
+225	Do n't touch anything yellow .	0	_	_	_	224	Restatement_r	_	_
+226	Okay ?	3	_	_	_	221	Organization_r	_	_
+227	Not with your gloves or anything .	4	_	_	_	221	Elaboration_r	_	_
+228	Find something else	5	_	_	_	221	Adversative_m	_	_
+229	to pick it up with .	0	_	_	_	228	Purpose_r	_	_
+230	Mhm .	1	_	_	_	228	Organization_r	_	_
+231	Did you — did you put it in a trash bag ?	1	_	_	_	232	Topic_r	_	_
+232	I took that brown trash thing ,	3	_	_	_	55	Joint_m	_	_
+233	and tucked a bag in it .	0	_	_	_	232	Joint_m	_	_
+234	And then I put them in there .	3	_	_	_	55	Joint_m	_	_
+235	Squashed em down .	3	_	_	_	55	Joint_m	_	_
